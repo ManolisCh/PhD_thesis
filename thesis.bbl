@@ -1,0 +1,711 @@
+\begin{thebibliography}{100}
+
+\bibitem{Adams2004}
+Julie~A. Adams, Pramila Rani, and Nilanjan Sarkar.
+\newblock {Mixed initiative interaction and robotic systems}.
+\newblock {\em AAAI Workshop on Supervisory Control of Learning and Adaptive
+  Systems}, Tech. Rep.(WS-04-08):6--13, 2004.
+
+\bibitem{Armstrong2015}
+Miriam~E. Armstrong, Keith~S. Jones, and Elizabeth~A. Schmidlin.
+\newblock {Tele-Operating USAR Robots : Does Driving Performance Increase with
+  Aperture Width or Practice ?}
+\newblock In {\em 59th Annual Meeting of the Human Factors and Ergonomics
+  Society}, pages 1372--1376, 2015.
+
+\bibitem{Backes1994}
+Paul~G. Backes.
+\newblock {Dual-arm supervisory and shared control task description and
+  execution}.
+\newblock {\em Robotics and autonomous systems}, 12(1-2):29--54, 1994.
+
+\bibitem{Baker2004}
+Michael Baker, Robert Casey, Brenden Keyes, and Holly~A. Yanco.
+\newblock {Improved interfaces for human-robot interaction in urban search and
+  rescue}.
+\newblock In {\em IEEE International Conference on Systems, Man and Cybernetics
+  (SMC)}, volume~3, pages 2960--2965, 2004.
+
+\bibitem{Baker2004b}
+Michael Baker and Holly~A. Yanco.
+\newblock {Autonomy mode suggestions for improving human-robot interaction}.
+\newblock In {\em IEEE International Conference on Systems, Man and Cybernetics
+  (SMC)}, volume~3, pages 2948--2953, 2004.
+
+\bibitem{Ballantyne2002}
+G.~H. Ballantyne.
+\newblock {Robotic surgery, telerobotic surgery, telepresence, and
+  telementoring. Review of early clinical results.}
+\newblock {\em Surgical endoscopy}, 16(10):1389--402, 2002.
+
+\bibitem{Beer2014}
+Jenay~M. Beer, Arthur~D. Fisk, and Wendy~A. Rogers.
+\newblock {Toward a Framework for Levels of Robot Autonomy in Human-Robot
+  Interaction}.
+\newblock {\em Journal of Human-Robot Interaction}, 3(2):74--99, 2014.
+
+\bibitem{Berka2007a}
+Chris Berka, Daniel~J. Levendowski, Michelle~N. Lumicao, Alan Yau, Gene Davis,
+  Vladimir~T. Zivkovic, Richard~E. Olmstead, Patrice~D. Tremoulet, and
+  Patrick~L. Craven.
+\newblock {EEG correlates of task engagement and mental workload in vigilance,
+  learning, and memory tasks.}
+\newblock {\em Aviation, space, and environmental medicine}, 78(5):B231--44,
+  may 2007.
+
+\bibitem{Bruemmer2004}
+David~J. Bruemmer, Ronald~L. Boring, Douglas~A. Few, L.~Julie, and Miles~C.
+  Waiton.
+\newblock {“ I Call Shotgun !”: An Evaluation of Mixed-Initiative Control
+  for Novice Users of a Search and Rescue Robot *}.
+\newblock In {\em IEEE Enternational Conference on Systems, Man and Cybernetics
+  (SMC)}, pages 2847--2852, 2004.
+
+\bibitem{Bruemmer2002}
+David~J. Bruemmer, Donald~D. Dudenhoeffer, and Julie~L. Marble.
+\newblock {Dynamic-Autonomy for Urban Search and Rescue}.
+\newblock In {\em AAAI Mobile Robot Competition}, number WS-02-18, pages
+  33--37, 2002.
+
+\bibitem{Bruemmer2005}
+David~J. Bruemmer, Douglas~A. Few, Ronald~L. Boring, Julie~L. Marble, Miles~C.
+  Walton, and Curtis~W. Nielsen.
+\newblock {Shared Understanding for Collaborative Control}.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics - Part A:
+  Systems and Humans}, 35(4):494--504, jul 2005.
+
+\bibitem{Bruemmer2003b}
+David~J. Bruemmer, Julie~L. Marble, Donald~D. Dudenhoeffer, Matthew~O.
+  Anderson, and Mark~D. Mckay.
+\newblock {Mixed-initiative control for remote characterization of hazardous
+  environments}.
+\newblock In {\em 36th Annual Hawaii International Conference on System
+  Sciences}, pages 9 pp.--, 2003.
+
+\bibitem{Bruemmer2008}
+David~J. Bruemmer, Curtis~W. Nielsen, and David~I. Gertman.
+\newblock {How training and experience affect the benefits of autonomy in a
+  dirty-bomb experiment}.
+\newblock In {\em The 3rd ACM/IEEE international conference on Human robot
+  interaction (HRI)}, pages 161--168. ACM Press, 2008.
+
+\bibitem{Burke2004b}
+Jennifer~L. Burke and Robin~R. Murphy.
+\newblock {Human-Robot Interaction in USAR technical search: Two heads are
+  better than one}.
+\newblock In {\em IEEE International Workshop on Robot and Human Interactive
+  Communication (RO-MAN)}, pages 307--312, 2004.
+
+\bibitem{Burke2004a}
+Jennifer~L. Burke, Robin~R. Murphy, Michael~D. Coovert, and Dawn~L. Riddle.
+\newblock {\em Human–Computer Interaction}, (1-2).
+
+\bibitem{Caldwell1996}
+Darwin~G. Caldwell, K.~Reddy, O.~Kocak, and A.~Wardle.
+\newblock {Sensory requirements and performance assessment of tele-presence
+  controlled robots}.
+\newblock In {\em IEEE International Conference on Robotics and Automation
+  (ICRA)}, pages 1375--1380, 1996.
+
+\bibitem{Caldwell1994}
+Darwin~G. Caldwell, Andrew Wardle, and Michael Goodwin.
+\newblock {Tele-presence: visual, audio and tactile feedback and control of a
+  twin armed mobile robot}.
+\newblock In {\em IEEE International Conference on Robotics and Automation
+  (ICRA)}, pages 244--249, 1994.
+
+\bibitem{Carlson2008}
+Tom Carlson and Yiannis Demiris.
+\newblock {Collaborative Control in Human Wheelchair Interaction Reduces the
+  Need for Dexterity in Precise Manoeuvres}.
+\newblock In {\em Robotic Helpers: User Interaction, Interfaces and Companions
+  in Assistive and Therapy Robotics, a Workshop at ACM/IEEE HRI 2008}, pages
+  59--66, 2008.
+
+\bibitem{Carlson2010}
+Tom Carlson and Yiannis Demiris.
+\newblock {Increasing robotic wheelchair safety with collaborative control:
+  Evidence from secondary task experiments}.
+\newblock In {\em IEEE International Conference on Robotics and Automation
+  (ICRA)}, pages 5582--5587, 2010.
+
+\bibitem{Carlson2012}
+Tom Carlson and Yiannis Demiris.
+\newblock {Collaborative control for a robotic wheelchair: evaluation of
+  performance, attention, and workload.}
+\newblock {\em IEEE transactions on systems, man, and cybernetics. Part B,
+  Cybernetics}, 42(3):876--88, 2012.
+
+\bibitem{Carlson2012a}
+Tom Carlson, Robert Leeb, Ricardo Chavarriaga, and Jos{\'{e}} Del~R.
+  Mill{\'{a}}n.
+\newblock {Online modulation of the level of assistance in shared control
+  systems}.
+\newblock In {\em IEEE International Conference on Systems, Man and Cybernetics
+  (SMC)}, number~2, pages 3339--3344, 2012.
+
+\bibitem{Casper2002}
+Jennifer~L. Casper and Robin~R. Murphy.
+\newblock {Workflow study on human-robot interaction in USAR}.
+\newblock In {\em IEEE International Conference on Robotics and Automation
+  (ICRA)}, volume~2, pages 1997 -- 2003 vol.2, 2002.
+
+\bibitem{CasperMurphy911}
+Jennifer L. Casper and Robin R. Murphy.
+\newblock {Human-Robot Interactions During the Robot-Assisted Urban Search
+  and Rescue Response at the World Trade Center}.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics, Part B:
+  Cybernetics}, 33(3):367--385, 2003.
+
+\bibitem{Chen2007}
+Jessie Y.~C. Chen, Ellen~C. Haas, and Michael~J. Barnes.
+\newblock {Human Performance Issues and User Interface Design for Teleoperated
+  Robots}.
+\newblock {\em Systems, Man and Cybernetics, Part C (Applications and
+  Reviews)}, 37(6):1231--1245, nov 2007.
+
+\bibitem{Chiou2015}
+Manolis Chiou, Nick Hawes, Rustam Stolkin, Kimron~L. Shapiro, Jess~R. Kerlin,
+  and Andrew Clouter.
+\newblock {Towards the Principled Study of Variable Autonomy in Mobile Robots}.
+\newblock In {\em Systems, Man, and Cybernetics (SMC), 2015 IEEE International
+  Conference on}, pages 1053--1059, 2015.
+
+\bibitem{Chiou2016}
+Manolis Chiou, Rustam Stolkin, Goda Bieksaite, Nick Hawes, Kimron~L. Shapiro,
+  and Timothy~S Harrison.
+\newblock {Experimental Analysis of a Variable Autonomy Framework for
+  Controlling a Remotely Operating Mobile Robot}.
+\newblock In {\em IEEE/RSJ International Conference on Intelligent Robots and
+  Systems (IROS)}, 2016.
+
+\bibitem{Christensen2012}
+James~C. Christensen, Justin~R. Estepp, Glenn~F. Wilson, and Christopher~A.
+  Russell.
+\newblock {The effects of day-to-day variability of physiological data on
+  operator functional state classification.}
+\newblock {\em NeuroImage}, 59(1):57--63, jan 2012.
+
+\bibitem{CordeLane2002}
+J.~{Corde Lane}, C.R. Carignan, B.R. Sullivan, D.L. Akin, T.~Hunt, and
+  R.~Cohen.
+\newblock {Effects of time delay on telerobotic control of neutral buoyancy
+  vehicles}.
+\newblock In {\em IEEE International Conference on Robotics and Automation
+  (ICRA)}, volume~3, pages 2874--2879, 2002.
+
+\bibitem{Dole2015}
+Lorin~D. Dole, David~M. Sirkin, Robin~R. Murphy, and Clifford~I. Nass.
+\newblock {Robots Need Humans in the Loop to Improve the Hopefulness of
+  Disaster Survivors}.
+\newblock In {\em IEEE International Workshop on Robot and Human Interactive
+  Communication (RO-MAN)}, pages 707--714, 2015.
+
+\bibitem{Donmez2008}
+Birsen Donmez, Patricia~E. Pina, and M.~L. Cummings.
+\newblock {Evaluation criteria for human-automation performance metrics}.
+\newblock In {\em Proceedings of the 8th Workshop on Performance Metrics for
+  Intelligent Systems}, pages 77--82. ACM Press, 2008.
+
+\bibitem{Dourish1992}
+Paul Dourish and Victoria Bellotti.
+\newblock {Awareness and coordination in shared workspaces}.
+\newblock In {\em Proceedings of the 1992 ACM conference on Computer-supported
+  cooperative work}, number November, pages 107--114. ACM New York, 1992.
+
+\bibitem{Drury2007}
+Jill~L. Drury, Brenden Keyes, and Holly~A. Yanco.
+\newblock {LASSOing HRI: analyzing situation awareness in map-centric and
+  video-centric interfaces}.
+\newblock In {\em 2nd ACM/IEEE International Conference on Human-Robot
+  Interaction (HRI)}, pages 279--286, 2007.
+
+\bibitem{Drury2003}
+Jill~L. Drury, Jean~C. Scholtz, and Holly~A. Yanco.
+\newblock {Awareness in Human-Robot Interactions}.
+\newblock In {\em IEEE International Conference on Systems, Man and Cybernetics
+  (SMC)}, pages 912 -- 918 vol.1, 2003.
+
+\bibitem{Echeverria2011}
+Gilberto Echeverria, Nicolas Lassabe, Arnaud Degroote, and S{\'{e}}verin
+  Lemaignan.
+\newblock {Modular open robots simulation engine: MORSE}.
+\newblock In {\em IEEE International Conference on Robotics and Automation
+  (ICRA)}, pages 46--51, 2011.
+
+\bibitem{Endsley1999}
+Mica~R. Endsley, D.~B. Kaber, D.B. {Endsley, M.R., and Kaber}, Mica~R. Endsley,
+  and D.~B. Kaber.
+\newblock {Level of automation effects on performance, situation awareness and
+  workload in a dynamic control task}.
+\newblock {\em Ergonomics}, 42(3):462--492, 1999.
+
+\bibitem{Fan2007}
+Xiaocong Fan and John Yen.
+\newblock {Realistic cognitive load modeling for enhancing shared mental models
+  in human-agent collaboration}.
+\newblock In {\em Proceedings of the 6th international joint conference on
+  Autonomous agents and multiagent systems}, pages 1--8. ACM Press, 2007.
+
+\bibitem{Farmer2003}
+Eric Farmer and Adam Brownson.
+\newblock {Review of workload measurement, analysis and interpretation
+  methods}.
+\newblock {\em European Organisation for the Safety of Air Navigation},
+  33:1--33, 2003.
+
+\bibitem{Ferrell1965}
+William~R. Ferrell.
+\newblock {Remote manipulation with transmission delay}.
+\newblock HFE-6(1):24--32, 1965.
+
+\bibitem{Few2006}
+Douglas~A. Few, David~J. Bruemmer, and Miles Walton.
+\newblock {Improved Human-Robot Teaming through Facilitated Initiative}.
+\newblock In {\em IEEE International Symposium on Robot and Human Interactive
+  Communication (RO-MAN)}, pages 171--176, sep 2006.
+
+\bibitem{Finzi2005}
+Alberto Finzi and Andrea Orlandini.
+\newblock {Human-Robot Interaction through Mixed-Initiative Planning for Rescue
+  and Search Rovers}.
+\newblock In {\em Congress of the Italian Association for Artificial
+  Intelligence}, pages 483--494, 2005.
+
+\bibitem{Fong2001a}
+Terrence Fong, Charles Thorpe, and Charles Baur.
+\newblock {A safeguarded teleoperation controller}.
+\newblock In {\em IEEE International Conference on Advanced Robotics (ICAR)},
+  number No. LSRO2-CONF-2001-002, 2001.
+
+\bibitem{Fong2003}
+Terrence Fong, Charles Thorpe, and Charles Baur.
+\newblock {Robot, asker of questions}.
+\newblock {\em Robotics and Autonomous Systems}, 42(3-4):235--243, 2003.
+
+\bibitem{Ganis2015}
+Giorgio Ganis and Rogier Kievit.
+\newblock {A New Set of Three-Dimensional Shapes for Investigating Mental
+  Rotation Processes : Validation Data and Stimulus Set}.
+\newblock {\em Journal of Open Psychology Data}, 3(1), 2015.
+
+\bibitem{Goodrich2007b}
+Michael~A. Goodrich, Timothy~W. McLain, Jeffrey~D. Anderson, Jisang Sun, and
+  Jacob~W. Crandall.
+\newblock {Managing autonomy in robot teams: observations from four
+  experiments}.
+\newblock In {\em Proceedings of the ACM/IEEE international conference on
+  Human-robot interaction (HRI)}, pages 25--32, 2007.
+
+\bibitem{Goodrich2003}
+Michael~A. Goodrich and Dan~R. Olsen.
+\newblock {Seven principles of efficient human robot interaction}.
+\newblock In {\em IEEE International Conference on Systems, Man and Cybernetics
+  (SMC)}, volume~4, pages 3942--3948, 2003.
+
+\bibitem{Goodrich2001}
+Michael~A. Goodrich, Dan~R. {Olsen Jr.}, Jacob~W. Crandall, and Thomas~J.
+  Palmer.
+\newblock {Experiments in Adjustable Autonomy}.
+\newblock In {\em IJCAI Workshop on Autonomy, Delegation, and Control:
+  Interacting with Autonomous Agents}, pages 1624--1629, 2001.
+
+\bibitem{Goodrich2007a}
+Michael~A. Goodrich and Alan~C. Schultz.
+\newblock {Human-Robot Interaction: A Survey}.
+\newblock {\em Foundations and Trends in Human-Computer Interaction},
+  1(3):203--275, 2007.
+
+\bibitem{gmapping}
+Giorgio Grisetti, Cyrill Stachniss, and Wolfram Burgard.
+\newblock {Improving grid-based slam with rao-blackwellized particle filters by
+  adaptive proposals and selective resampling}.
+\newblock In {\em IEEE International Conference on Robotics and Automation
+  (ICRA)}, pages 2432 -- 2437, 2005.
+
+\bibitem{Hansson2010}
+A.~Hansson and M.~Servin.
+\newblock {Semi-autonomous shared control of large-scale manipulator arms}.
+\newblock {\em Control Engineering Practice}, 18(9):1069--1076, 2010.
+
+\bibitem{Hardin2009}
+Benjamin Hardin and Michael~A. Goodrich.
+\newblock {On Using Mixed-Initiative Control : A Perspective for Managing
+  Large-Scale Robotic Teams}.
+\newblock In {\em The 4th ACM/IEEE international conference on human robot
+  interaction (HRI)}, pages 165--172, 2009.
+
+\bibitem{Hart2006}
+Sandra~G. Hart.
+\newblock {Nasa-task load index (NASA-TLX); 20 years later}.
+\newblock {\em Proceedings of the Human Factors and Ergonomics Society Annual
+  Meeting}, 50(9):904--908, 2006.
+
+\bibitem{Hart1988}
+Sandra~G. Hart and Lowell~E. Staveland.
+\newblock {Development of NASA-TLX (Task Load Index): Results of empirical and
+  theoretical research}.
+\newblock {\em Human mental workload}, 1(3):139--183, 1988.
+
+\bibitem{Hokayem2006}
+Peter~F. Hokayem and Mark~W. Spong.
+\newblock {Bilateral teleoperation: An historical survey}.
+\newblock {\em Automatica}, 42(12):2035--2057, dec 2006.
+
+\bibitem{Jacoff2003a}
+A.~Jacoff, E.~Messina, B.A. Weiss, S.~Tadokoro, and Y.~Nakagawa.
+\newblock {Test arenas and performance metrics for urban search and rescue
+  robots}.
+\newblock In {\em IEEE/RSJ International Conference on Intelligent Robots and
+  Systems (IROS)}, volume~3, pages 3396--3403, 2003.
+
+\bibitem{Jiang2015}
+Shu Jiang and Ronald~C. Arkin.
+\newblock {Mixed-Initiative Human-Robot Interaction : Definition , Taxonomy ,
+  and Survey}.
+\newblock In {\em IEEE International Conference on Systems, Man, and
+  Cybernetics (SMC)}, pages 954--961, 2015.
+
+\bibitem{Kim2004}
+T.W. Kim and J.~Yuh.
+\newblock {Development of a real-time control architecture for a
+  semi-autonomous underwater vehicle for intervention missions}.
+\newblock {\em Control Engineering Practice}, 12(12):1521--1530, 2004.
+
+\bibitem{Kortenkamp2000}
+David Kortenkamp, Debra Keirn-Schreckenghost, and R.~Peter Bonasso.
+\newblock {Adjustable control autonomy for manned space flight}.
+\newblock In {\em IEEE Aerospace Conference proceedings}, volume~7, pages
+  629--640, 2000.
+
+\bibitem{Kothe2011}
+Christian~A. Kothe and Scott Makeig.
+\newblock {Estimation of task workload from EEG data: new and current tools and
+  perspectives.}
+\newblock In {\em Annual International Conference of the IEEE Engineering in
+  Medicine and Biology Society.}, volume 2011, pages 6547--51, jan 2011.
+
+\bibitem{Krotkov1996}
+Eric Krotkov, Reid Simmons, Fabio Cozman, and Sven Koenig.
+\newblock {Safeguarded teleoperation for lunar rovers: From human factors to
+  field trials}.
+\newblock In {\em IEEE Planetary Rover Technology and Systems Workshop}, 1996.
+
+\bibitem{Kruijff2012}
+G.~J.~M. Kruijff, Janicek Miroslav, Benoit {Keshavdas, Shanker Larochelle},
+  Hendrik Zender, N.~J. J.~M. Smets, T.~Mioch, M.~A. Neerincx, J.~van Diggelen,
+  F.~Colas, M.~Liu, F.~Pomerleau, R.~Siegwart, V.~Hlavac, T.~Svoboda,
+  T.~Petrıcek, M.~Reinstein, K.~Zimmermann, F.~Pirri, M.~Gianni, P.~Papadakis,
+  A.~Sinha, P.~Balmer, N.~Tomatis, R.~Worst, T.~Linder, H.~Surmann,
+  V.~Tretyakov, S.~Corrao, S.~Pratzler-Wanczura, and M.~Sulk.
+\newblock {Experience in system design for human-robot teaming in urban search
+  {\&} rescue}.
+\newblock In {\em Proceedings of 8th International Conference on Field and
+  Service Robotics}, pages 1--14, 2012.
+
+\bibitem{Lichiardopol2007}
+S~Lichiardopol.
+\newblock {A Survey on Teleoperation}.
+\newblock {\em Technische Universiteit Eindhoven, Department Mechanical
+  Engineering, Dynamics and Control Group}, Tech. Rep.(DCT 2007.155), 2007.
+
+\bibitem{Liu2013}
+Yugang Liu and Goldie Nejat.
+\newblock {Robotic Urban Search and Rescue: A Survey from the Control
+  Perspective}.
+\newblock {\em Journal of Intelligent and Robotic Systems}, 72(2):147--165, mar
+  2013.
+
+\bibitem{Manikonda2007}
+Vikram Manikonda, Priya Ranjan, Zachary Kulis, and Calhoun Drive.
+\newblock {A Mixed Initiative Controller and Testbed for Human Robot Teams in
+  Tactical Operations}.
+\newblock In {\em AAAI Fall Symposium}, pages 92--99, 2007.
+
+\bibitem{Mano2009}
+Hayato Mano, Kazuyuki Kon, Noritaka Sato, Masataka Ito, Hisashi Mizumoto,
+  Kiyohiro Goto, Renajit Chatterjee, and Fumitoshi Matsuno.
+\newblock {Treaded control system for rescue robots in indoor environment}.
+\newblock In {\em IEEE International Conference on Robotics and Biomimetics},
+  pages 1836--1843, 2009.
+
+\bibitem{Marble2004}
+Julie~L. Marble, David~J. Bruemmer, Douglas~A. Few, and Donald~D. Dudenhoeffer.
+\newblock {Evaluation of supervisory vs. peer-peer interaction with human-robot
+  teams}.
+\newblock In {\em Proceedings of the 37th Hawaii International Conference on
+  System Sciences}, volume~00, pages 1--9, 2004.
+
+\bibitem{Marder-Eppstein2010}
+Eitan Marder-Eppstein, Eric Berger, Tully Foote, Brian Gerkey, and Kurt
+  Konolige.
+\newblock {The office marathon: Robust navigation in an indoor office
+  environment}.
+\newblock In {\em IEEE International Conference on Robotics and Automation
+  (ICRA)}, pages 300--307, 2010.
+
+\bibitem{Matheson2013}
+Adrian Matheson, Birsen Donmez, Faizan Rehmatullah, Piotr Jasiobedzki, Ho-kong
+  Ng, Vivek Panwar, and Mufan Li.
+\newblock {The Effects of Predictive Displays on Performance in Driving Tasks
+  with Multi-Second Latency: Aiding Tele-Operation of Lunar Rovers}.
+\newblock In {\em Human Factors and Ergonomics Society Annual Meeting},
+  volume~57, pages 21--25, sep 2013.
+
+\bibitem{Murphy2004}
+Robin~R. Murphy.
+\newblock {Human-Robot Interaction in Rescue Robotics}.
+\newblock {\em IEEE Transactions on Systems, Man and Cybernetics, Part C
+  (Applications and Reviews)}, 34(2):138--153, may 2004.
+
+\bibitem{Murphy2002}
+Robin~R. Murphy, John~G. Blitch, and Jennifer~L. Casper.
+\newblock {AAAI/RoboCup-2001 Urban Search and Rescue Events: reality and
+  competition}.
+\newblock {\em AI Magazine}, 23(1):37--42, 2002.
+
+\bibitem{Murphy2005a}
+Robin~R. Murphy and Jennifer~L. Burke.
+\newblock {Up from the Rubble: Lessons Learned about HRI from Search and
+  Rescue}.
+\newblock {\em Proceedings of the Human Factors and Ergonomics Society 49th
+  Annual Meeting}, 49(3):437--441, sep 2005.
+
+\bibitem{Nagatani2013}
+Keiji Nagatani, Seiga Kiribayashi, Yoshito Okada, Kazuki Otake, Kazuya Yoshida,
+  Takeshi Nishimura, Tomoaki Yoshida, Eiji Koyanagi, Satoshi Tadokoro, Mineo
+  Fukushima, and Shinji Kawatsuma.
+\newblock {Emergency Response to the Nuclear Accident at the Fukushima Daiichi
+  Nuclear Power Plants using Mobile Rescue Robots}.
+\newblock {\em Journal of Field Robotics}, 30(1):44--63, 2013.
+
+\bibitem{Nielsen2008}
+Curtis~W. Nielsen, Douglas~A. Few, and Devin~S. Athey.
+\newblock {Using mixed-initiative human-robot interaction to bound performance
+  in a search task}.
+\newblock In {\em IEEE International Conference on Intelligent Sensors, Sensor
+  Networks and Information Processing}, pages 195--200, 2008.
+
+\bibitem{Nielsen2007a}
+Curtis~W. Nielsen, Michael~A. Goodrich, and Robert~W. Ricks.
+\newblock {Ecological interfaces for improving mobile robot teleoperation}.
+\newblock {\em IEEE Transactions on Robotics}, 23(5):927--941, 2007.
+
+\bibitem{Olsen2003}
+Dan~R. Olsen and Michael~A. Goodrich.
+\newblock {Metrics for evaluating Human-Robot Interactions}.
+\newblock In {\em PERMIS}, 2003.
+
+\bibitem{Parasuraman2000}
+Raja Parasuraman, Thomas~B. Sheridan, and Christopher~D. Wickens.
+\newblock {A model for types and levels of human interaction with automation.}
+\newblock {\em IEEE transactions on systems, man, and cybernetics. Part A,
+  Systems and humans}, 30(3):286--297, 2000.
+
+\bibitem{Parikh2005}
+S.P. Parikh, Jr.~V. Grassi, V.~Kumar, and Jr.~Jun Okamoto.
+\newblock {Usability Study of a Control Framework for an Intelligent
+  Wheelchair}.
+\newblock In {\em IEEE International Conference on Robotics and Automation
+  (ICRA)}, pages 4745--4750, 2005.
+
+\bibitem{Prinzel2003}
+Lawrence~J. Prinzel, Frederick~G. Freeman, Mark~W. Scerbo, Peter~J. Mikulka,
+  and Alan~T. Pope.
+\newblock {Effects of a Psychophysiological System for Adaptive Automation on
+  Performance, Workload, and the Event-Related Potential P300 Component}.
+\newblock {\em Human Factors: The Journal of the Human Factors and Ergonomics
+  Society}, 45(4):601--613, 2003.
+
+\bibitem{Ricks2004}
+Bob Ricks, Curtis~W. Nielsen, and M~Goodrich.
+\newblock {Ecological displays for robot interaction: a new perspective}.
+\newblock In {\em IEEE/RSJ International Conference on Intelligent Robots and
+  Systems (IROS)}, volume~3, pages 2855--2860, 2004.
+
+\bibitem{Riley2006}
+Jennifer~M. Riley and Laura~D. Strater.
+\newblock {Effects of Robot Control Mode on Situation Awareness and Performance
+  in a Navigation Task}.
+\newblock In {\em Proceedings of the Human Factors and Ergonomics Society
+  Annual Meeting}, volume~50, pages 540--544, 2006.
+
+\bibitem{Schaaff2009}
+Kristina Schaaff and Tanja Schultz.
+\newblock {Towards an EEG-based emotion recognizer for humanoid robots}.
+\newblock In {\em 18th IEEE International Symposium on Robot and Human
+  Interactive Communication}, pages 792--796, sep 2009.
+
+\bibitem{Scholtz2003}
+Jean Scholtz.
+\newblock {Theory and evaluation of human robot interactions}.
+\newblock In {\em Proceedings of the 36th Annual Hawaii International
+  Conference on System Sciences}. IEEE, 2003.
+
+\bibitem{Scholtz2004a}
+Jean Scholtz, Jeff Young, Jill~L. Drury, and Holly~A. Yanco.
+\newblock {Evaluation of human-robot interaction awareness in search and
+  rescue}.
+\newblock In {\em IEEE International Conference on Robotics and Automation
+  (ICRA)}, pages 2327--2332 Vol.3, 2004.
+
+\bibitem{Sellner2005}
+Brennan Sellner, Reid Simmons, and Sanjiv Singh.
+\newblock {User modelling for principled sliding autonomy in human-robot
+  teams}.
+\newblock In {\em Multi-Robot Systems. From Swarms to Intelligent Automata
+  Volume III}, pages 197--208. Springer Netherlands, 2005.
+
+\bibitem{Sharek2011}
+David Sharek.
+\newblock {A Useable, Online NASA-TLX Tool}.
+\newblock {\em Proceedings of the Human Factors and Ergonomics Society Annual
+  Meeting}, 55(1):1375--1379, 2011.
+
+\bibitem{Ibanez-Guzman2004}
+Jian Shen, Javier Ibanez-Guzman, Teck~Chew Ng, and Boon {Seng Chew}.
+\newblock {A collaborative-shared control system with safe obstacle avoidance
+  capability}.
+\newblock In {\em IEEE Conference on Robotics, Automation and Mechatronics},
+  volume~1, pages 119--123, 2004.
+
+\bibitem{Sheridan1989}
+Thomas~B. Sheridan.
+\newblock {Telerobotics}.
+\newblock {\em Automatica}, 25(4):487--507, 1989.
+
+\bibitem{Sheridan1995}
+Thomas~B. Sheridan.
+\newblock {Teleoperation, telerobotics and telepresence: A progress report}.
+\newblock {\em Control Engineering Practice}, 3(2):205--214, 1995.
+
+\bibitem{Sheridan1978}
+Thomas~B. Sheridan and William~L. Verplank.
+\newblock {Human and computer control of undersea teleoperators}.
+\newblock {\em MIT Man-Machine Systems Laboratory}, 1978.
+
+\bibitem{Steinfeld2006}
+Aaron Steinfeld, Terrence Fong, David Kaber, Michael Lewis, Jean Scholtz, Alan
+  Schultz, and Michael~A. Goodrich.
+\newblock {Common metrics for human-robot interaction}.
+\newblock In {\em 1st ACM SIGCHI/SIGART conference on Human-Robot Interaction},
+  HRI '06, pages 33--40, 2006.
+
+\bibitem{Thomas2001}
+Lisa~C. Thomas and Christopher~D. Wickens.
+\newblock {Visual Displays and Cognitive Tunneling: Frames of Reference Effects
+  on Spatial Judgments and Change Detection}.
+\newblock {\em Proceedings of the Human Factors and Ergonomics Society Annual
+  Meeting}, 45(4):336--340, 2001.
+
+\bibitem{Urdiales2007}
+C.~Urdiales, A.~Poncela, I.~Sanchez-Tato, F.~Galluppi, M.~Olivetti, and
+  F.~Sandoval.
+\newblock {Efficiency based reactive shared control for collaborative
+  human/robot navigation}.
+\newblock In {\em IEEE/RSJ International Conference on Intelligent Robots and
+  Systems (IROS)}, pages 3586--3591, 2007.
+
+\bibitem{Valero-Gomez2011}
+Aberto Valero-Gomez, Paloma de~la Puente, and Miguel Hernando.
+\newblock {Impact of Two Adjustable-Autonomy Models on the Scalability of
+  Single-Human/Multiple-Robot Teams for Exploration Missions}.
+\newblock {\em Human Factors: The Journal of the Human Factors and Ergonomics
+  Society}, 53(6):703--716, 2011.
+
+\bibitem{Wen2015}
+Wen Wen, Atsushi Yamashita, and Hajime Asama.
+\newblock {\em Plos One}.
+
+\bibitem{Wickens2002}
+Christopher~D. Wickens.
+\newblock {Multiple resources and performance prediction}.
+\newblock {\em Theoretical issues in ergonomics science}, 3(2):159--177, 2002.
+
+\bibitem{Wickens2008}
+Christopher~D. Wickens.
+\newblock {Multiple Resources and Mental Workload}.
+\newblock {\em Human Factors: The Journal of the Human Factors and Ergonomics
+  Society}, 50(3):449--455, jun 2008.
+
+\bibitem{Wilson2000}
+Glenn~F. Wilson, Jared~D. Lambert, and Chris~A. Russell.
+\newblock {Performance Enhancement with Real-Time Physiologically Controlled
+  Adaptive Aiding}.
+\newblock {\em Proceedings of the Human Factors and Ergonomics Society Annual
+  Meeting}, 44(13):61--64, jul 2000.
+
+\bibitem{Wilson2003}
+Glenn~F. Wilson and Chris~A. Russell.
+\newblock {Operator Functional State Classification Using Multiple
+  Psychophysiological Features in an Air Traffic Control Task}.
+\newblock {\em Human Factors: The Journal of the Human Factors and Ergonomics
+  Society}, 45(3):381--389, 2003.
+
+\bibitem{Wilson2003a}
+Glenn~F. Wilson and Christopher~A. Russell.
+\newblock {Real-Time Assessment of Mental Workload Using Psychophysiological
+  Measures and Artificial Neural Networks}.
+\newblock {\em Human Factors: The Journal of the Human Factors and Ergonomics
+  Society}, 45(4):635--643, 2003.
+
+\bibitem{Wilson2007}
+Glenn~F. Wilson and Christopher~a. Russell.
+\newblock {Performance Enhancement in an Uninhabited Air Vehicle Task Using
+  Psychophysiologically Determined Adaptive Aiding}.
+\newblock {\em Human Factors: The Journal of the Human Factors and Ergonomics
+  Society}, 49(6):1005--1018, dec 2007.
+
+\bibitem{Wyble2006a}
+Brad Wyble, Patrick Craston, and Howard Bowman.
+\newblock {Electrophysiological Feedback in Adaptive Human Computer
+  Interfaces}.
+\newblock {\em Technical Report, Computing Lab, University of Kent at
+  Canterbury}, (8-06), 2006.
+
+\bibitem{Yagoda2010}
+Rosemarie~E. Yagoda.
+\newblock {Development of the Human Robot Interaction Workload Measurement Tool
+  (HRI-WM)}.
+\newblock {\em Proceedings of the Human Factors and Ergonomics Society Annual
+  Meeting}, 54(4):304--308, sep 2010.
+
+\bibitem{Yanco2006}
+HA~Yanco, Michael Baker, R~Casey, and Brenden Keyes.
+\newblock {Analysis of human-robot interaction for urban search and rescue}.
+\newblock In {\em IEEE International Workshop on Safety, Security and Rescue
+  Robotics.}, pages 22--24, 2006.
+
+\bibitem{Yanco2004}
+Holly Yanco, Jill Drury, and Jean Scholtz.
+\newblock {Beyond Usability Evaluation: Analysis of Human-Robot Interaction at
+  a Major Robotics Competition}.
+\newblock {\em Human-Computer Interaction}, 19(1):117--149, jun 2004.
+
+\bibitem{Yanco2004b}
+Holly~A. Yanco and Jill Drury.
+\newblock {Classifying Human-Robot Interaction: An Updated Taxonomy}.
+\newblock In {\em IEEE International Conference on Systems, Man and Cybernetics
+  (SMC)}, volume~3, pages 2841--2846, 2004.
+
+\bibitem{Yanco_HRI_SA_04}
+Holly~A. Yanco and Jill Drury.
+\newblock {"Where am I?" Acquiring situation awareness using a remote robot
+  platform}.
+\newblock In {\em IEEE International Conference on Systems, Man and Cybernetics
+  (SMC)}, volume~3, pages 2835--2840, 2004.
+
+\bibitem{Yanco2002}
+Holly~A. Yanco and Jill~L. Drury.
+\newblock {A Taxonomy for Human-Robot Interaction}.
+\newblock In {\em AAAI Fall Symposium on Human-Robot Interaction}, pages
+  111--119, 2002.
+
+\bibitem{Yanco2015DARPA}
+Holly~A. Yanco, Adam Norton, Willard Ober, David Shane, Anna Skinner, and Jack
+  Vice.
+\newblock {Analysis of Human-robot Interaction at the DARPA Robotics Challenge
+  Trials}.
+\newblock {\em Journal of Field Robotics}, 32(3):420--444, 2015.
+
+\end{thebibliography}
