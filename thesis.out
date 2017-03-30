@@ -1,62 +1,81 @@
 \BOOKMARK [0][-]{Table of Contents.0}{Table of Contents}{}% 1
 \BOOKMARK [0][-]{chapter*.3}{List of Tables}{}% 2
 \BOOKMARK [0][-]{chapter*.4}{List of Figures}{}% 3
-\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 4
-\BOOKMARK [1][-]{section.1.1}{Project summary}{chapter.1}% 5
+\BOOKMARK [0][-]{chapter.1}{INTRODUCTION}{}% 4
+\BOOKMARK [1][-]{section.1.1}{Context of research and project summary}{chapter.1}% 5
 \BOOKMARK [1][-]{section.1.2}{Autonomy versus teleoperation}{chapter.1}% 6
-\BOOKMARK [2][-]{subsection.1.2.1}{Initial Hypotheses}{section.1.2}% 7
-\BOOKMARK [1][-]{section.1.3}{Improving teleoperation}{chapter.1}% 8
-\BOOKMARK [2][-]{subsection.1.3.1}{Interfaces and telepresence}{section.1.3}% 9
-\BOOKMARK [2][-]{subsection.1.3.2}{Variable autonomy and Mixed-Initiative}{section.1.3}% 10
-\BOOKMARK [1][-]{section.1.4}{Contributions of this Thesis}{chapter.1}% 11
-\BOOKMARK [1][-]{section.1.5}{List of Publications}{chapter.1}% 12
-\BOOKMARK [1][-]{section.1.6}{Thesis structure}{chapter.1}% 13
-\BOOKMARK [0][-]{chapter.2}{Background}{}% 14
-\BOOKMARK [1][-]{section.2.1}{Human-Robot interaction}{chapter.2}% 15
-\BOOKMARK [2][-]{subsection.2.1.1}{Human-Robot interaction definition and context}{section.2.1}% 16
-\BOOKMARK [2][-]{subsection.2.1.2}{Human-Robot interaction awareness}{section.2.1}% 17
-\BOOKMARK [2][-]{subsection.2.1.3}{Human-Robot interaction field studies}{section.2.1}% 18
-\BOOKMARK [2][-]{subsection.2.1.4}{Metrics for Human-Robot interaction and mobile robots}{section.2.1}% 19
-\BOOKMARK [1][-]{section.2.2}{Interfaces}{chapter.2}% 20
-\BOOKMARK [2][-]{subsection.2.2.1}{Interfaces as a way to improve teleoperation}{section.2.2}% 21
-\BOOKMARK [3][-]{subsubsection.2.2.1.1}{Situation awareness and the use of maps}{subsection.2.2.1}% 22
-\BOOKMARK [3][-]{subsubsection.2.2.1.2}{Various features for a good interface}{subsection.2.2.1}% 23
-\BOOKMARK [1][-]{section.2.3}{Variable autonomy}{chapter.2}% 24
-\BOOKMARK [2][-]{subsection.2.3.1}{The notion of different autonomy levels}{section.2.3}% 25
-\BOOKMARK [2][-]{subsection.2.3.2}{Shared control}{section.2.3}% 26
-\BOOKMARK [2][-]{subsection.2.3.3}{Traded control}{section.2.3}% 27
-\BOOKMARK [2][-]{subsection.2.3.4}{Multiple levels of autonomy}{section.2.3}% 28
-\BOOKMARK [1][-]{section.2.4}{Dynamically switching Levels of Autonomy}{chapter.2}% 29
-\BOOKMARK [2][-]{subsection.2.4.1}{Conducting variable autonomy experiments}{section.2.4}% 30
-\BOOKMARK [2][-]{subsection.2.4.2}{Human-Initiative variable autonomy}{section.2.4}% 31
-\BOOKMARK [2][-]{subsection.2.4.3}{Mixed-Initiative}{section.2.4}% 32
-\BOOKMARK [2][-]{subsection.2.4.4}{Definition and taxonomy of Mixed-Initiative control}{section.2.4}% 33
-\BOOKMARK [2][-]{subsection.2.4.5}{Mixed-Initiative control related systems}{section.2.4}% 34
-\BOOKMARK [2][-]{subsection.2.4.6}{Human-Robot interaction with LOA switching robots}{section.2.4}% 35
-\BOOKMARK [1][-]{section.2.5}{Measuring and inducing cognitive Workload}{chapter.2}% 36
-\BOOKMARK [2][-]{subsection.2.5.1}{Physiological measures}{section.2.5}% 37
-\BOOKMARK [2][-]{subsection.2.5.2}{Subjective measures}{section.2.5}% 38
-\BOOKMARK [2][-]{subsection.2.5.3}{Task performance measures}{section.2.5}% 39
-\BOOKMARK [1][-]{section.2.6}{Statistics}{chapter.2}% 40
-\BOOKMARK [0][-]{chapter.3}{Towards the Principled Study of Variable Autonomy}{}% 41
-\BOOKMARK [1][-]{section.3.1}{Initial Hypotheses}{chapter.3}% 42
-\BOOKMARK [1][-]{section.3.2}{System description}{chapter.3}% 43
-\BOOKMARK [1][-]{section.3.3}{Pilot Experiment}{chapter.3}% 44
-\BOOKMARK [2][-]{subsection.3.3.1}{Tasks and Robot Arena}{section.3.3}% 45
-\BOOKMARK [2][-]{subsection.3.3.2}{Participants and experimental design}{section.3.3}% 46
-\BOOKMARK [2][-]{subsection.3.3.3}{Results}{section.3.3}% 47
-\BOOKMARK [2][-]{subsection.3.3.4}{Discussion}{section.3.3}% 48
-\BOOKMARK [1][-]{section.3.4}{Guidelines for Future Experiments}{chapter.3}% 49
-\BOOKMARK [1][-]{section.3.5}{Conclusion}{chapter.3}% 50
-\BOOKMARK [0][-]{chapter.4}{Experimental Analysis of a Variable Autonomy Framework for Controlling a Remotely Operating Mobile Robot}{}% 51
-\BOOKMARK [1][-]{section.4.1}{INTRO}{chapter.4}% 52
-\BOOKMARK [1][-]{section.4.2}{APPARATUS AND ROBOTIC SOFTWARE}{chapter.4}% 53
-\BOOKMARK [1][-]{section.4.3}{EXPERIMENTAL DESIGN AND PROCEDURE}{chapter.4}% 54
-\BOOKMARK [2][-]{subsection.4.3.1}{Experimental setup - operator control unit and robot test arena}{section.4.3}% 55
-\BOOKMARK [2][-]{subsection.4.3.2}{Primary and secondary tasks, and experimental test modalities}{section.4.3}% 56
-\BOOKMARK [2][-]{subsection.4.3.3}{Participants and procedure}{section.4.3}% 57
-\BOOKMARK [2][-]{subsection.4.3.4}{Discussion}{section.4.3}% 58
-\BOOKMARK [1][-]{section.4.4}{THEORETICAL FRAMEWORK FOR DESIGNING A MI CONTROLLER}{chapter.4}% 59
-\BOOKMARK [1][-]{section.4.5}{Conclusion}{chapter.4}% 60
-\BOOKMARK [0][-]{chapter*.21}{References}{}% 61
-\BOOKMARK [1][-]{section.Alph0.1}{Abbreviations}{chapter*.21}% 62
+\BOOKMARK [2][-]{subsection.1.2.1}{Interfaces and telepresence}{section.1.2}% 7
+\BOOKMARK [2][-]{subsection.1.2.2}{Variable autonomy and Mixed-Initiative}{section.1.2}% 8
+\BOOKMARK [1][-]{section.1.3}{Contributions of this Thesis}{chapter.1}% 9
+\BOOKMARK [1][-]{section.1.4}{List of Publications}{chapter.1}% 10
+\BOOKMARK [1][-]{section.1.5}{Thesis structure}{chapter.1}% 11
+\BOOKMARK [0][-]{chapter.2}{BACKGROUND}{}% 12
+\BOOKMARK [1][-]{section.2.1}{Human-Robot Interaction}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.1.1}{Human-Robot Interaction definition and context}{section.2.1}% 14
+\BOOKMARK [2][-]{subsection.2.1.2}{Human-Robot Interaction awareness}{section.2.1}% 15
+\BOOKMARK [2][-]{subsection.2.1.3}{Human-Robot Interaction field studies}{section.2.1}% 16
+\BOOKMARK [2][-]{subsection.2.1.4}{Metrics for Human-Robot Interaction and mobile robots}{section.2.1}% 17
+\BOOKMARK [1][-]{section.2.2}{Interfaces}{chapter.2}% 18
+\BOOKMARK [2][-]{subsection.2.2.1}{Interfaces as a way to improve teleoperation}{section.2.2}% 19
+\BOOKMARK [2][-]{subsection.2.2.2}{Situation awareness and the use of maps}{section.2.2}% 20
+\BOOKMARK [1][-]{section.2.3}{Variable autonomy}{chapter.2}% 21
+\BOOKMARK [2][-]{subsection.2.3.1}{The notion of levels of autonomy}{section.2.3}% 22
+\BOOKMARK [2][-]{subsection.2.3.2}{Shared control}{section.2.3}% 23
+\BOOKMARK [2][-]{subsection.2.3.3}{Traded control}{section.2.3}% 24
+\BOOKMARK [2][-]{subsection.2.3.4}{Multiple levels of autonomy}{section.2.3}% 25
+\BOOKMARK [1][-]{section.2.4}{Dynamically switching levels of autonomy}{chapter.2}% 26
+\BOOKMARK [2][-]{subsection.2.4.1}{Conducting variable autonomy experiments}{section.2.4}% 27
+\BOOKMARK [2][-]{subsection.2.4.2}{Human-Initiative variable autonomy}{section.2.4}% 28
+\BOOKMARK [2][-]{subsection.2.4.3}{Definition and taxonomy of Mixed-Initiative control}{section.2.4}% 29
+\BOOKMARK [2][-]{subsection.2.4.4}{Mixed-Initiative control related systems}{section.2.4}% 30
+\BOOKMARK [2][-]{subsection.2.4.5}{Human-Robot Interaction with LOA switching robots}{section.2.4}% 31
+\BOOKMARK [1][-]{section.2.5}{Measuring and inducing cognitive workload}{chapter.2}% 32
+\BOOKMARK [2][-]{subsection.2.5.1}{Physiological measures}{section.2.5}% 33
+\BOOKMARK [2][-]{subsection.2.5.2}{Subjective measures}{section.2.5}% 34
+\BOOKMARK [2][-]{subsection.2.5.3}{Task performance measures}{section.2.5}% 35
+\BOOKMARK [0][-]{chapter.3}{TOWARDS THE PRINCIPLED STUDY OF VARIABLE AUTONOMY}{}% 36
+\BOOKMARK [1][-]{section.3.1}{System description}{chapter.3}% 37
+\BOOKMARK [1][-]{section.3.2}{Pilot experiment}{chapter.3}% 38
+\BOOKMARK [2][-]{subsection.3.2.1}{Tasks and robot arena}{section.3.2}% 39
+\BOOKMARK [2][-]{subsection.3.2.2}{Participants and experimental design}{section.3.2}% 40
+\BOOKMARK [2][-]{subsection.3.2.3}{Results}{section.3.2}% 41
+\BOOKMARK [2][-]{subsection.3.2.4}{Discussion}{section.3.2}% 42
+\BOOKMARK [1][-]{section.3.3}{Suggestions for future experiments}{chapter.3}% 43
+\BOOKMARK [1][-]{section.3.4}{Conclusion and impact}{chapter.3}% 44
+\BOOKMARK [0][-]{chapter.4}{EXPERIMENTAL ANALYSIS OF HUMAN-INITIATIVE VARIABLE AUTONOMY}{}% 45
+\BOOKMARK [1][-]{section.4.1}{Apparatus and robotic software}{chapter.4}% 46
+\BOOKMARK [1][-]{section.4.2}{Experimental design and procedure}{chapter.4}% 47
+\BOOKMARK [2][-]{subsection.4.2.1}{Experimental setup - operator control unit and robot test arena}{section.4.2}% 48
+\BOOKMARK [2][-]{subsection.4.2.2}{Primary and secondary tasks, and experimental test modalities}{section.4.2}% 49
+\BOOKMARK [2][-]{subsection.4.2.3}{Participants and procedure}{section.4.2}% 50
+\BOOKMARK [1][-]{section.4.3}{Human-Initiative system performance analysis}{chapter.4}% 51
+\BOOKMARK [2][-]{subsection.4.3.1}{Results}{section.4.3}% 52
+\BOOKMARK [2][-]{subsection.4.3.2}{Discussion}{section.4.3}% 53
+\BOOKMARK [1][-]{section.4.4}{Human-Initiative Human-Robot Interaction analysis}{chapter.4}% 54
+\BOOKMARK [2][-]{subsection.4.4.1}{Results}{section.4.4}% 55
+\BOOKMARK [2][-]{subsection.4.4.2}{Discussion}{section.4.4}% 56
+\BOOKMARK [1][-]{section.4.5}{Conclusions and impact}{chapter.4}% 57
+\BOOKMARK [0][-]{chapter.5}{DESIGN AND EVALUATION OF A MIXED-INITIATIVE CONTROL SYSTEM}{}% 58
+\BOOKMARK [1][-]{section.5.1}{Framework for designing an expert-guided Mixed-Initiative robotic system}{chapter.5}% 59
+\BOOKMARK [1][-]{section.5.2}{Designing the expert-guided Mixed-Initiative controller for navigation}{chapter.5}% 60
+\BOOKMARK [2][-]{subsection.5.2.1}{Threshold Mixed-Initiative controller}{section.5.2}% 61
+\BOOKMARK [2][-]{subsection.5.2.2}{Fuzzy Mixed-Initiative controller}{section.5.2}% 62
+\BOOKMARK [1][-]{section.5.3}{Evaluation using a simulated robot and test environment}{chapter.5}% 63
+\BOOKMARK [2][-]{subsection.5.3.1}{Results: tasks performance}{section.5.3}% 64
+\BOOKMARK [2][-]{subsection.5.3.2}{Results: Human-Robot-Interaction}{section.5.3}% 65
+\BOOKMARK [2][-]{subsection.5.3.3}{Discussion}{section.5.3}% 66
+\BOOKMARK [1][-]{section.5.4}{Evaluation using real robot and test environment}{chapter.5}% 67
+\BOOKMARK [2][-]{subsection.5.4.1}{Experimental setup - apparatus, robot test arena, and control modes}{section.5.4}% 68
+\BOOKMARK [2][-]{subsection.5.4.2}{Tasks and performance degradation factors}{section.5.4}% 69
+\BOOKMARK [2][-]{subsection.5.4.3}{Participants and experimental design}{section.5.4}% 70
+\BOOKMARK [3][-]{subsubsection.5.4.3.1}{Results}{subsection.5.4.3}% 71
+\BOOKMARK [3][-]{subsubsection.5.4.3.2}{Discussion}{subsection.5.4.3}% 72
+\BOOKMARK [1][-]{section.5.5}{Conclusion and impact}{chapter.5}% 73
+\BOOKMARK [0][-]{chapter.6}{CONCLUSIONS AND FUTURE WORK}{}% 74
+\BOOKMARK [1][-]{section.6.1}{Contributions}{chapter.6}% 75
+\BOOKMARK [1][-]{section.6.2}{Future work}{chapter.6}% 76
+\BOOKMARK [1][-]{section.6.3}{Closing thoughts}{chapter.6}% 77
+\BOOKMARK [0][-]{chapter*.41}{References}{}% 78
+\BOOKMARK [0][-]{section*.42}{Appendices}{}% 79
+\BOOKMARK [0][-]{Appendix.a.A}{STATISTICS}{}% 80
+\BOOKMARK [1][-]{section.a.A.1}{STATISTICS}{Appendix.a.A}% 81

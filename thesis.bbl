@@ -9,7 +9,7 @@ Julie~A. Adams, Pramila Rani, and Nilanjan Sarkar.
 \bibitem{Armstrong2015}
 Miriam~E. Armstrong, Keith~S. Jones, and Elizabeth~A. Schmidlin.
 \newblock {Tele-Operating USAR Robots : Does Driving Performance Increase with
-  Aperture Width or Practice ?}
+  Aperture Width or Practice?}
 \newblock In {\em 59th Annual Meeting of the Human Factors and Ergonomics
   Society}, pages 1372--1376, 2015.
 
@@ -53,12 +53,32 @@ Chris Berka, Daniel~J. Levendowski, Michelle~N. Lumicao, Alan Yau, Gene Davis,
 \newblock {\em Aviation, space, and environmental medicine}, 78(5):B231--44,
   may 2007.
 
+\bibitem{Blitch1996}
+John~G. Blitch.
+\newblock {Artificial intelligence technologies for robot assisted urban search
+  and rescue}.
+\newblock {\em Expert Systems with Applications}, 11(2):109--124, 1996.
+
+\bibitem{Brown1963}
+Robert~Goodell Brown.
+\newblock {\em {Smoothing, forecasting and prediction of discrete time
+  series}}.
+\newblock Courier Corporation, 1963.
+
+\bibitem{Bruemmer2003a}
+David~J. Bruemmer, Matthew~O. Anderson, Julie~L. Marble, Donald~D.
+  Dudenhoeffer, Douglas~A. Few, and Mark~D. Mckay.
+\newblock {Intelligent Autonomy for Remote Characterization of Hazardous
+  Environments}.
+\newblock In {\em IEEE International Symposium on Intelligent Control}, volume
+  616, pages 750--754, 2003.
+
 \bibitem{Bruemmer2004}
 David~J. Bruemmer, Ronald~L. Boring, Douglas~A. Few, L.~Julie, and Miles~C.
   Waiton.
-\newblock {“ I Call Shotgun !”: An Evaluation of Mixed-Initiative Control
-  for Novice Users of a Search and Rescue Robot *}.
-\newblock In {\em IEEE Enternational Conference on Systems, Man and Cybernetics
+\newblock {"I Call Shotgun !": An Evaluation of Mixed-Initiative Control for
+  Novice Users of a Search and Rescue Robot *}.
+\newblock In {\em IEEE International Conference on Systems, Man and Cybernetics
   (SMC)}, pages 2847--2852, 2004.
 
 \bibitem{Bruemmer2002}
@@ -98,7 +118,9 @@ Jennifer~L. Burke and Robin~R. Murphy.
 
 \bibitem{Burke2004a}
 Jennifer~L. Burke, Robin~R. Murphy, Michael~D. Coovert, and Dawn~L. Riddle.
-\newblock {\em Human–Computer Interaction}, (1-2).
+\newblock {Moonlight in Miami: Field study of human-robot interaction in the
+  context of an urban search and rescue disaster response training exercise}.
+\newblock {\em Human-Computer Interaction}, 19(1-2):85--116, 2004.
 
 \bibitem{Caldwell1996}
 Darwin~G. Caldwell, K.~Reddy, O.~Kocak, and A.~Wardle.
@@ -151,9 +173,9 @@ Jennifer~L. Casper and Robin~R. Murphy.
   (ICRA)}, volume~2, pages 1997 -- 2003 vol.2, 2002.
 
 \bibitem{CasperMurphy911}
-Jennifer L. Casper and Robin R. Murphy.
-\newblock {Human-Robot Interactions During the Robot-Assisted Urban Search
-  and Rescue Response at the World Trade Center}.
+Jennifer~L. Casper and Robin~R. Murphy.
+\newblock {Human-Robot Interactions During the Robot-Assisted Urban Search and
+  Rescue Response at the World Trade Center}.
 \newblock {\em IEEE Transactions on Systems, Man, and Cybernetics, Part B:
   Cybernetics}, 33(3):367--385, 2003.
 
@@ -164,20 +186,28 @@ Jessie Y.~C. Chen, Ellen~C. Haas, and Michael~J. Barnes.
 \newblock {\em Systems, Man and Cybernetics, Part C (Applications and
   Reviews)}, 37(6):1231--1245, nov 2007.
 
+\bibitem{Chiou2016_AAAI}
+Manolis Chiou, Goda Bieksaite, Nick Hawes, and Rustam Stolkin.
+\newblock {Human-Initiative Variable Autonomy: An Experimental Analysis of the
+  Interactions Between a Human Operator and a Remotely Operated Mobile Robot
+  which also Possesses Autonomous Capabilities}.
+\newblock In {\em AAAI Fall Symposium Series: Shared Autonomy in Research and
+  Practice}, pages 304--310, 2016.
+
+\bibitem{Chiou2016}
+Manolis Chiou, Goda Bieksaite, Rustam Stolkin, Nick Hawes, Kimron~L. Shapiro,
+  and Timothy~S. Harrison.
+\newblock {Experimental analysis of a variable autonomy framework for
+  controlling a remotely operating mobile robot}.
+\newblock In {\em IEEE/RSJ International Conference on Intelligent Robots and
+  Systems (IROS)}, pages 3581--3588, 2016.
+
 \bibitem{Chiou2015}
 Manolis Chiou, Nick Hawes, Rustam Stolkin, Kimron~L. Shapiro, Jess~R. Kerlin,
   and Andrew Clouter.
 \newblock {Towards the Principled Study of Variable Autonomy in Mobile Robots}.
 \newblock In {\em Systems, Man, and Cybernetics (SMC), 2015 IEEE International
   Conference on}, pages 1053--1059, 2015.
-
-\bibitem{Chiou2016}
-Manolis Chiou, Rustam Stolkin, Goda Bieksaite, Nick Hawes, Kimron~L. Shapiro,
-  and Timothy~S Harrison.
-\newblock {Experimental Analysis of a Variable Autonomy Framework for
-  Controlling a Remotely Operating Mobile Robot}.
-\newblock In {\em IEEE/RSJ International Conference on Intelligent Robots and
-  Systems (IROS)}, 2016.
 
 \bibitem{Christensen2012}
 James~C. Christensen, Justin~R. Estepp, Glenn~F. Wilson, and Christopher~A.
@@ -193,6 +223,11 @@ J.~{Corde Lane}, C.R. Carignan, B.R. Sullivan, D.L. Akin, T.~Hunt, and
   vehicles}.
 \newblock In {\em IEEE International Conference on Robotics and Automation
   (ICRA)}, volume~3, pages 2874--2879, 2002.
+
+\bibitem{Dijkstra1959}
+Edsger~W. Dijkstra.
+\newblock {A note on two problems in connexion with graphs}.
+\newblock {\em Numerische Mathematik}, 1(1):269--271, 1959.
 
 \bibitem{Dole2015}
 Lorin~D. Dole, David~M. Sirkin, Robin~R. Murphy, and Clifford~I. Nass.
@@ -213,13 +248,6 @@ Paul Dourish and Victoria Bellotti.
 \newblock In {\em Proceedings of the 1992 ACM conference on Computer-supported
   cooperative work}, number November, pages 107--114. ACM New York, 1992.
 
-\bibitem{Drury2007}
-Jill~L. Drury, Brenden Keyes, and Holly~A. Yanco.
-\newblock {LASSOing HRI: analyzing situation awareness in map-centric and
-  video-centric interfaces}.
-\newblock In {\em 2nd ACM/IEEE International Conference on Human-Robot
-  Interaction (HRI)}, pages 279--286, 2007.
-
 \bibitem{Drury2003}
 Jill~L. Drury, Jean~C. Scholtz, and Holly~A. Yanco.
 \newblock {Awareness in Human-Robot Interactions}.
@@ -232,6 +260,12 @@ Gilberto Echeverria, Nicolas Lassabe, Arnaud Degroote, and S{\'{e}}verin
 \newblock {Modular open robots simulation engine: MORSE}.
 \newblock In {\em IEEE International Conference on Robotics and Automation
   (ICRA)}, pages 46--51, 2011.
+
+\bibitem{Endsley1988}
+Mica~R. Endsley.
+\newblock {SITUATION AWARENESS GLOBAL ASSESSMENT TECHNIQUE (SAGAT)}.
+\newblock In {\em IEEE National Aerospace and electronics conference}, pages
+  789 -- 795 vol.3, 1988.
 
 \bibitem{Endsley1999}
 Mica~R. Endsley, D.~B. Kaber, D.B. {Endsley, M.R., and Kaber}, Mica~R. Endsley,
@@ -282,6 +316,11 @@ Terrence Fong, Charles Thorpe, and Charles Baur.
 Terrence Fong, Charles Thorpe, and Charles Baur.
 \newblock {Robot, asker of questions}.
 \newblock {\em Robotics and Autonomous Systems}, 42(3-4):235--243, 2003.
+
+\bibitem{dwa_planner}
+Dieter Fox, Wolfram Burgard, and Sebastian Thrun.
+\newblock {The dynamic window approach to collision avoidance}.
+\newblock {\em IEEE Robotics {\&} Automation Magazine}, 4(1):22--33, 1997.
 
 \bibitem{Ganis2015}
 Giorgio Ganis and Rogier Kievit.
@@ -350,7 +389,7 @@ Sandra~G. Hart and Lowell~E. Staveland.
 \bibitem{Hokayem2006}
 Peter~F. Hokayem and Mark~W. Spong.
 \newblock {Bilateral teleoperation: An historical survey}.
-\newblock {\em Automatica}, 42(12):2035--2057, dec 2006.
+\newblock {\em Automatica}, 42(12):2035--2057, Dec 2006.
 
 \bibitem{Jacoff2003a}
 A.~Jacoff, E.~Messina, B.A. Weiss, S.~Tadokoro, and Y.~Nakagawa.
@@ -365,6 +404,18 @@ Shu Jiang and Ronald~C. Arkin.
   and Survey}.
 \newblock In {\em IEEE International Conference on Systems, Man, and
   Cybernetics (SMC)}, pages 954--961, 2015.
+
+\bibitem{kadous2005caster}
+Mohammed~Waleed Kadous, Raymond Ka-Man Sheh, and Claude Sammut.
+\newblock {Caster: A robot for urban search and rescue}.
+\newblock In {\em Australasian Conference on Robotics and Automation}, pages
+  1--10, 2005.
+
+\bibitem{Khurshid2004}
+Javaid Khurshid and Hong Bing-rong.
+\newblock {Military robots-a glimpse from today and tomorrow}.
+\newblock In {\em International Conference on Control, Automation, Robotics and
+  Vision}, pages 771 -- 777, 2004.
 
 \bibitem{Kim2004}
 T.W. Kim and J.~Yuh.
@@ -415,6 +466,26 @@ Yugang Liu and Goldie Nejat.
   Perspective}.
 \newblock {\em Journal of Intelligent and Robotic Systems}, 72(2):147--165, mar
   2013.
+
+\bibitem{fuku_blog}
+IEEE~Spectrum magazine.
+\newblock Fukushima robot operator writes tell-all blog.
+\newblock
+  \url{http://spectrum.ieee.org/automaton/robotics/industrial-robots/fukushima-robot-operator-diaries}.
+\newblock Accessed: 2016-12-22.
+
+\bibitem{fuku_science}
+Science magazine.
+\newblock How robots are becoming critical players in nuclear disaster cleanup.
+\newblock
+  \url{http://www.sciencemag.org/news/2016/03/how-robots-are-becoming-critical-players-nuclear-disaster-cleanup}.
+\newblock Accessed: 2016-12-22.
+
+\bibitem{Mamdani1975}
+E.H. Mamdani and S.~Assilian.
+\newblock {An experiment in linguistic synthesis with a fuzzy logic
+  controller}.
+\newblock {\em International Journal of Man-Machine Studies}, 7(1):1--13, 1975.
 
 \bibitem{Manikonda2007}
 Vikram Manikonda, Priya Ranjan, Zachary Kulis, and Calhoun Drive.
@@ -478,6 +549,11 @@ Keiji Nagatani, Seiga Kiribayashi, Yoshito Okada, Kazuki Otake, Kazuya Yoshida,
 \newblock {Emergency Response to the Nuclear Accident at the Fukushima Daiichi
   Nuclear Power Plants using Mobile Rescue Robots}.
 \newblock {\em Journal of Field Robotics}, 30(1):44--63, 2013.
+
+\bibitem{Nagi2009}
+Farrukh Nagi, L.~Perumal, and J.~Nagi.
+\newblock {A new integrated fuzzy bang-bang relay control system}.
+\newblock {\em Mechatronics}, 19(5):748--760, 2009.
 
 \bibitem{Nielsen2008}
 Curtis~W. Nielsen, Douglas~A. Few, and Devin~S. Athey.
@@ -556,6 +632,12 @@ Brennan Sellner, Reid Simmons, and Sanjiv Singh.
 \newblock In {\em Multi-Robot Systems. From Swarms to Intelligent Automata
   Volume III}, pages 197--208. Springer Netherlands, 2005.
 
+\bibitem{Seward2005}
+Derek~W. Seward and Mohamed~J. Bakari.
+\newblock {The use of robotics and automation in nuclear decommissioning}.
+\newblock In {\em 22nd International Symposium on Automation and Robotics in
+  Construction (ISARC)}, volume~44, pages 11--14, 2005.
+
 \bibitem{Sharek2011}
 David Sharek.
 \newblock {A Useable, Online NASA-TLX Tool}.
@@ -573,6 +655,12 @@ Jian Shen, Javier Ibanez-Guzman, Teck~Chew Ng, and Boon {Seng Chew}.
 Thomas~B. Sheridan.
 \newblock {Telerobotics}.
 \newblock {\em Automatica}, 25(4):487--507, 1989.
+
+\bibitem{Sheridan1993}
+Thomas~B. Sheridan.
+\newblock {Space teleoperation through time delay: review and prognosis}.
+\newblock {\em IEEE Transactions on Robotics and Automation}, 9(5):592--606,
+  1993.
 
 \bibitem{Sheridan1995}
 Thomas~B. Sheridan.
@@ -615,7 +703,9 @@ Aberto Valero-Gomez, Paloma de~la Puente, and Miguel Hernando.
 
 \bibitem{Wen2015}
 Wen Wen, Atsushi Yamashita, and Hajime Asama.
-\newblock {\em Plos One}.
+\newblock {The Sense of Agency during Continuous Action: Performance Is More
+  Important than Action-Feedback Association}.
+\newblock {\em Plos One}, 10(4):e0125226, 2015.
 
 \bibitem{Wickens2002}
 Christopher~D. Wickens.
