@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2017.3.30)  30 MAR 2017 02:29
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2017.3.30)  31 MAR 2017 20:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -992,42 +992,42 @@ LaTeX Font Info:    Font shape `U/futm/m/n' will be
 ]
 [4]
 Overfull \hbox (1.19994pt too wide) detected at line 70
- []\T1/futs/m/n/12 101
- []
-
-
-Overfull \hbox (1.19994pt too wide) detected at line 71
  []\T1/futs/m/n/12 103
  []
 
 
+Overfull \hbox (1.19994pt too wide) detected at line 71
+ []\T1/futs/m/n/12 105
+ []
+
+
 Overfull \hbox (1.19994pt too wide) detected at line 72
- []\T1/futs/m/n/12 106
+ []\T1/futs/m/n/12 108
  []
 
 
 Overfull \hbox (1.19994pt too wide) detected at line 73
- []\T1/futs/m/n/12 110
+ []\T1/futs/m/n/12 112
  []
 
 [5]
 Overfull \hbox (1.19994pt too wide) detected at line 75
- []\T1/futs/m/n/12 113
+ []\T1/futs/m/n/12 115
  []
 
 
 Overfull \hbox (1.19994pt too wide) detected at line 76
- []\T1/futs/m/n/12 117
- []
-
-
-Overfull \hbox (1.19994pt too wide) detected at line 77
  []\T1/futs/m/n/12 119
  []
 
 
+Overfull \hbox (1.19994pt too wide) detected at line 77
+ []\T1/futs/m/n/12 121
+ []
+
+
 Overfull \hbox (1.19994pt too wide) detected at line 81
- []\T1/futs/m/n/12 138
+ []\T1/futs/m/n/12 139
  []
 
 )
@@ -1049,33 +1049,43 @@ Overfull \hbox (2.06104pt too wide) in paragraph at lines 27--27
  []
 
 [10]
-Overfull \hbox (1.19994pt too wide) detected at line 35
+Overfull \hbox (1.19994pt too wide) detected at line 33
  []\T1/futs/m/n/12 100
+ []
+
+
+Overfull \hbox (1.19994pt too wide) detected at line 34
+ []\T1/futs/m/n/12 101
+ []
+
+
+Overfull \hbox (1.19994pt too wide) detected at line 35
+ []\T1/futs/m/n/12 102
  []
 
 
 Overfull \hbox (1.19994pt too wide) detected at line 36
- []\T1/futs/m/n/12 100
+ []\T1/futs/m/n/12 102
  []
 
 
 Overfull \hbox (1.19994pt too wide) detected at line 37
- []\T1/futs/m/n/12 104
- []
-
-
-Overfull \hbox (1.19994pt too wide) detected at line 38
- []\T1/futs/m/n/12 105
- []
-
-
-Overfull \hbox (1.19994pt too wide) detected at line 39
  []\T1/futs/m/n/12 106
  []
 
 
-Overfull \hbox (1.19994pt too wide) detected at line 40
+Overfull \hbox (1.19994pt too wide) detected at line 38
  []\T1/futs/m/n/12 107
+ []
+
+
+Overfull \hbox (1.19994pt too wide) detected at line 39
+ []\T1/futs/m/n/12 108
+ []
+
+
+Overfull \hbox (1.19994pt too wide) detected at line 40
+ []\T1/futs/m/n/12 109
  []
 
 )
@@ -1109,352 +1119,353 @@ Package placeins Info: Float barrier, from input line 163, processed on page 4,
 ]
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/futs/b/n' tried instead on input line 172.
- [5] [6]
-Package placeins Info: No floats held, on input line 184.
- [7
-Package placeins Info: Float barrier, from input line 184, processed on page 7,
- lands on page 7. 
-]
-Overfull \hbox (3.6938pt too wide) in paragraph at lines 195--196
+ [5] [6] [7]
+Package placeins Info: No floats held, on input line 186.
+
+Overfull \hbox (3.6938pt too wide) in paragraph at lines 197--198
 []\T1/futs/m/n/12 (-20) Proposing an in-formed frame-work and sug-ges-tions for
  design-ing ro-botic Mixed-Initiative
  []
 
-Package placeins Info: No floats held, on input line 207.
 [8
-Package placeins Info: Float barrier, from input line 207, processed on page 8,
+Package placeins Info: Float barrier, from input line 186, processed on page 8,
  lands on page 8. 
 ]
-Package placeins Info: No floats held, on input line 223.
+Package placeins Info: No floats held, on input line 209.
  [9
-Package placeins Info: Float barrier, from input line 223, processed on page 9,
+Package placeins Info: Float barrier, from input line 209, processed on page 9,
  lands on page 9. 
-] [10]
+]
+Package placeins Info: No floats held, on input line 225.
+ [10
+Package placeins Info: Float barrier, from input line 225, processed on page 10
+, lands on page 10. 
+] [11]
 Chapter 2.
-Package placeins Info: No floats held, on input line 253.
-[11
+Package placeins Info: No floats held, on input line 255.
+[12
 
-Package placeins Info: Float barrier, from input line 253, processed on page 11
-, lands on page 11. 
-] [12] [13] [14] [15] [16]
-Package placeins Info: No floats held, on input line 293.
- [17
-Package placeins Info: Float barrier, from input line 293, processed on page 17
-, lands on page 17. 
-] [18]
-Package placeins Info: No floats held, on input line 306.
- [19
-Package placeins Info: Float barrier, from input line 306, processed on page 19
-, lands on page 19. 
-] [20] [21] [22]
-<BeerHRItaxonomy.png, id=920, 417.2388pt x 429.7656pt>
+Package placeins Info: Float barrier, from input line 255, processed on page 12
+, lands on page 12. 
+] [13] [14] [15] [16] [17]
+Package placeins Info: No floats held, on input line 295.
+ [18
+Package placeins Info: Float barrier, from input line 295, processed on page 18
+, lands on page 18. 
+] [19]
+Package placeins Info: No floats held, on input line 308.
+ [20
+Package placeins Info: Float barrier, from input line 308, processed on page 20
+, lands on page 20. 
+] [21] [22] [23]
+<BeerHRItaxonomy.png, id=1030, 417.2388pt x 429.7656pt>
 File: BeerHRItaxonomy.png Graphic file (type png)
 
 <use BeerHRItaxonomy.png>
-Package pdftex.def Info: BeerHRItaxonomy.png used on input line 347.
+Package pdftex.def Info: BeerHRItaxonomy.png used on input line 349.
 (pdftex.def)             Requested size: 455.24411pt x 468.92703pt.
- [23] [24 <./BeerHRItaxonomy.png>] [25]
-Package placeins Info: No floats held, on input line 394.
- [26
-Package placeins Info: Float barrier, from input line 394, processed on page 26
-, lands on page 26. 
-] [27]
-[28] [29]
-Overfull \hbox (2.94672pt too wide) in paragraph at lines 432--433
+ [24] [25 <./BeerHRItaxonomy.png>] [26] [27]
+Package placeins Info: No floats held, on input line 396.
+ [28
+Package placeins Info: Float barrier, from input line 396, processed on page 28
+, lands on page 28. 
+]
+[29] [30] [31]
+Overfull \hbox (2.94672pt too wide) in paragraph at lines 434--435
 []\T1/futs/b/n/12 Span-of-mixed-initiative \T1/futs/m/n/12 (-20) which char-ac-
 ter-izes the con-trol ele-ments (ini-ti-at-ives) in which
  []
 
-[30] [31] [32] [33]
-Package placeins Info: No floats held, on input line 464.
- [34
-Package placeins Info: Float barrier, from input line 464, processed on page 34
-, lands on page 34. 
-] [35] [36] [37]
+[32] [33] [34] [35]
+Package placeins Info: No floats held, on input line 466.
+ [36
+Package placeins Info: Float barrier, from input line 466, processed on page 36
+, lands on page 36. 
+] [37] [38] [39]
 Chapter 3.
-[38
+[40
 
 ]
-Package placeins Info: No floats held, on input line 496.
- <chapter5_fig/pioneer.jpg, id=1140, 1900.09875pt x 1876.00874pt>
+Package placeins Info: No floats held, on input line 498.
+ <chapter5_fig/pioneer.jpg, id=1346, 1900.09875pt x 1876.00874pt>
 File: chapter5_fig/pioneer.jpg Graphic file (type jpg)
 
 <use chapter5_fig/pioneer.jpg>
-Package pdftex.def Info: chapter5_fig/pioneer.jpg used on input line 501.
+Package pdftex.def Info: chapter5_fig/pioneer.jpg used on input line 503.
 (pdftex.def)             Requested size: 227.62206pt x 224.71057pt.
 
-<chapter3_fig/interface_pilot.jpeg, id=1141, 1143.0705pt x 581.7735pt>
+<chapter3_fig/interface_pilot.jpeg, id=1347, 1143.0705pt x 581.7735pt>
 File: chapter3_fig/interface_pilot.jpeg Graphic file (type jpg)
 
 <use chapter3_fig/interface_pilot.jpeg>
 Package pdftex.def Info: chapter3_fig/interface_pilot.jpeg used on input line 5
-08.
+10.
 (pdftex.def)             Requested size: 455.24411pt x 231.69328pt.
- [39
-Package placeins Info: Float barrier, from input line 496, processed on page 39
-, lands on page 39. 
-] [40 <./chapter5_fig/pioneer.jpg> <./chapter3_fig/interface_pilot.jpeg>]
-Package placeins Info: No floats held, on input line 517.
  [41
-Package placeins Info: Float barrier, from input line 517, processed on page 41
+Package placeins Info: Float barrier, from input line 498, processed on page 41
 , lands on page 41. 
+] [42 <./chapter5_fig/pioneer.jpg> <./chapter3_fig/interface_pilot.jpeg>]
+Package placeins Info: No floats held, on input line 519.
+ [43
+Package placeins Info: Float barrier, from input line 519, processed on page 43
+, lands on page 43. 
 ]
-<chapter3_fig/arena_pilot.jpg, id=1164, 2601.72pt x 1951.29pt>
+<chapter3_fig/arena_pilot.jpg, id=1378, 2601.72pt x 1951.29pt>
 File: chapter3_fig/arena_pilot.jpg Graphic file (type jpg)
 
 <use chapter3_fig/arena_pilot.jpg>
-Package pdftex.def Info: chapter3_fig/arena_pilot.jpg used on input line 538.
+Package pdftex.def Info: chapter3_fig/arena_pilot.jpg used on input line 540.
 (pdftex.def)             Requested size: 227.62206pt x 170.69577pt.
 
-<chapter3_fig/map_pilot.png, id=1165, 268.00125pt x 258.9675pt>
+<chapter3_fig/map_pilot.png, id=1379, 268.00125pt x 258.9675pt>
 File: chapter3_fig/map_pilot.png Graphic file (type png)
 
 <use chapter3_fig/map_pilot.png>
-Package pdftex.def Info: chapter3_fig/map_pilot.png used on input line 544.
+Package pdftex.def Info: chapter3_fig/map_pilot.png used on input line 546.
 (pdftex.def)             Requested size: 204.85846pt x 197.9514pt.
- [42 <./chapter3_fig/arena_pilot.jpg> <./chapter3_fig/map_pilot.png>] [43] [44]
+ [44 <./chapter3_fig/arena_pilot.jpg> <./chapter3_fig/map_pilot.png>] [45] [46]
 
-<chapter3_fig/time-cropped_pilot.png, id=1185, 314.17375pt x 318.18875pt>
+<chapter3_fig/time-cropped_pilot.png, id=1401, 314.17375pt x 318.18875pt>
 File: chapter3_fig/time-cropped_pilot.png Graphic file (type png)
 
 <use chapter3_fig/time-cropped_pilot.png>
 Package pdftex.def Info: chapter3_fig/time-cropped_pilot.png used on input line
- 579.
+ 581.
 (pdftex.def)             Requested size: 223.07211pt x 225.92044pt.
 
-<chapter3_fig/collisions-cropped_pilot.png, id=1186, 309.155pt x 318.18875pt>
+<chapter3_fig/collisions-cropped_pilot.png, id=1402, 309.155pt x 318.18875pt>
 File: chapter3_fig/collisions-cropped_pilot.png Graphic file (type png)
 
 <use chapter3_fig/collisions-cropped_pilot.png>
 Package pdftex.def Info: chapter3_fig/collisions-cropped_pilot.png used on inpu
-t line 586.
+t line 588.
 (pdftex.def)             Requested size: 223.07211pt x 229.5958pt.
 
-<chapter3_fig/primary_score_cropped_pilot.png, id=1189, 249.93375pt x 234.1247p
+<chapter3_fig/primary_score_cropped_pilot.png, id=1405, 249.93375pt x 234.1247p
 t>
 File: chapter3_fig/primary_score_cropped_pilot.png Graphic file (type png)
  <use chapter3_fig/primary_score_cropped_pilot.png>
 Package pdftex.def Info: chapter3_fig/primary_score_cropped_pilot.png used on i
-nput line 605.
+nput line 607.
 (pdftex.def)             Requested size: 209.41534pt x 196.17754pt.
 
-<chapter3_fig/speed-acc_pilot.png, id=1190, 1023.825pt x 825.83531pt>
+<chapter3_fig/speed-acc_pilot.png, id=1406, 1023.825pt x 825.83531pt>
 File: chapter3_fig/speed-acc_pilot.png Graphic file (type png)
 
 <use chapter3_fig/speed-acc_pilot.png>
 Package pdftex.def Info: chapter3_fig/speed-acc_pilot.png used on input line 61
-2.
+4.
 (pdftex.def)             Requested size: 236.72888pt x 190.94621pt.
- [45]
-<chapter3_fig/RTs-cropped_pilot.png, id=1200, 238.64156pt x 328.22626pt>
+ [47]
+<chapter3_fig/RTs-cropped_pilot.png, id=1417, 238.64156pt x 328.22626pt>
 File: chapter3_fig/RTs-cropped_pilot.png Graphic file (type png)
 
 <use chapter3_fig/RTs-cropped_pilot.png>
 Package pdftex.def Info: chapter3_fig/RTs-cropped_pilot.png used on input line 
-631.
+633.
 (pdftex.def)             Requested size: 182.09486pt x 250.4512pt.
 
-<chapter3_fig/misses-cropped_pilot.png, id=1201, 243.91125pt x 325.96782pt>
+<chapter3_fig/misses-cropped_pilot.png, id=1418, 243.91125pt x 325.96782pt>
 File: chapter3_fig/misses-cropped_pilot.png Graphic file (type png)
 
 <use chapter3_fig/misses-cropped_pilot.png>
 Package pdftex.def Info: chapter3_fig/misses-cropped_pilot.png used on input li
-ne 638.
+ne 640.
 (pdftex.def)             Requested size: 182.09486pt x 243.35612pt.
- [46 <./chapter3_fig/time-cropped_pilot.png> <./chapter3_fig/collisions-cropped
-_pilot.png>] [47 <./chapter3_fig/primary_score_cropped_pilot.png> <./chapter3_f
+ [48 <./chapter3_fig/time-cropped_pilot.png> <./chapter3_fig/collisions-cropped
+_pilot.png>] [49 <./chapter3_fig/primary_score_cropped_pilot.png> <./chapter3_f
 ig/speed-acc_pilot.png> <./chapter3_fig/RTs-cropped_pilot.png> <./chapter3_fig/
 misses-cropped_pilot.png>]
-Package placeins Info: No floats held, on input line 662.
- [48
-Package placeins Info: Float barrier, from input line 662, processed on page 48
-, lands on page 48. 
-]
-[49]
-Package placeins Info: No floats held, on input line 675.
+Package placeins Info: No floats held, on input line 664.
  [50
-Package placeins Info: Float barrier, from input line 675, processed on page 50
+Package placeins Info: Float barrier, from input line 664, processed on page 50
 , lands on page 50. 
-] [51]
-Chapter 4.
-[52
-
-] [53]
-Package placeins Info: No floats held, on input line 697.
- [54
-Package placeins Info: Float barrier, from input line 697, processed on page 54
-, lands on page 54. 
 ]
-<chapter4_fig/interface.png, id=1270, 766.66425pt x 405.31425pt>
+[51]
+Package placeins Info: No floats held, on input line 677.
+ [52
+Package placeins Info: Float barrier, from input line 677, processed on page 52
+, lands on page 52. 
+] [53]
+Chapter 4.
+[54
+
+] [55]
+Package placeins Info: No floats held, on input line 699.
+ [56
+Package placeins Info: Float barrier, from input line 699, processed on page 56
+, lands on page 56. 
+]
+<chapter4_fig/interface.png, id=1493, 766.66425pt x 405.31425pt>
 File: chapter4_fig/interface.png Graphic file (type png)
 
 <use chapter4_fig/interface.png>
-Package pdftex.def Info: chapter4_fig/interface.png used on input line 704.
+Package pdftex.def Info: chapter4_fig/interface.png used on input line 706.
 (pdftex.def)             Requested size: 364.19667pt x 192.53864pt.
- [55 <./chapter4_fig/interface.png>]
-Package placeins Info: No floats held, on input line 711.
+ [57 <./chapter4_fig/interface.png>]
+Package placeins Info: No floats held, on input line 713.
 
-<chapter4_fig/interface_real.png, id=1281, 1120.78725pt x 708.246pt>
+<chapter4_fig/interface_real.png, id=1505, 1120.78725pt x 708.246pt>
 File: chapter4_fig/interface_real.png Graphic file (type png)
 
 <use chapter4_fig/interface_real.png>
-Package pdftex.def Info: chapter4_fig/interface_real.png used on input line 719
+Package pdftex.def Info: chapter4_fig/interface_real.png used on input line 721
 .
 (pdftex.def)             Requested size: 218.51521pt x 138.08038pt.
 
-<chapter4_fig/OCU.jpg, id=1282, 1119.58275pt x 629.9535pt>
+<chapter4_fig/OCU.jpg, id=1506, 1119.58275pt x 629.9535pt>
 File: chapter4_fig/OCU.jpg Graphic file (type jpg)
 
 <use chapter4_fig/OCU.jpg>
-Package pdftex.def Info: chapter4_fig/OCU.jpg used on input line 726.
+Package pdftex.def Info: chapter4_fig/OCU.jpg used on input line 728.
 (pdftex.def)             Requested size: 223.07211pt x 125.50784pt.
 
-<chapter4_fig/sim2.jpeg, id=1294, 579.3645pt x 657.05475pt>
+<chapter4_fig/sim2.jpeg, id=1520, 579.3645pt x 657.05475pt>
 File: chapter4_fig/sim2.jpeg Graphic file (type jpg)
 
 <use chapter4_fig/sim2.jpeg>
-Package pdftex.def Info: chapter4_fig/sim2.jpeg used on input line 743.
+Package pdftex.def Info: chapter4_fig/sim2.jpeg used on input line 745.
 (pdftex.def)             Requested size: 204.85846pt x 232.32867pt.
 
-<chapter4_fig/arena_real.jpeg, id=1295, 1092.08pt x 1714.405pt>
+<chapter4_fig/arena_real.jpeg, id=1521, 1092.08pt x 1714.405pt>
 File: chapter4_fig/arena_real.jpeg Graphic file (type jpg)
 
 <use chapter4_fig/arena_real.jpeg>
-Package pdftex.def Info: chapter4_fig/arena_real.jpeg used on input line 750.
+Package pdftex.def Info: chapter4_fig/arena_real.jpeg used on input line 752.
 (pdftex.def)             Requested size: 159.33821pt x 250.13885pt.
 
-<chapter4_fig/map.png, id=1296, 371.88937pt x 451.6875pt>
+<chapter4_fig/map.png, id=1522, 371.88937pt x 451.6875pt>
 File: chapter4_fig/map.png Graphic file (type png)
 
 <use chapter4_fig/map.png>
-Package pdftex.def Info: chapter4_fig/map.png used on input line 763.
+Package pdftex.def Info: chapter4_fig/map.png used on input line 765.
 (pdftex.def)             Requested size: 186.65175pt x 226.70471pt.
 
-<chapter4_fig/map_real.png, id=1297, 268.00125pt x 258.9675pt>
+<chapter4_fig/map_real.png, id=1523, 268.00125pt x 258.9675pt>
 File: chapter4_fig/map_real.png Graphic file (type png)
 
 <use chapter4_fig/map_real.png>
-Package pdftex.def Info: chapter4_fig/map_real.png used on input line 770.
+Package pdftex.def Info: chapter4_fig/map_real.png used on input line 772.
 (pdftex.def)             Requested size: 204.85846pt x 197.9514pt.
- [56
-Package placeins Info: Float barrier, from input line 711, processed on page 56
-, lands on page 56. 
-] [57 <./chapter4_fig/interface_real.png> <./chapter4_fig/OCU.jpg> <./chapter4_
-fig/sim2.jpeg> <./chapter4_fig/arena_real.jpeg>] [58 <./chapter4_fig/map.png> <
+ [58
+Package placeins Info: Float barrier, from input line 713, processed on page 58
+, lands on page 58. 
+] [59 <./chapter4_fig/interface_real.png> <./chapter4_fig/OCU.jpg> <./chapter4_
+fig/sim2.jpeg> <./chapter4_fig/arena_real.jpeg>] [60 <./chapter4_fig/map.png> <
 ./chapter4_fig/map_real.png>]
-<chapter4_fig/rotation_example.jpg, id=1321, 803.0pt x 428.60126pt>
+<chapter4_fig/rotation_example.jpg, id=1549, 803.0pt x 428.60126pt>
 File: chapter4_fig/rotation_example.jpg Graphic file (type jpg)
 
 <use chapter4_fig/rotation_example.jpg>
 Package pdftex.def Info: chapter4_fig/rotation_example.jpg used on input line 7
-90.
+92.
 (pdftex.def)             Requested size: 204.85846pt x 109.34091pt.
 LaTeX Font Info:    Font shape `T1/futs/bx/it' in size <12> not available
-(Font)              Font shape `T1/futs/b/it' tried instead on input line 795.
- [59 <./chapter4_fig/rotation_example.jpg>] [60] [61]
-Package placeins Info: No floats held, on input line 810.
- [62
-Package placeins Info: Float barrier, from input line 810, processed on page 62
-, lands on page 62. 
+(Font)              Font shape `T1/futs/b/it' tried instead on input line 797.
+ [61 <./chapter4_fig/rotation_example.jpg>] [62] [63]
+Package placeins Info: No floats held, on input line 812.
+ [64
+Package placeins Info: Float barrier, from input line 812, processed on page 64
+, lands on page 64. 
 ]
-<chapter4_fig/primary_metrics_time.png, id=1349, 523.20468pt x 582.67688pt>
+<chapter4_fig/primary_metrics_time.png, id=1579, 523.20468pt x 582.67688pt>
 File: chapter4_fig/primary_metrics_time.png Graphic file (type png)
 
 <use chapter4_fig/primary_metrics_time.png>
 Package pdftex.def Info: chapter4_fig/primary_metrics_time.png used on input li
-ne 825.
+ne 827.
 (pdftex.def)             Requested size: 223.07211pt x 248.42125pt.
 
-<chapter4_fig/collisions.png, id=1350, 548.0475pt x 576.65437pt>
+<chapter4_fig/collisions.png, id=1580, 548.0475pt x 576.65437pt>
 File: chapter4_fig/collisions.png Graphic file (type png)
 
 <use chapter4_fig/collisions.png>
-Package pdftex.def Info: chapter4_fig/collisions.png used on input line 832.
+Package pdftex.def Info: chapter4_fig/collisions.png used on input line 834.
 (pdftex.def)             Requested size: 223.07211pt x 234.714pt.
- [63 <./chapter4_fig/primary_metrics_time.png> <./chapter4_fig/collisions.png>]
+ [65 <./chapter4_fig/primary_metrics_time.png> <./chapter4_fig/collisions.png>]
 
-<chapter4_fig/secondary_time.png, id=1364, 498.06075pt x 475.7775pt>
+<chapter4_fig/secondary_time.png, id=1596, 498.06075pt x 475.7775pt>
 File: chapter4_fig/secondary_time.png Graphic file (type png)
 
 <use chapter4_fig/secondary_time.png>
-Package pdftex.def Info: chapter4_fig/secondary_time.png used on input line 851
+Package pdftex.def Info: chapter4_fig/secondary_time.png used on input line 853
 .
 (pdftex.def)             Requested size: 223.07211pt x 213.09604pt.
 
-<chapter4_fig/secondary_mistakes.png, id=1365, 589.4522pt x 574.39594pt>
+<chapter4_fig/secondary_mistakes.png, id=1597, 589.4522pt x 574.39594pt>
 File: chapter4_fig/secondary_mistakes.png Graphic file (type png)
 
 <use chapter4_fig/secondary_mistakes.png>
 Package pdftex.def Info: chapter4_fig/secondary_mistakes.png used on input line
- 858.
+ 860.
 (pdftex.def)             Requested size: 223.07211pt x 217.37872pt.
- [64]
-<chapter4_fig/NasaTLX.png, id=1376, 486.618pt x 469.755pt>
+ [66]
+<chapter4_fig/NasaTLX.png, id=1608, 486.618pt x 469.755pt>
 File: chapter4_fig/NasaTLX.png Graphic file (type png)
 
 <use chapter4_fig/NasaTLX.png>
-Package pdftex.def Info: chapter4_fig/NasaTLX.png used on input line 875.
+Package pdftex.def Info: chapter4_fig/NasaTLX.png used on input line 877.
 (pdftex.def)             Requested size: 223.07211pt x 215.34447pt.
- [65 <./chapter4_fig/secondary_time.png> <./chapter4_fig/secondary_mistakes.png
->] [66 <./chapter4_fig/NasaTLX.png>]
-Package placeins Info: No floats held, on input line 888.
+ [67 <./chapter4_fig/secondary_time.png> <./chapter4_fig/secondary_mistakes.png
+>] [68 <./chapter4_fig/NasaTLX.png>]
+Package placeins Info: No floats held, on input line 890.
 
-<chapter4_fig/time-in-mode.png, id=1390, 646.8165pt x 479.99326pt>
+<chapter4_fig/time-in-mode.png, id=1623, 646.8165pt x 479.99326pt>
 File: chapter4_fig/time-in-mode.png Graphic file (type png)
 
 <use chapter4_fig/time-in-mode.png>
-Package pdftex.def Info: chapter4_fig/time-in-mode.png used on input line 895.
+Package pdftex.def Info: chapter4_fig/time-in-mode.png used on input line 897.
 (pdftex.def)             Requested size: 227.62206pt x 168.91566pt.
 
-<chapter4_fig/time-mode-histogram.png, id=1391, 473.97075pt x 501.67426pt>
+<chapter4_fig/time-mode-histogram.png, id=1624, 473.97075pt x 501.67426pt>
 File: chapter4_fig/time-mode-histogram.png Graphic file (type png)
 
 <use chapter4_fig/time-mode-histogram.png>
 Package pdftex.def Info: chapter4_fig/time-mode-histogram.png used on input lin
-e 902.
+e 904.
 (pdftex.def)             Requested size: 204.85846pt x 216.82568pt.
- [67
-Package placeins Info: Float barrier, from input line 888, processed on page 67
-, lands on page 67. 
+ [69
+Package placeins Info: Float barrier, from input line 890, processed on page 69
+, lands on page 69. 
 ]
-<chapter4_fig/number-loa-switches.png, id=1405, 475.7775pt x 505.28775pt>
+<chapter4_fig/number-loa-switches.png, id=1638, 475.7775pt x 505.28775pt>
 File: chapter4_fig/number-loa-switches.png Graphic file (type png)
 
 <use chapter4_fig/number-loa-switches.png>
 Package pdftex.def Info: chapter4_fig/number-loa-switches.png used on input lin
-e 921.
+e 923.
 (pdftex.def)             Requested size: 223.07211pt x 236.90701pt.
- [68 <./chapter4_fig/time-in-mode.png> <./chapter4_fig/time-mode-histogram.png>
-] [69 <./chapter4_fig/number-loa-switches.png>] [70]
-Package placeins Info: No floats held, on input line 942.
- [71
-Package placeins Info: Float barrier, from input line 942, processed on page 71
-, lands on page 71. 
-] [72]
+ [70 <./chapter4_fig/time-in-mode.png> <./chapter4_fig/time-mode-histogram.png>
+] [71 <./chapter4_fig/number-loa-switches.png>] [72]
+Package placeins Info: No floats held, on input line 944.
+ [73
+Package placeins Info: Float barrier, from input line 944, processed on page 73
+, lands on page 73. 
+] [74]
 Chapter 5.
-[73
+[75
 
 ]
-Package placeins Info: No floats held, on input line 963.
- [74
-Package placeins Info: Float barrier, from input line 963, processed on page 74
-, lands on page 74. 
-] [75]
-Package placeins Info: No floats held, on input line 979.
+Package placeins Info: No floats held, on input line 965.
  [76
-Package placeins Info: Float barrier, from input line 979, processed on page 76
+Package placeins Info: Float barrier, from input line 965, processed on page 76
 , lands on page 76. 
 ] [77]
-<chapter5_fig/MIblockDiagram.png, id=1475, 763.85374pt x 433.62pt>
+Package placeins Info: No floats held, on input line 981.
+ [78
+Package placeins Info: Float barrier, from input line 981, processed on page 78
+, lands on page 78. 
+] [79]
+<chapter5_fig/MIblockDiagram.png, id=1714, 763.85374pt x 433.62pt>
 File: chapter5_fig/MIblockDiagram.png Graphic file (type png)
 
 <use chapter5_fig/MIblockDiagram.png>
-Package pdftex.def Info: chapter5_fig/MIblockDiagram.png used on input line 990
+Package pdftex.def Info: chapter5_fig/MIblockDiagram.png used on input line 992
 .
 (pdftex.def)             Requested size: 364.19667pt x 206.74577pt.
- [78 <./chapter5_fig/MIblockDiagram.png>]
-[79]
-Overfull \hbox (6.2465pt too wide) in paragraph at lines 1027--1028
+ [80 <./chapter5_fig/MIblockDiagram.png>]
+[81]
+Overfull \hbox (6.2465pt too wide) in paragraph at lines 1029--1030
 []\T1/futs/m/n/12 (-20) The para-met-ers cal-cu-lated with the grid search were
  $\FML/futmi/m/it/12  \FMS/futm/m/n/12 Å \T1/futs/m/n/12 (-20) 0\FML/futmi/m/i
 t/12 :\T1/futs/m/n/12 (-20) 06$ and er-ror $\FML/futmi/m/it/12 threshold \FMS/f
@@ -1463,292 +1474,292 @@ utm/m/n/12 Å \T1/futs/m/n/12 (-20) 0\FML/futmi/m/it/12 :\T1/futs/m/n/12 (-20) 0
 /12 (-20) .
  []
 
-[80] [81] <chapter5_fig/fuzzy_error.png, id=1509, 1426.6098pt x 815.2056pt>
+[82] [83] <chapter5_fig/fuzzy_error.png, id=1754, 1426.6098pt x 815.2056pt>
 File: chapter5_fig/fuzzy_error.png Graphic file (type png)
 
 <use chapter5_fig/fuzzy_error.png>
-Package pdftex.def Info: chapter5_fig/fuzzy_error.png used on input line 1041.
+Package pdftex.def Info: chapter5_fig/fuzzy_error.png used on input line 1043.
 (pdftex.def)             Requested size: 223.07211pt x 127.46263pt.
 
-<chapter5_fig/fuzzy_speed.png, id=1510, 1419.3828pt x 820.2645pt>
+<chapter5_fig/fuzzy_speed.png, id=1755, 1419.3828pt x 820.2645pt>
 File: chapter5_fig/fuzzy_speed.png Graphic file (type png)
 
 <use chapter5_fig/fuzzy_speed.png>
-Package pdftex.def Info: chapter5_fig/fuzzy_speed.png used on input line 1048.
+Package pdftex.def Info: chapter5_fig/fuzzy_speed.png used on input line 1050.
 (pdftex.def)             Requested size: 223.07211pt x 128.90446pt.
- [82 <./chapter5_fig/fuzzy_error.png> <./chapter5_fig/fuzzy_speed.png>]
-<chapter5_fig/fuzzy_output.png, id=1529, 1419.3828pt x 832.5504pt>
+ [84 <./chapter5_fig/fuzzy_error.png> <./chapter5_fig/fuzzy_speed.png>]
+<chapter5_fig/fuzzy_output.png, id=1774, 1419.3828pt x 832.5504pt>
 File: chapter5_fig/fuzzy_output.png Graphic file (type png)
 
 <use chapter5_fig/fuzzy_output.png>
-Package pdftex.def Info: chapter5_fig/fuzzy_output.png used on input line 1067.
+Package pdftex.def Info: chapter5_fig/fuzzy_output.png used on input line 1069.
 
 (pdftex.def)             Requested size: 273.14923pt x 160.2061pt.
- [83]
-Package placeins Info: Must dump some floats on input line 1139.
- [84
-Package placeins Info: Float barrier, from input line 1139, processed on page 8
-4, lands on page 84. 
- <./chapter5_fig/fuzzy_output.png>] [85]
-Package placeins Info: Check again: on input line 1139.
-Package placeins Info: No floats held, on input line 1139.
+ [85]
+Package placeins Info: Must dump some floats on input line 1141.
  [86
-Package placeins Info: Float barrier, from input line 1139, processed on page 8
+Package placeins Info: Float barrier, from input line 1141, processed on page 8
 6, lands on page 86. 
-] [87]
-<chapter5_fig/exp2_2_primary_metrics.png, id=1567, 483.60675pt x 473.97075pt>
+ <./chapter5_fig/fuzzy_output.png>] [87]
+Package placeins Info: Check again: on input line 1141.
+Package placeins Info: No floats held, on input line 1141.
+ [88
+Package placeins Info: Float barrier, from input line 1141, processed on page 8
+8, lands on page 88. 
+] [89]
+<chapter5_fig/exp2_2_primary_metrics.png, id=1813, 483.60675pt x 473.97075pt>
 File: chapter5_fig/exp2_2_primary_metrics.png Graphic file (type png)
 
 <use chapter5_fig/exp2_2_primary_metrics.png>
 Package pdftex.def Info: chapter5_fig/exp2_2_primary_metrics.png used on input 
-line 1166.
+line 1168.
 (pdftex.def)             Requested size: 213.96529pt x 209.70493pt.
 
-<chapter5_fig/exp2_2_secondary_time.png, id=1568, 644.4075pt x 473.97075pt>
+<chapter5_fig/exp2_2_secondary_time.png, id=1814, 644.4075pt x 473.97075pt>
 File: chapter5_fig/exp2_2_secondary_time.png Graphic file (type png)
 
 <use chapter5_fig/exp2_2_secondary_time.png>
 Package pdftex.def Info: chapter5_fig/exp2_2_secondary_time.png used on input l
-ine 1173.
+ine 1175.
 (pdftex.def)             Requested size: 227.62206pt x 167.41824pt.
- [88 <./chapter5_fig/exp2_2_primary_metrics.png> <./chapter5_fig/exp2_2_seconda
+ [90 <./chapter5_fig/exp2_2_primary_metrics.png> <./chapter5_fig/exp2_2_seconda
 ry_time.png>]
-<chapter5_fig/exp2_2_secondary_mistakes.png, id=1582, 626.94225pt x 469.755pt>
+<chapter5_fig/exp2_2_secondary_mistakes.png, id=1828, 626.94225pt x 469.755pt>
 File: chapter5_fig/exp2_2_secondary_mistakes.png Graphic file (type png)
 
 <use chapter5_fig/exp2_2_secondary_mistakes.png>
 Package pdftex.def Info: chapter5_fig/exp2_2_secondary_mistakes.png used on inp
-ut line 1195.
+ut line 1197.
 (pdftex.def)             Requested size: 218.51521pt x 163.72859pt.
 
-<chapter5_fig/exp2_2_NASA-TLX.png, id=1583, 644.4075pt x 476.37975pt>
+<chapter5_fig/exp2_2_NASA-TLX.png, id=1829, 644.4075pt x 476.37975pt>
 File: chapter5_fig/exp2_2_NASA-TLX.png Graphic file (type png)
 
 <use chapter5_fig/exp2_2_NASA-TLX.png>
 Package pdftex.def Info: chapter5_fig/exp2_2_NASA-TLX.png used on input line 12
-02.
+04.
 (pdftex.def)             Requested size: 218.51521pt x 161.53809pt.
- [89] [90 <./chapter5_fig/exp2_2_secondary_mistakes.png> <./chapter5_fig/exp2_2
+ [91] [92 <./chapter5_fig/exp2_2_secondary_mistakes.png> <./chapter5_fig/exp2_2
 _NASA-TLX.png>]
-<chapter5_fig/exp2_2_loa_switches.png, id=1604, 628.14674pt x 467.94826pt>
+<chapter5_fig/exp2_2_loa_switches.png, id=1849, 628.14674pt x 467.94826pt>
 File: chapter5_fig/exp2_2_loa_switches.png Graphic file (type png)
 
 <use chapter5_fig/exp2_2_loa_switches.png>
 Package pdftex.def Info: chapter5_fig/exp2_2_loa_switches.png used on input lin
-e 1228.
+e 1230.
 (pdftex.def)             Requested size: 223.07211pt x 166.17635pt.
 
-<chapter5_fig/histogram_loa_hi_exp2_2.png, id=1605, 411.939pt x 494.44725pt>
+<chapter5_fig/histogram_loa_hi_exp2_2.png, id=1850, 411.939pt x 494.44725pt>
 File: chapter5_fig/histogram_loa_hi_exp2_2.png Graphic file (type png)
 
 <use chapter5_fig/histogram_loa_hi_exp2_2.png>
 Package pdftex.def Info: chapter5_fig/histogram_loa_hi_exp2_2.png used on input
- line 1235.
+ line 1237.
 (pdftex.def)             Requested size: 204.85846pt x 245.88762pt.
 
-<chapter5_fig/histogram_loa_mi_exp2_2.png, id=1610, 473.97075pt x 496.254pt>
+<chapter5_fig/histogram_loa_mi_exp2_2.png, id=1855, 473.97075pt x 496.254pt>
 File: chapter5_fig/histogram_loa_mi_exp2_2.png Graphic file (type png)
 
 <use chapter5_fig/histogram_loa_mi_exp2_2.png>
 Package pdftex.def Info: chapter5_fig/histogram_loa_mi_exp2_2.png used on input
- line 1248.
+ line 1250.
 (pdftex.def)             Requested size: 204.85846pt x 214.48302pt.
 
-<chapter5_fig/histogram_loa_mi_ai_exp2_2.png, id=1611, 472.164pt x 495.65175pt>
+<chapter5_fig/histogram_loa_mi_ai_exp2_2.png, id=1856, 472.164pt x 495.65175pt>
 File: chapter5_fig/histogram_loa_mi_ai_exp2_2.png Graphic file (type png)
 <use chapter5_fig/histogram_loa_mi_ai_exp2_2.png>
 Package pdftex.def Info: chapter5_fig/histogram_loa_mi_ai_exp2_2.png used on in
-put line 1255.
+put line 1257.
 (pdftex.def)             Requested size: 204.85846pt x 215.0471pt.
- [91 <./chapter5_fig/exp2_2_loa_switches.png> <./chapter5_fig/histogram_loa_hi_
-exp2_2.png>] [92 <./chapter5_fig/histogram_loa_mi_exp2_2.png> <./chapter5_fig/h
-istogram_loa_mi_ai_exp2_2.png>] [93]
-Package placeins Info: No floats held, on input line 1290.
- [94
-Package placeins Info: Float barrier, from input line 1290, processed on page 9
-4, lands on page 94. 
+ [93 <./chapter5_fig/exp2_2_loa_switches.png> <./chapter5_fig/histogram_loa_hi_
+exp2_2.png>] [94 <./chapter5_fig/histogram_loa_mi_exp2_2.png> <./chapter5_fig/h
+istogram_loa_mi_ai_exp2_2.png>] [95]
+Package placeins Info: No floats held, on input line 1292.
+ [96
+Package placeins Info: Float barrier, from input line 1292, processed on page 9
+6, lands on page 96. 
 ]
 File: chapter5_fig/pioneer.jpg Graphic file (type jpg)
  <use chapter5_fig/pioneer.jpg>
-Package pdftex.def Info: chapter5_fig/pioneer.jpg used on input line 1304.
+Package pdftex.def Info: chapter5_fig/pioneer.jpg used on input line 1306.
 (pdftex.def)             Requested size: 204.85846pt x 202.23952pt.
 
-<chapter5_fig/ocu_exp3.jpg, id=1647, 2522.223pt x 1645.347pt>
+<chapter5_fig/ocu_exp3.jpg, id=1894, 2522.223pt x 1645.347pt>
 File: chapter5_fig/ocu_exp3.jpg Graphic file (type jpg)
 
 <use chapter5_fig/ocu_exp3.jpg>
-Package pdftex.def Info: chapter5_fig/ocu_exp3.jpg used on input line 1311.
+Package pdftex.def Info: chapter5_fig/ocu_exp3.jpg used on input line 1313.
 (pdftex.def)             Requested size: 227.62206pt x 148.47653pt.
- [95]
-<chapter5_fig/corridor.jpg, id=1657, 1799.523pt x 3199.152pt>
+ [97]
+<chapter5_fig/corridor.jpg, id=1903, 1799.523pt x 3199.152pt>
 File: chapter5_fig/corridor.jpg Graphic file (type jpg)
 
 <use chapter5_fig/corridor.jpg>
-Package pdftex.def Info: chapter5_fig/corridor.jpg used on input line 1328.
+Package pdftex.def Info: chapter5_fig/corridor.jpg used on input line 1330.
 (pdftex.def)             Requested size: 145.68144pt x 258.96393pt.
 
-<chapter5_fig/office.jpg, id=1658, 3199.152pt x 1799.523pt>
+<chapter5_fig/office.jpg, id=1904, 3199.152pt x 1799.523pt>
 File: chapter5_fig/office.jpg Graphic file (type jpg)
 
 <use chapter5_fig/office.jpg>
-Package pdftex.def Info: chapter5_fig/office.jpg used on input line 1335.
+Package pdftex.def Info: chapter5_fig/office.jpg used on input line 1337.
 (pdftex.def)             Requested size: 295.90588pt x 166.42581pt.
 
-<chapter5_fig/floorplan.png, id=1667, 594.72188pt x 1047.915pt>
+<chapter5_fig/floorplan.png, id=1913, 594.72188pt x 1047.915pt>
 File: chapter5_fig/floorplan.png Graphic file (type png)
 
 <use chapter5_fig/floorplan.png>
-Package pdftex.def Info: chapter5_fig/floorplan.png used on input line 1350.
+Package pdftex.def Info: chapter5_fig/floorplan.png used on input line 1352.
 (pdftex.def)             Requested size: 182.09486pt x 320.85281pt.
 
-<chapter5_fig/floorplan_annotated.jpeg, id=1668, 614.7768pt x 845.0772pt>
+<chapter5_fig/floorplan_annotated.jpeg, id=1914, 614.7768pt x 845.0772pt>
 File: chapter5_fig/floorplan_annotated.jpeg Graphic file (type jpg)
 
 <use chapter5_fig/floorplan_annotated.jpeg>
 Package pdftex.def Info: chapter5_fig/floorplan_annotated.jpeg used on input li
-ne 1357.
+ne 1359.
 (pdftex.def)             Requested size: 223.07211pt x 306.63889pt.
 
-<chapter5_fig/exp3_interface.jpg, id=1673, 1361.085pt x 838.13126pt>
+<chapter5_fig/exp3_interface.jpg, id=1919, 1361.085pt x 838.13126pt>
 File: chapter5_fig/exp3_interface.jpg Graphic file (type jpg)
 
 <use chapter5_fig/exp3_interface.jpg>
 Package pdftex.def Info: chapter5_fig/exp3_interface.jpg used on input line 137
-1.
+3.
 (pdftex.def)             Requested size: 268.59235pt x 165.38522pt.
 
-<chapter5_fig/map_exp3.png, id=1674, 423.984pt x 607.068pt>
+<chapter5_fig/map_exp3.png, id=1920, 423.984pt x 607.068pt>
 File: chapter5_fig/map_exp3.png Graphic file (type png)
 
 <use chapter5_fig/map_exp3.png>
-Package pdftex.def Info: chapter5_fig/map_exp3.png used on input line 1378.
+Package pdftex.def Info: chapter5_fig/map_exp3.png used on input line 1380.
 (pdftex.def)             Requested size: 136.57462pt x 195.5533pt.
- [96 <./chapter5_fig/ocu_exp3.jpg>] [97 <./chapter5_fig/corridor.jpg> <./chapte
-r5_fig/office.jpg>] [98 <./chapter5_fig/floorplan.png> <./chapter5_fig/floorpla
-n_annotated.jpeg>]
-<chapter5_fig/radiation.jpg, id=1699, 361.95226pt x 461.3235pt>
+ [98 <./chapter5_fig/ocu_exp3.jpg>] [99 <./chapter5_fig/corridor.jpg> <./chapte
+r5_fig/office.jpg>] [100 <./chapter5_fig/floorplan.png> <./chapter5_fig/floorpl
+an_annotated.jpeg>]
+<chapter5_fig/radiation.jpg, id=1944, 361.95226pt x 461.3235pt>
 File: chapter5_fig/radiation.jpg Graphic file (type jpg)
 
 <use chapter5_fig/radiation.jpg>
-Package pdftex.def Info: chapter5_fig/radiation.jpg used on input line 1396.
+Package pdftex.def Info: chapter5_fig/radiation.jpg used on input line 1398.
 (pdftex.def)             Requested size: 172.99498pt x 220.49654pt.
 
-<chapter5_fig/biohazard.png, id=1700, 1535.7375pt x 1535.7375pt>
+<chapter5_fig/biohazard.png, id=1945, 1535.7375pt x 1535.7375pt>
 File: chapter5_fig/biohazard.png Graphic file (type png)
 
 <use chapter5_fig/biohazard.png>
-Package pdftex.def Info: chapter5_fig/biohazard.png used on input line 1401.
+Package pdftex.def Info: chapter5_fig/biohazard.png used on input line 1403.
 (pdftex.def)             Requested size: 186.65175pt x 186.64732pt.
 
-<chapter5_fig/victims.jpg, id=1701, 1752.5475pt x 2077.7625pt>
+<chapter5_fig/victims.jpg, id=1946, 1752.5475pt x 2077.7625pt>
 File: chapter5_fig/victims.jpg Graphic file (type jpg)
 
 <use chapter5_fig/victims.jpg>
-Package pdftex.def Info: chapter5_fig/victims.jpg used on input line 1412.
+Package pdftex.def Info: chapter5_fig/victims.jpg used on input line 1414.
 (pdftex.def)             Requested size: 182.09486pt x 215.87296pt.
 
-<chapter5_fig/flammable.png, id=1702, 722.7pt x 722.7pt>
+<chapter5_fig/flammable.png, id=1947, 722.7pt x 722.7pt>
 File: chapter5_fig/flammable.png Graphic file (type png)
 
 <use chapter5_fig/flammable.png>
-Package pdftex.def Info: chapter5_fig/flammable.png used on input line 1419.
+Package pdftex.def Info: chapter5_fig/flammable.png used on input line 1421.
 (pdftex.def)             Requested size: 204.85846pt x 204.85785pt.
- [99 <./chapter5_fig/exp3_interface.jpg> <./chapter5_fig/map_exp3.png>] [100 <.
-/chapter5_fig/radiation.jpg> <./chapter5_fig/biohazard.png> <./chapter5_fig/vic
-tims.jpg> <./chapter5_fig/flammable.png>]
-[101] [102]
-<chapter5_fig/exp3_primary_metrics.png, id=1732, 470.9595pt x 467.94826pt>
+ [101 <./chapter5_fig/exp3_interface.jpg> <./chapter5_fig/map_exp3.png>] [102 <
+./chapter5_fig/radiation.jpg> <./chapter5_fig/biohazard.png> <./chapter5_fig/vi
+ctims.jpg> <./chapter5_fig/flammable.png>]
+[103] [104]
+<chapter5_fig/exp3_primary_metrics.png, id=1978, 470.9595pt x 467.94826pt>
 File: chapter5_fig/exp3_primary_metrics.png Graphic file (type png)
 
 <use chapter5_fig/exp3_primary_metrics.png>
 Package pdftex.def Info: chapter5_fig/exp3_primary_metrics.png used on input li
-ne 1458.
+ne 1460.
 (pdftex.def)             Requested size: 209.41534pt x 208.07565pt.
 
-<chapter5_fig/exp3_secondary_time.png, id=1733, 544.434pt x 469.755pt>
+<chapter5_fig/exp3_secondary_time.png, id=1979, 544.434pt x 469.755pt>
 File: chapter5_fig/exp3_secondary_time.png Graphic file (type png)
 
 <use chapter5_fig/exp3_secondary_time.png>
 Package pdftex.def Info: chapter5_fig/exp3_secondary_time.png used on input lin
-e 1465.
+e 1467.
 (pdftex.def)             Requested size: 218.51521pt x 188.54378pt.
- [103]
-<chapter5_fig/exp3_NASA-TLX.png, id=1744, 629.9535pt x 474.573pt>
+ [105]
+<chapter5_fig/exp3_NASA-TLX.png, id=1990, 629.9535pt x 474.573pt>
 File: chapter5_fig/exp3_NASA-TLX.png Graphic file (type png)
 
 <use chapter5_fig/exp3_NASA-TLX.png>
-Package pdftex.def Info: chapter5_fig/exp3_NASA-TLX.png used on input line 1484
+Package pdftex.def Info: chapter5_fig/exp3_NASA-TLX.png used on input line 1486
 .
 (pdftex.def)             Requested size: 223.07211pt x 168.05096pt.
 
-<chapter5_fig/exp3_secondary_mistakes.png, id=1745, 611.28375pt x 472.164pt>
+<chapter5_fig/exp3_secondary_mistakes.png, id=1991, 611.28375pt x 472.164pt>
 File: chapter5_fig/exp3_secondary_mistakes.png Graphic file (type png)
 
 <use chapter5_fig/exp3_secondary_mistakes.png>
 Package pdftex.def Info: chapter5_fig/exp3_secondary_mistakes.png used on input
- line 1491.
+ line 1493.
 (pdftex.def)             Requested size: 223.07211pt x 172.2988pt.
- [104 <./chapter5_fig/exp3_primary_metrics.png> <./chapter5_fig/exp3_secondary_
-time.png>] [105 <./chapter5_fig/exp3_NASA-TLX.png> <./chapter5_fig/exp3_seconda
+ [106 <./chapter5_fig/exp3_primary_metrics.png> <./chapter5_fig/exp3_secondary_
+time.png>] [107 <./chapter5_fig/exp3_NASA-TLX.png> <./chapter5_fig/exp3_seconda
 ry_mistakes.png>]
-<chapter5_fig/histogram_loa_hi_exp3.png, id=1766, 472.76625pt x 499.26524pt>
+<chapter5_fig/histogram_loa_hi_exp3.png, id=2013, 472.76625pt x 499.26524pt>
 File: chapter5_fig/histogram_loa_hi_exp3.png Graphic file (type png)
 
 <use chapter5_fig/histogram_loa_hi_exp3.png>
 Package pdftex.def Info: chapter5_fig/histogram_loa_hi_exp3.png used on input l
-ine 1512.
+ine 1514.
 (pdftex.def)             Requested size: 223.07211pt x 235.57649pt.
 
-<chapter5_fig/histogram_loa_mi_exp3.png, id=1767, 473.3685pt x 495.65175pt>
+<chapter5_fig/histogram_loa_mi_exp3.png, id=2014, 473.3685pt x 495.65175pt>
 File: chapter5_fig/histogram_loa_mi_exp3.png Graphic file (type png)
 
 <use chapter5_fig/histogram_loa_mi_exp3.png>
 Package pdftex.def Info: chapter5_fig/histogram_loa_mi_exp3.png used on input l
-ine 1522.
+ine 1524.
 (pdftex.def)             Requested size: 204.85846pt x 214.50256pt.
 
-<chapter5_fig/histogram_loa_mi_ai_exp3.png, id=1768, 473.97075pt x 496.254pt>
+<chapter5_fig/histogram_loa_mi_ai_exp3.png, id=2015, 473.97075pt x 496.254pt>
 File: chapter5_fig/histogram_loa_mi_ai_exp3.png Graphic file (type png)
 
 <use chapter5_fig/histogram_loa_mi_ai_exp3.png>
 Package pdftex.def Info: chapter5_fig/histogram_loa_mi_ai_exp3.png used on inpu
-t line 1529.
+t line 1531.
 (pdftex.def)             Requested size: 204.85846pt x 214.48302pt.
- [106 <./chapter5_fig/histogram_loa_hi_exp3.png>] [107 <./chapter5_fig/histogra
-m_loa_mi_exp3.png> <./chapter5_fig/histogram_loa_mi_ai_exp3.png>] [108] [109]
-Package placeins Info: No floats held, on input line 1554.
- [110
-Package placeins Info: Float barrier, from input line 1554, processed on page 1
-10, lands on page 110. 
-] [111]
+ [108 <./chapter5_fig/histogram_loa_hi_exp3.png>] [109 <./chapter5_fig/histogra
+m_loa_mi_exp3.png> <./chapter5_fig/histogram_loa_mi_ai_exp3.png>] [110] [111]
+Package placeins Info: No floats held, on input line 1556.
+ [112
+Package placeins Info: Float barrier, from input line 1556, processed on page 1
+12, lands on page 112. 
+] [113]
 Chapter 6.
-[112
+[114
 
 ]
-Package placeins Info: No floats held, on input line 1578.
- [113
-Package placeins Info: Float barrier, from input line 1578, processed on page 1
-13, lands on page 113. 
-] [114] [115]
-Package placeins Info: No floats held, on input line 1599.
- [116
-Package placeins Info: Float barrier, from input line 1599, processed on page 1
-16, lands on page 116. 
-] [117] [118]
-Package placeins Info: No floats held, on input line 1614.
- [119
-Package placeins Info: Float barrier, from input line 1614, processed on page 1
-19, lands on page 119. 
-] [120] (./thesis.bbl
+Package placeins Info: No floats held, on input line 1580.
+ [115
+Package placeins Info: Float barrier, from input line 1580, processed on page 1
+15, lands on page 115. 
+] [116] [117]
+Package placeins Info: No floats held, on input line 1601.
+ [118
+Package placeins Info: Float barrier, from input line 1601, processed on page 1
+18, lands on page 118. 
+] [119] [120]
+Package placeins Info: No floats held, on input line 1616.
+ [121
+Package placeins Info: Float barrier, from input line 1616, processed on page 1
+21, lands on page 121. 
+] [122] (./thesis.bbl
 (./thesis.brf)
 \tf@brf=\write8
 \openout8 = `thesis.brf'.
 
- [121
+ [123
 
 
-] [122] [123] [124] [125] [126] [127] [128] [129]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 476.
+] [124] [125] [126] [127] [128] [129] [130]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 469.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
@@ -1759,70 +1770,65 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 6316) in paragraph at lines 476--476
-[]\T1/futs/m/n/12 (+20) IEEE Spec-trum magazine.  Fukushima ro-bot op-er-ator w
-rites tell-all blog.
+Underfull \hbox (badness 10000) in paragraph at lines 469--469
+\T1/cmtt/m/n/12 automaton / robotics / industrial-[]robots / fukushima-[]robot-
+[]operator-[]diaries$[]\T1/futs/m/n/12 (+20) .
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 476--476
-[]$\T1/cmtt/m/n/12 http : / / spectrum . ieee . org / automaton / robotics / in
-dustrial-[]robots /
+[]\T1/futs/m/n/12 (+20) magazine, S.  How ro-bots are be-com-ing crit-ical play
+-ers in nuc-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 483--483
-[]\T1/futs/m/n/12 (+20) Science magazine.  How ro-bots are be-com-ing crit-ical
- play-ers in nuc-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 483--483
+Underfull \hbox (badness 10000) in paragraph at lines 476--476
 \T1/futs/m/n/12 (+20) lear dis-aster cleanup.  []$\T1/cmtt/m/n/12 http : / / ww
 w . sciencemag . org / news / 2016 / 03 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 483--483
+Underfull \hbox (badness 3803) in paragraph at lines 476--476
 \T1/cmtt/m/n/12 how-[]robots-[]are-[]becoming-[]critical-[]players-[]nuclear-[]
-disaster-[]cleanup$[]\T1/futs/m/n/12 (+20) .
+disaster-[]cleanup$[]\T1/futs/m/n/12 (+20) .  Ac-
  []
 
-[130] [131] [132] [133] [134] [135]) [136]
+[131] [132] [133] [134] [135] [136]) [137]
 LaTeX Font Info:    Font shape `T1/futs/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/futs/b/n' tried instead on input line 1627.
- [137
+(Font)              Font shape `T1/futs/b/n' tried instead on input line 1629.
+ [138
 
 
 ]
 Appendix A.
-Package placeins Info: No floats held, on input line 1631.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1636.
-[138
+Package placeins Info: No floats held, on input line 1633.
+[139
 
-Package placeins Info: Float barrier, from input line 1631, processed on page 1
-38, lands on page 138. 
+Package placeins Info: Float barrier, from input line 1633, processed on page 1
+39, lands on page 139. 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1636.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1646.
+ [140]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1646.
  (./thesis.aux (./abstract.aux) (./acknowledgements.aux)
 (./abbreviations.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1636.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1636.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1646.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1646.
 
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 385B4BDB5E71F8D828CE592BE597055D;6375.
+(rerunfilecheck)             Checksum: F5A967942F9EF8585C36DD1270699545;6384.
 Package rerunfilecheck Info: File `thesis.brf' has not changed.
-(rerunfilecheck)             Checksum: 1B8F22A8ED99A9698E6C820587C3F96D;11419.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1636.
+(rerunfilecheck)             Checksum: 51936D99E7B01BE0BFC11E42FABEF2E9;11419.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1646.
  ) 
 Here is how much of TeX's memory you used:
- 15110 strings out of 493304
- 230179 string characters out of 6139871
- 373772 words of memory out of 5000000
- 17423 multiletter control sequences out of 15000+600000
+ 15113 strings out of 493304
+ 230211 string characters out of 6139871
+ 375916 words of memory out of 5000000
+ 17424 multiletter control sequences out of 15000+600000
  130289 words of font info for 379 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,18n,44p,2457b,931s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,18n,43p,2457b,696s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texliv
 e/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/t
 ype1/public/fourier/fourier-mex.pfb></usr/share/texlive/texmf-dist/fonts/type1/
@@ -1833,10 +1839,10 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/adobe/utopia/putri8a.pfb></usr/share/texmf/fo
 nts/type1/public/cm-super/sfss1728.pfb></usr/share/texmf/fonts/type1/public/cm-
 super/sfss2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on thesis.pdf (152 pages, 16980381 bytes).
+Output written on thesis.pdf (154 pages, 16996613 bytes).
 PDF statistics:
- 2258 PDF objects out of 2487 (max. 8388607)
- 1937 compressed objects within 20 object streams
- 406 named destinations out of 1000 (max. 500000)
+ 2506 PDF objects out of 2984 (max. 8388607)
+ 2179 compressed objects within 22 object streams
+ 408 named destinations out of 1000 (max. 500000)
  35238 words of extra memory for PDF output out of 35830 (max. 10000000)
 

@@ -4,78 +4,78 @@
 \contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Context of research and project summary}{2}{section.1.1}
 \contentsline {section}{\numberline {1.2}Autonomy versus teleoperation}{4}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Interfaces and telepresence}{5}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Variable autonomy and Mixed-Initiative}{6}{subsection.1.2.2}
-\contentsline {section}{\numberline {1.3}Contributions of this Thesis}{7}{section.1.3}
-\contentsline {section}{\numberline {1.4}List of Publications}{8}{section.1.4}
-\contentsline {section}{\numberline {1.5}Thesis structure}{9}{section.1.5}
-\contentsline {chapter}{\numberline {2}BACKGROUND}{11}{chapter.2}
-\contentsline {section}{\numberline {2.1}Human-Robot Interaction}{11}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Human-Robot Interaction definition and context}{12}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Human-Robot Interaction awareness}{13}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}Human-Robot Interaction field studies}{14}{subsection.2.1.3}
-\contentsline {subsection}{\numberline {2.1.4}Metrics for Human-Robot Interaction and mobile robots}{16}{subsection.2.1.4}
-\contentsline {section}{\numberline {2.2}Interfaces}{17}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Interfaces as a way to improve teleoperation}{17}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Situation awareness and the use of maps}{18}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}Variable autonomy}{19}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}The notion of levels of autonomy}{20}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Shared control}{23}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Traded control}{25}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}Multiple levels of autonomy}{26}{subsection.2.3.4}
-\contentsline {section}{\numberline {2.4}Dynamically switching levels of autonomy}{27}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Conducting variable autonomy experiments}{28}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Human-Initiative variable autonomy}{29}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}Definition and taxonomy of Mixed-Initiative control}{30}{subsection.2.4.3}
-\contentsline {subsection}{\numberline {2.4.4}Mixed-Initiative control related systems}{31}{subsection.2.4.4}
-\contentsline {subsection}{\numberline {2.4.5}Human-Robot Interaction with LOA switching robots}{33}{subsection.2.4.5}
-\contentsline {section}{\numberline {2.5}Measuring and inducing cognitive workload}{34}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}Physiological measures}{35}{subsection.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}Subjective measures}{36}{subsection.2.5.2}
-\contentsline {subsection}{\numberline {2.5.3}Task performance measures}{37}{subsection.2.5.3}
-\contentsline {chapter}{\numberline {3}TOWARDS THE PRINCIPLED STUDY OF VARIABLE AUTONOMY}{38}{chapter.3}
-\contentsline {section}{\numberline {3.1}System description}{39}{section.3.1}
-\contentsline {section}{\numberline {3.2}Pilot experiment}{41}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Tasks and robot arena}{42}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Participants and experimental design}{44}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Results}{44}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Discussion}{48}{subsection.3.2.4}
-\contentsline {section}{\numberline {3.3}Suggestions for future experiments}{49}{section.3.3}
-\contentsline {section}{\numberline {3.4}Conclusion and impact}{51}{section.3.4}
-\contentsline {chapter}{\numberline {4}EXPERIMENTAL ANALYSIS OF HUMAN-INITIATIVE VARIABLE AUTONOMY}{52}{chapter.4}
-\contentsline {section}{\numberline {4.1}Apparatus and robotic software}{54}{section.4.1}
-\contentsline {section}{\numberline {4.2}Experimental design and procedure}{56}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Experimental setup - operator control unit and robot test arena}{56}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Primary and secondary tasks, and experimental test modalities}{58}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Participants and procedure}{60}{subsection.4.2.3}
-\contentsline {section}{\numberline {4.3}Human-Initiative system performance analysis}{62}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Results}{62}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Discussion}{65}{subsection.4.3.2}
-\contentsline {section}{\numberline {4.4}Human-Initiative Human-Robot Interaction analysis}{67}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Results}{67}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Discussion}{69}{subsection.4.4.2}
-\contentsline {section}{\numberline {4.5}Conclusions and impact}{71}{section.4.5}
-\contentsline {chapter}{\numberline {5}DESIGN AND EVALUATION OF A MIXED-INITIATIVE CONTROL SYSTEM}{73}{chapter.5}
-\contentsline {section}{\numberline {5.1}Framework for designing an expert-guided Mixed-Initiative robotic system}{75}{section.5.1}
-\contentsline {section}{\numberline {5.2}Designing the expert-guided Mixed-Initiative controller for navigation}{77}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Threshold Mixed-Initiative controller}{78}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Fuzzy Mixed-Initiative controller}{81}{subsection.5.2.2}
-\contentsline {section}{\numberline {5.3}Evaluation using a simulated robot and test environment}{86}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Results: tasks performance}{87}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Results: Human-Robot-Interaction}{90}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}Discussion}{92}{subsection.5.3.3}
-\contentsline {section}{\numberline {5.4}Evaluation using real robot and test environment}{94}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Experimental setup - apparatus, robot test arena, and control modes}{95}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Tasks and performance degradation factors}{97}{subsection.5.4.2}
-\contentsline {subsection}{\numberline {5.4.3}Participants and experimental design}{101}{subsection.5.4.3}
-\contentsline {subsubsection}{\numberline {5.4.3.1}Results}{103}{subsubsection.5.4.3.1}
-\contentsline {subsubsection}{\numberline {5.4.3.2}Discussion}{106}{subsubsection.5.4.3.2}
-\contentsline {section}{\numberline {5.5}Conclusion and impact}{110}{section.5.5}
-\contentsline {chapter}{\numberline {6}CONCLUSIONS AND FUTURE WORK}{112}{chapter.6}
-\contentsline {section}{\numberline {6.1}Contributions}{113}{section.6.1}
-\contentsline {section}{\numberline {6.2}Future work}{117}{section.6.2}
-\contentsline {section}{\numberline {6.3}Closing thoughts}{119}{section.6.3}
-\contentsline {chapter}{References}{121}{chapter*.41}
-\contentsline {chapter}{Appendices}{137}{section*.42}
-\contentsline {chapter}{\numberline {A}STATISTICS}{138}{Appendix.a.A}
-\contentsline {section}{\numberline {A.1}STATISTICS}{138}{section.a.A.1}
+\contentsline {subsection}{\numberline {1.2.1}Interfaces and telepresence}{6}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Variable autonomy and Mixed-Initiative}{7}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.3}Contributions of this Thesis}{8}{section.1.3}
+\contentsline {section}{\numberline {1.4}List of Publications}{9}{section.1.4}
+\contentsline {section}{\numberline {1.5}Thesis structure}{10}{section.1.5}
+\contentsline {chapter}{\numberline {2}BACKGROUND}{12}{chapter.2}
+\contentsline {section}{\numberline {2.1}Human-Robot Interaction}{12}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Human-Robot Interaction definition and context}{13}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Human-Robot Interaction awareness}{14}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Human-Robot Interaction field studies}{15}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Metrics for Human-Robot Interaction and mobile robots}{17}{subsection.2.1.4}
+\contentsline {section}{\numberline {2.2}Interfaces}{18}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Interfaces as a way to improve teleoperation}{18}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Situation awareness and the use of maps}{19}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Variable autonomy}{21}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}The notion of levels of autonomy}{21}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Shared control}{24}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Traded control}{27}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Multiple levels of autonomy}{27}{subsection.2.3.4}
+\contentsline {section}{\numberline {2.4}Dynamically switching levels of autonomy}{28}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Conducting variable autonomy experiments}{29}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Human-Initiative variable autonomy}{30}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Definition and taxonomy of Mixed-Initiative control}{32}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Mixed-Initiative control related systems}{33}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}Human-Robot Interaction with LOA switching robots}{35}{subsection.2.4.5}
+\contentsline {section}{\numberline {2.5}Measuring and inducing cognitive workload}{36}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Physiological measures}{36}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Subjective measures}{37}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Task performance measures}{38}{subsection.2.5.3}
+\contentsline {chapter}{\numberline {3}TOWARDS THE PRINCIPLED STUDY OF VARIABLE AUTONOMY}{40}{chapter.3}
+\contentsline {section}{\numberline {3.1}System description}{41}{section.3.1}
+\contentsline {section}{\numberline {3.2}Pilot experiment}{43}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Tasks and robot arena}{44}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Participants and experimental design}{46}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Results}{46}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Discussion}{50}{subsection.3.2.4}
+\contentsline {section}{\numberline {3.3}Suggestions for future experiments}{51}{section.3.3}
+\contentsline {section}{\numberline {3.4}Conclusion and impact}{53}{section.3.4}
+\contentsline {chapter}{\numberline {4}EXPERIMENTAL ANALYSIS OF HUMAN-INITIATIVE VARIABLE AUTONOMY}{54}{chapter.4}
+\contentsline {section}{\numberline {4.1}Apparatus and robotic software}{56}{section.4.1}
+\contentsline {section}{\numberline {4.2}Experimental design and procedure}{58}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Experimental setup - operator control unit and robot test arena}{58}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Primary and secondary tasks, and experimental test modalities}{60}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Participants and procedure}{62}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Human-Initiative system performance analysis}{64}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Results}{64}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Discussion}{67}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}Human-Initiative Human-Robot Interaction analysis}{69}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Results}{69}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Discussion}{71}{subsection.4.4.2}
+\contentsline {section}{\numberline {4.5}Conclusions and impact}{73}{section.4.5}
+\contentsline {chapter}{\numberline {5}DESIGN AND EVALUATION OF A MIXED-INITIATIVE CONTROL SYSTEM}{75}{chapter.5}
+\contentsline {section}{\numberline {5.1}Framework for designing an expert-guided Mixed-Initiative robotic system}{77}{section.5.1}
+\contentsline {section}{\numberline {5.2}Designing the expert-guided Mixed-Initiative controller for navigation}{79}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Threshold Mixed-Initiative controller}{80}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Fuzzy Mixed-Initiative controller}{83}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Evaluation using a simulated robot and test environment}{88}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Results: tasks performance}{89}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Results: Human-Robot-Interaction}{92}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Discussion}{94}{subsection.5.3.3}
+\contentsline {section}{\numberline {5.4}Evaluation using real robot and test environment}{96}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Experimental setup - apparatus, robot test arena, and control modes}{97}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Tasks and performance degradation factors}{99}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Participants and experimental design}{103}{subsection.5.4.3}
+\contentsline {subsubsection}{\numberline {5.4.3.1}Results}{105}{subsubsection.5.4.3.1}
+\contentsline {subsubsection}{\numberline {5.4.3.2}Discussion}{108}{subsubsection.5.4.3.2}
+\contentsline {section}{\numberline {5.5}Conclusion and impact}{112}{section.5.5}
+\contentsline {chapter}{\numberline {6}CONCLUSIONS AND FUTURE WORK}{114}{chapter.6}
+\contentsline {section}{\numberline {6.1}Contributions}{115}{section.6.1}
+\contentsline {section}{\numberline {6.2}Future work}{119}{section.6.2}
+\contentsline {section}{\numberline {6.3}Closing thoughts}{121}{section.6.3}
+\contentsline {chapter}{References}{123}{chapter*.41}
+\contentsline {chapter}{Appendices}{138}{section*.42}
+\contentsline {chapter}{\numberline {A}STATISTICS}{139}{Appendix.a.A}
+\contentsline {section}{\numberline {A.1}Statistical methods}{139}{section.a.A.1}

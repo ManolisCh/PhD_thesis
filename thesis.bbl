@@ -1,801 +1,793 @@
-\begin{thebibliography}{100}
+\begin{thebibliography}{}
 
-\bibitem{Adams2004}
-Julie~A. Adams, Pramila Rani, and Nilanjan Sarkar.
+\bibitem[Adams et~al., 2004]{Adams2004}
+Adams, J.~A., Rani, P., and Sarkar, N. (2004).
 \newblock {Mixed initiative interaction and robotic systems}.
 \newblock {\em AAAI Workshop on Supervisory Control of Learning and Adaptive
-  Systems}, Tech. Rep.(WS-04-08):6--13, 2004.
+  Systems}, Tech. Rep.(WS-04-08):6--13.
 
-\bibitem{Armstrong2015}
-Miriam~E. Armstrong, Keith~S. Jones, and Elizabeth~A. Schmidlin.
+\bibitem[Armstrong et~al., 2015]{Armstrong2015}
+Armstrong, M.~E., Jones, K.~S., and Schmidlin, E.~A. (2015).
 \newblock {Tele-Operating USAR Robots : Does Driving Performance Increase with
   Aperture Width or Practice?}
 \newblock In {\em 59th Annual Meeting of the Human Factors and Ergonomics
-  Society}, pages 1372--1376, 2015.
+  Society}, pages 1372--1376.
 
-\bibitem{Backes1994}
-Paul~G. Backes.
+\bibitem[Backes, 1994]{Backes1994}
+Backes, P.~G. (1994).
 \newblock {Dual-arm supervisory and shared control task description and
   execution}.
-\newblock {\em Robotics and autonomous systems}, 12(1-2):29--54, 1994.
+\newblock {\em Robotics and autonomous systems}, 12(1-2):29--54.
 
-\bibitem{Baker2004}
-Michael Baker, Robert Casey, Brenden Keyes, and Holly~A. Yanco.
+\bibitem[Baker et~al., 2004]{Baker2004}
+Baker, M., Casey, R., Keyes, B., and Yanco, H.~A. (2004).
 \newblock {Improved interfaces for human-robot interaction in urban search and
   rescue}.
 \newblock In {\em IEEE International Conference on Systems, Man and Cybernetics
-  (SMC)}, volume~3, pages 2960--2965, 2004.
+  (SMC)}, volume~3, pages 2960--2965.
 
-\bibitem{Baker2004b}
-Michael Baker and Holly~A. Yanco.
+\bibitem[Baker and Yanco, 2004]{Baker2004b}
+Baker, M. and Yanco, H.~A. (2004).
 \newblock {Autonomy mode suggestions for improving human-robot interaction}.
 \newblock In {\em IEEE International Conference on Systems, Man and Cybernetics
-  (SMC)}, volume~3, pages 2948--2953, 2004.
+  (SMC)}, volume~3, pages 2948--2953.
 
-\bibitem{Ballantyne2002}
-G.~H. Ballantyne.
+\bibitem[Ballantyne, 2002]{Ballantyne2002}
+Ballantyne, G.~H. (2002).
 \newblock {Robotic surgery, telerobotic surgery, telepresence, and
   telementoring. Review of early clinical results.}
-\newblock {\em Surgical endoscopy}, 16(10):1389--402, 2002.
+\newblock {\em Surgical endoscopy}, 16(10):1389--402.
 
-\bibitem{Beer2014}
-Jenay~M. Beer, Arthur~D. Fisk, and Wendy~A. Rogers.
+\bibitem[Beer et~al., 2014]{Beer2014}
+Beer, J.~M., Fisk, A.~D., and Rogers, W.~A. (2014).
 \newblock {Toward a Framework for Levels of Robot Autonomy in Human-Robot
   Interaction}.
-\newblock {\em Journal of Human-Robot Interaction}, 3(2):74--99, 2014.
+\newblock {\em Journal of Human-Robot Interaction}, 3(2):74--99.
 
-\bibitem{Berka2007a}
-Chris Berka, Daniel~J. Levendowski, Michelle~N. Lumicao, Alan Yau, Gene Davis,
-  Vladimir~T. Zivkovic, Richard~E. Olmstead, Patrice~D. Tremoulet, and
-  Patrick~L. Craven.
+\bibitem[Berka et~al., 2007]{Berka2007a}
+Berka, C., Levendowski, D.~J., Lumicao, M.~N., Yau, A., Davis, G., Zivkovic,
+  V.~T., Olmstead, R.~E., Tremoulet, P.~D., and Craven, P.~L. (2007).
 \newblock {EEG correlates of task engagement and mental workload in vigilance,
   learning, and memory tasks.}
-\newblock {\em Aviation, space, and environmental medicine}, 78(5):B231--44,
-  may 2007.
+\newblock {\em Aviation, space, and environmental medicine}, 78(5):B231--44.
 
-\bibitem{Blitch1996}
-John~G. Blitch.
+\bibitem[Blitch, 1996]{Blitch1996}
+Blitch, J.~G. (1996).
 \newblock {Artificial intelligence technologies for robot assisted urban search
   and rescue}.
-\newblock {\em Expert Systems with Applications}, 11(2):109--124, 1996.
+\newblock {\em Expert Systems with Applications}, 11(2):109--124.
 
-\bibitem{Brown1963}
-Robert~Goodell Brown.
+\bibitem[Brown, 1963]{Brown1963}
+Brown, R.~G. (1963).
 \newblock {\em {Smoothing, forecasting and prediction of discrete time
   series}}.
-\newblock Courier Corporation, 1963.
+\newblock Courier Corporation.
 
-\bibitem{Bruemmer2003a}
-David~J. Bruemmer, Matthew~O. Anderson, Julie~L. Marble, Donald~D.
-  Dudenhoeffer, Douglas~A. Few, and Mark~D. Mckay.
+\bibitem[Bruemmer et~al., 2003a]{Bruemmer2003a}
+Bruemmer, D.~J., Anderson, M.~O., Marble, J.~L., Dudenhoeffer, D.~D., Few,
+  D.~A., and Mckay, M.~D. (2003a).
 \newblock {Intelligent Autonomy for Remote Characterization of Hazardous
   Environments}.
 \newblock In {\em IEEE International Symposium on Intelligent Control}, volume
-  616, pages 750--754, 2003.
+  616, pages 750--754.
 
-\bibitem{Bruemmer2004}
-David~J. Bruemmer, Ronald~L. Boring, Douglas~A. Few, L.~Julie, and Miles~C.
-  Waiton.
+\bibitem[Bruemmer et~al., 2004]{Bruemmer2004}
+Bruemmer, D.~J., Boring, R.~L., Few, D.~A., Julie, L., and Waiton, M.~C.
+  (2004).
 \newblock {"I Call Shotgun !": An Evaluation of Mixed-Initiative Control for
   Novice Users of a Search and Rescue Robot *}.
 \newblock In {\em IEEE International Conference on Systems, Man and Cybernetics
-  (SMC)}, pages 2847--2852, 2004.
+  (SMC)}, pages 2847--2852.
 
-\bibitem{Bruemmer2002}
-David~J. Bruemmer, Donald~D. Dudenhoeffer, and Julie~L. Marble.
+\bibitem[Bruemmer et~al., 2002]{Bruemmer2002}
+Bruemmer, D.~J., Dudenhoeffer, D.~D., and Marble, J.~L. (2002).
 \newblock {Dynamic-Autonomy for Urban Search and Rescue}.
 \newblock In {\em AAAI Mobile Robot Competition}, number WS-02-18, pages
-  33--37, 2002.
+  33--37.
 
-\bibitem{Bruemmer2005}
-David~J. Bruemmer, Douglas~A. Few, Ronald~L. Boring, Julie~L. Marble, Miles~C.
-  Walton, and Curtis~W. Nielsen.
+\bibitem[Bruemmer et~al., 2005]{Bruemmer2005}
+Bruemmer, D.~J., Few, D.~A., Boring, R.~L., Marble, J.~L., Walton, M.~C., and
+  Nielsen, C.~W. (2005).
 \newblock {Shared Understanding for Collaborative Control}.
 \newblock {\em IEEE Transactions on Systems, Man, and Cybernetics - Part A:
-  Systems and Humans}, 35(4):494--504, jul 2005.
+  Systems and Humans}, 35(4):494--504.
 
-\bibitem{Bruemmer2003b}
-David~J. Bruemmer, Julie~L. Marble, Donald~D. Dudenhoeffer, Matthew~O.
-  Anderson, and Mark~D. Mckay.
+\bibitem[Bruemmer et~al., 2003b]{Bruemmer2003b}
+Bruemmer, D.~J., Marble, J.~L., Dudenhoeffer, D.~D., Anderson, M.~O., and
+  Mckay, M.~D. (2003b).
 \newblock {Mixed-initiative control for remote characterization of hazardous
   environments}.
 \newblock In {\em 36th Annual Hawaii International Conference on System
-  Sciences}, pages 9 pp.--, 2003.
+  Sciences}, pages 9 pp.--.
 
-\bibitem{Bruemmer2008}
-David~J. Bruemmer, Curtis~W. Nielsen, and David~I. Gertman.
+\bibitem[Bruemmer et~al., 2008]{Bruemmer2008}
+Bruemmer, D.~J., Nielsen, C.~W., and Gertman, D.~I. (2008).
 \newblock {How training and experience affect the benefits of autonomy in a
   dirty-bomb experiment}.
 \newblock In {\em The 3rd ACM/IEEE international conference on Human robot
-  interaction (HRI)}, pages 161--168. ACM Press, 2008.
+  interaction (HRI)}, pages 161--168. ACM Press.
 
-\bibitem{Burke2004b}
-Jennifer~L. Burke and Robin~R. Murphy.
+\bibitem[Burke and Murphy, 2004]{Burke2004b}
+Burke, J.~L. and Murphy, R.~R. (2004).
 \newblock {Human-Robot Interaction in USAR technical search: Two heads are
   better than one}.
 \newblock In {\em IEEE International Workshop on Robot and Human Interactive
-  Communication (RO-MAN)}, pages 307--312, 2004.
+  Communication (RO-MAN)}, pages 307--312.
 
-\bibitem{Burke2004a}
-Jennifer~L. Burke, Robin~R. Murphy, Michael~D. Coovert, and Dawn~L. Riddle.
+\bibitem[Burke et~al., 2004]{Burke2004a}
+Burke, J.~L., Murphy, R.~R., Coovert, M.~D., and Riddle, D.~L. (2004).
 \newblock {Moonlight in Miami: Field study of human-robot interaction in the
   context of an urban search and rescue disaster response training exercise}.
-\newblock {\em Human-Computer Interaction}, 19(1-2):85--116, 2004.
+\newblock {\em Human-Computer Interaction}, 19(1-2):85--116.
 
-\bibitem{Caldwell1996}
-Darwin~G. Caldwell, K.~Reddy, O.~Kocak, and A.~Wardle.
+\bibitem[Caldwell et~al., 1996]{Caldwell1996}
+Caldwell, D.~G., Reddy, K., Kocak, O., and Wardle, A. (1996).
 \newblock {Sensory requirements and performance assessment of tele-presence
   controlled robots}.
 \newblock In {\em IEEE International Conference on Robotics and Automation
-  (ICRA)}, pages 1375--1380, 1996.
+  (ICRA)}, pages 1375--1380.
 
-\bibitem{Caldwell1994}
-Darwin~G. Caldwell, Andrew Wardle, and Michael Goodwin.
+\bibitem[Caldwell et~al., 1994]{Caldwell1994}
+Caldwell, D.~G., Wardle, A., and Goodwin, M. (1994).
 \newblock {Tele-presence: visual, audio and tactile feedback and control of a
   twin armed mobile robot}.
 \newblock In {\em IEEE International Conference on Robotics and Automation
-  (ICRA)}, pages 244--249, 1994.
+  (ICRA)}, pages 244--249.
 
-\bibitem{Carlson2008}
-Tom Carlson and Yiannis Demiris.
+\bibitem[Carlson and Demiris, 2008]{Carlson2008}
+Carlson, T. and Demiris, Y. (2008).
 \newblock {Collaborative Control in Human Wheelchair Interaction Reduces the
   Need for Dexterity in Precise Manoeuvres}.
 \newblock In {\em Robotic Helpers: User Interaction, Interfaces and Companions
   in Assistive and Therapy Robotics, a Workshop at ACM/IEEE HRI 2008}, pages
-  59--66, 2008.
+  59--66.
 
-\bibitem{Carlson2010}
-Tom Carlson and Yiannis Demiris.
+\bibitem[Carlson and Demiris, 2010]{Carlson2010}
+Carlson, T. and Demiris, Y. (2010).
 \newblock {Increasing robotic wheelchair safety with collaborative control:
   Evidence from secondary task experiments}.
 \newblock In {\em IEEE International Conference on Robotics and Automation
-  (ICRA)}, pages 5582--5587, 2010.
+  (ICRA)}, pages 5582--5587.
 
-\bibitem{Carlson2012}
-Tom Carlson and Yiannis Demiris.
+\bibitem[Carlson and Demiris, 2012]{Carlson2012}
+Carlson, T. and Demiris, Y. (2012).
 \newblock {Collaborative control for a robotic wheelchair: evaluation of
   performance, attention, and workload.}
 \newblock {\em IEEE transactions on systems, man, and cybernetics. Part B,
-  Cybernetics}, 42(3):876--88, 2012.
+  Cybernetics}, 42(3):876--88.
 
-\bibitem{Carlson2012a}
-Tom Carlson, Robert Leeb, Ricardo Chavarriaga, and Jos{\'{e}} Del~R.
-  Mill{\'{a}}n.
+\bibitem[Carlson et~al., 2012]{Carlson2012a}
+Carlson, T., Leeb, R., Chavarriaga, R., and Mill{\'{a}}n, J. D.~R. (2012).
 \newblock {Online modulation of the level of assistance in shared control
   systems}.
 \newblock In {\em IEEE International Conference on Systems, Man and Cybernetics
-  (SMC)}, number~2, pages 3339--3344, 2012.
+  (SMC)}, number~2, pages 3339--3344.
 
-\bibitem{Casper2002}
-Jennifer~L. Casper and Robin~R. Murphy.
+\bibitem[Casper and Murphy, 2002]{Casper2002}
+Casper, J.~L. and Murphy, R.~R. (2002).
 \newblock {Workflow study on human-robot interaction in USAR}.
 \newblock In {\em IEEE International Conference on Robotics and Automation
-  (ICRA)}, volume~2, pages 1997 -- 2003 vol.2, 2002.
+  (ICRA)}, volume~2, pages 1997 -- 2003 vol.2.
 
-\bibitem{CasperMurphy911}
-Jennifer~L. Casper and Robin~R. Murphy.
+\bibitem[Casper and Murphy, 2003]{CasperMurphy911}
+Casper, J.~L. and Murphy, R.~R. (2003).
 \newblock {Human-Robot Interactions During the Robot-Assisted Urban Search and
   Rescue Response at the World Trade Center}.
 \newblock {\em IEEE Transactions on Systems, Man, and Cybernetics, Part B:
-  Cybernetics}, 33(3):367--385, 2003.
+  Cybernetics}, 33(3):367--385.
 
-\bibitem{Chen2007}
-Jessie Y.~C. Chen, Ellen~C. Haas, and Michael~J. Barnes.
+\bibitem[Chen et~al., 2007]{Chen2007}
+Chen, J. Y.~C., Haas, E.~C., and Barnes, M.~J. (2007).
 \newblock {Human Performance Issues and User Interface Design for Teleoperated
   Robots}.
 \newblock {\em Systems, Man and Cybernetics, Part C (Applications and
-  Reviews)}, 37(6):1231--1245, nov 2007.
+  Reviews)}, 37(6):1231--1245.
 
-\bibitem{Chiou2016_AAAI}
-Manolis Chiou, Goda Bieksaite, Nick Hawes, and Rustam Stolkin.
+\bibitem[Chiou et~al., 2016a]{Chiou2016_AAAI}
+Chiou, M., Bieksaite, G., Hawes, N., and Stolkin, R. (2016a).
 \newblock {Human-Initiative Variable Autonomy: An Experimental Analysis of the
   Interactions Between a Human Operator and a Remotely Operated Mobile Robot
   which also Possesses Autonomous Capabilities}.
 \newblock In {\em AAAI Fall Symposium Series: Shared Autonomy in Research and
-  Practice}, pages 304--310, 2016.
+  Practice}, pages 304--310.
 
-\bibitem{Chiou2016}
-Manolis Chiou, Goda Bieksaite, Rustam Stolkin, Nick Hawes, Kimron~L. Shapiro,
-  and Timothy~S. Harrison.
+\bibitem[Chiou et~al., 2016b]{Chiou2016}
+Chiou, M., Bieksaite, G., Stolkin, R., Hawes, N., Shapiro, K.~L., and Harrison,
+  T.~S. (2016b).
 \newblock {Experimental analysis of a variable autonomy framework for
   controlling a remotely operating mobile robot}.
 \newblock In {\em IEEE/RSJ International Conference on Intelligent Robots and
-  Systems (IROS)}, pages 3581--3588, 2016.
+  Systems (IROS)}, pages 3581--3588.
 
-\bibitem{Chiou2015}
-Manolis Chiou, Nick Hawes, Rustam Stolkin, Kimron~L. Shapiro, Jess~R. Kerlin,
-  and Andrew Clouter.
+\bibitem[Chiou et~al., 2015]{Chiou2015}
+Chiou, M., Hawes, N., Stolkin, R., Shapiro, K.~L., Kerlin, J.~R., and Clouter,
+  A. (2015).
 \newblock {Towards the Principled Study of Variable Autonomy in Mobile Robots}.
 \newblock In {\em Systems, Man, and Cybernetics (SMC), 2015 IEEE International
-  Conference on}, pages 1053--1059, 2015.
+  Conference on}, pages 1053--1059.
 
-\bibitem{Christensen2012}
-James~C. Christensen, Justin~R. Estepp, Glenn~F. Wilson, and Christopher~A.
-  Russell.
+\bibitem[Christensen et~al., 2012]{Christensen2012}
+Christensen, J.~C., Estepp, J.~R., Wilson, G.~F., and Russell, C.~A. (2012).
 \newblock {The effects of day-to-day variability of physiological data on
   operator functional state classification.}
-\newblock {\em NeuroImage}, 59(1):57--63, jan 2012.
+\newblock {\em NeuroImage}, 59(1):57--63.
 
-\bibitem{CordeLane2002}
-J.~{Corde Lane}, C.R. Carignan, B.R. Sullivan, D.L. Akin, T.~Hunt, and
-  R.~Cohen.
+\bibitem[{Corde Lane} et~al., 2002]{CordeLane2002}
+{Corde Lane}, J., Carignan, C., Sullivan, B., Akin, D., Hunt, T., and Cohen, R.
+  (2002).
 \newblock {Effects of time delay on telerobotic control of neutral buoyancy
   vehicles}.
 \newblock In {\em IEEE International Conference on Robotics and Automation
-  (ICRA)}, volume~3, pages 2874--2879, 2002.
+  (ICRA)}, volume~3, pages 2874--2879.
 
-\bibitem{Dijkstra1959}
-Edsger~W. Dijkstra.
+\bibitem[Dijkstra, 1959]{Dijkstra1959}
+Dijkstra, E.~W. (1959).
 \newblock {A note on two problems in connexion with graphs}.
-\newblock {\em Numerische Mathematik}, 1(1):269--271, 1959.
+\newblock {\em Numerische Mathematik}, 1(1):269--271.
 
-\bibitem{Dole2015}
-Lorin~D. Dole, David~M. Sirkin, Robin~R. Murphy, and Clifford~I. Nass.
+\bibitem[Dole et~al., 2015]{Dole2015}
+Dole, L.~D., Sirkin, D.~M., Murphy, R.~R., and Nass, C.~I. (2015).
 \newblock {Robots Need Humans in the Loop to Improve the Hopefulness of
   Disaster Survivors}.
 \newblock In {\em IEEE International Workshop on Robot and Human Interactive
-  Communication (RO-MAN)}, pages 707--714, 2015.
+  Communication (RO-MAN)}, pages 707--714.
 
-\bibitem{Donmez2008}
-Birsen Donmez, Patricia~E. Pina, and M.~L. Cummings.
+\bibitem[Donmez et~al., 2008]{Donmez2008}
+Donmez, B., Pina, P.~E., and Cummings, M.~L. (2008).
 \newblock {Evaluation criteria for human-automation performance metrics}.
 \newblock In {\em Proceedings of the 8th Workshop on Performance Metrics for
-  Intelligent Systems}, pages 77--82. ACM Press, 2008.
+  Intelligent Systems}, pages 77--82. ACM Press.
 
-\bibitem{Dourish1992}
-Paul Dourish and Victoria Bellotti.
+\bibitem[Dourish and Bellotti, 1992]{Dourish1992}
+Dourish, P. and Bellotti, V. (1992).
 \newblock {Awareness and coordination in shared workspaces}.
 \newblock In {\em Proceedings of the 1992 ACM conference on Computer-supported
-  cooperative work}, number November, pages 107--114. ACM New York, 1992.
+  cooperative work}, number November, pages 107--114. ACM New York.
 
-\bibitem{Drury2003}
-Jill~L. Drury, Jean~C. Scholtz, and Holly~A. Yanco.
+\bibitem[Drury et~al., 2003]{Drury2003}
+Drury, J.~L., Scholtz, J.~C., and Yanco, H.~A. (2003).
 \newblock {Awareness in Human-Robot Interactions}.
 \newblock In {\em IEEE International Conference on Systems, Man and Cybernetics
-  (SMC)}, pages 912 -- 918 vol.1, 2003.
+  (SMC)}, pages 912 -- 918 vol.1.
 
-\bibitem{Echeverria2011}
-Gilberto Echeverria, Nicolas Lassabe, Arnaud Degroote, and S{\'{e}}verin
-  Lemaignan.
+\bibitem[Echeverria et~al., 2011]{Echeverria2011}
+Echeverria, G., Lassabe, N., Degroote, A., and Lemaignan, S. (2011).
 \newblock {Modular open robots simulation engine: MORSE}.
 \newblock In {\em IEEE International Conference on Robotics and Automation
-  (ICRA)}, pages 46--51, 2011.
+  (ICRA)}, pages 46--51.
 
-\bibitem{Endsley1988}
-Mica~R. Endsley.
+\bibitem[Endsley, 1988]{Endsley1988}
+Endsley, M.~R. (1988).
 \newblock {SITUATION AWARENESS GLOBAL ASSESSMENT TECHNIQUE (SAGAT)}.
 \newblock In {\em IEEE National Aerospace and electronics conference}, pages
-  789 -- 795 vol.3, 1988.
+  789 -- 795 vol.3.
 
-\bibitem{Endsley1999}
-Mica~R. Endsley, D.~B. Kaber, D.B. {Endsley, M.R., and Kaber}, Mica~R. Endsley,
-  and D.~B. Kaber.
+\bibitem[Endsley et~al., 1999]{Endsley1999}
+Endsley, M.~R., Kaber, D.~B., {Endsley, M.R., and Kaber}, D., Endsley, M.~R.,
+  and Kaber, D.~B. (1999).
 \newblock {Level of automation effects on performance, situation awareness and
   workload in a dynamic control task}.
-\newblock {\em Ergonomics}, 42(3):462--492, 1999.
+\newblock {\em Ergonomics}, 42(3):462--492.
 
-\bibitem{Fan2007}
-Xiaocong Fan and John Yen.
+\bibitem[Fan and Yen, 2007]{Fan2007}
+Fan, X. and Yen, J. (2007).
 \newblock {Realistic cognitive load modeling for enhancing shared mental models
   in human-agent collaboration}.
 \newblock In {\em Proceedings of the 6th international joint conference on
-  Autonomous agents and multiagent systems}, pages 1--8. ACM Press, 2007.
+  Autonomous agents and multiagent systems}, pages 1--8. ACM Press.
 
-\bibitem{Farmer2003}
-Eric Farmer and Adam Brownson.
+\bibitem[Farmer and Brownson, 2003]{Farmer2003}
+Farmer, E. and Brownson, A. (2003).
 \newblock {Review of workload measurement, analysis and interpretation
   methods}.
 \newblock {\em European Organisation for the Safety of Air Navigation},
-  33:1--33, 2003.
+  33:1--33.
 
-\bibitem{Ferrell1965}
-William~R. Ferrell.
+\bibitem[Ferrell, 1965]{Ferrell1965}
+Ferrell, W.~R. (1965).
 \newblock {Remote manipulation with transmission delay}.
-\newblock HFE-6(1):24--32, 1965.
+\newblock HFE-6(1):24--32.
 
-\bibitem{Few2006}
-Douglas~A. Few, David~J. Bruemmer, and Miles Walton.
+\bibitem[Few et~al., 2006]{Few2006}
+Few, D.~A., Bruemmer, D.~J., and Walton, M. (2006).
 \newblock {Improved Human-Robot Teaming through Facilitated Initiative}.
 \newblock In {\em IEEE International Symposium on Robot and Human Interactive
-  Communication (RO-MAN)}, pages 171--176, sep 2006.
+  Communication (RO-MAN)}, pages 171--176.
 
-\bibitem{Finzi2005}
-Alberto Finzi and Andrea Orlandini.
+\bibitem[Finzi and Orlandini, 2005]{Finzi2005}
+Finzi, A. and Orlandini, A. (2005).
 \newblock {Human-Robot Interaction through Mixed-Initiative Planning for Rescue
   and Search Rovers}.
 \newblock In {\em Congress of the Italian Association for Artificial
-  Intelligence}, pages 483--494, 2005.
+  Intelligence}, pages 483--494.
 
-\bibitem{Fong2001a}
-Terrence Fong, Charles Thorpe, and Charles Baur.
+\bibitem[Fong et~al., 2001]{Fong2001a}
+Fong, T., Thorpe, C., and Baur, C. (2001).
 \newblock {A safeguarded teleoperation controller}.
 \newblock In {\em IEEE International Conference on Advanced Robotics (ICAR)},
-  number No. LSRO2-CONF-2001-002, 2001.
+  number No. LSRO2-CONF-2001-002.
 
-\bibitem{Fong2003}
-Terrence Fong, Charles Thorpe, and Charles Baur.
+\bibitem[Fong et~al., 2003]{Fong2003}
+Fong, T., Thorpe, C., and Baur, C. (2003).
 \newblock {Robot, asker of questions}.
-\newblock {\em Robotics and Autonomous Systems}, 42(3-4):235--243, 2003.
+\newblock {\em Robotics and Autonomous Systems}, 42(3-4):235--243.
 
-\bibitem{dwa_planner}
-Dieter Fox, Wolfram Burgard, and Sebastian Thrun.
+\bibitem[Fox et~al., 1997]{dwa_planner}
+Fox, D., Burgard, W., and Thrun, S. (1997).
 \newblock {The dynamic window approach to collision avoidance}.
-\newblock {\em IEEE Robotics {\&} Automation Magazine}, 4(1):22--33, 1997.
+\newblock {\em IEEE Robotics {\&} Automation Magazine}, 4(1):22--33.
 
-\bibitem{Ganis2015}
-Giorgio Ganis and Rogier Kievit.
+\bibitem[Ganis and Kievit, 2015]{Ganis2015}
+Ganis, G. and Kievit, R. (2015).
 \newblock {A New Set of Three-Dimensional Shapes for Investigating Mental
   Rotation Processes : Validation Data and Stimulus Set}.
-\newblock {\em Journal of Open Psychology Data}, 3(1), 2015.
+\newblock {\em Journal of Open Psychology Data}, 3(1).
 
-\bibitem{Goodrich2007b}
-Michael~A. Goodrich, Timothy~W. McLain, Jeffrey~D. Anderson, Jisang Sun, and
-  Jacob~W. Crandall.
+\bibitem[Goodrich et~al., 2007]{Goodrich2007b}
+Goodrich, M.~A., McLain, T.~W., Anderson, J.~D., Sun, J., and Crandall, J.~W.
+  (2007).
 \newblock {Managing autonomy in robot teams: observations from four
   experiments}.
 \newblock In {\em Proceedings of the ACM/IEEE international conference on
-  Human-robot interaction (HRI)}, pages 25--32, 2007.
+  Human-robot interaction (HRI)}, pages 25--32.
 
-\bibitem{Goodrich2003}
-Michael~A. Goodrich and Dan~R. Olsen.
+\bibitem[Goodrich and Olsen, 2003]{Goodrich2003}
+Goodrich, M.~A. and Olsen, D.~R. (2003).
 \newblock {Seven principles of efficient human robot interaction}.
 \newblock In {\em IEEE International Conference on Systems, Man and Cybernetics
-  (SMC)}, volume~4, pages 3942--3948, 2003.
+  (SMC)}, volume~4, pages 3942--3948.
 
-\bibitem{Goodrich2001}
-Michael~A. Goodrich, Dan~R. {Olsen Jr.}, Jacob~W. Crandall, and Thomas~J.
-  Palmer.
+\bibitem[Goodrich et~al., 2001]{Goodrich2001}
+Goodrich, M.~A., {Olsen Jr.}, D.~R., Crandall, J.~W., and Palmer, T.~J. (2001).
 \newblock {Experiments in Adjustable Autonomy}.
 \newblock In {\em IJCAI Workshop on Autonomy, Delegation, and Control:
-  Interacting with Autonomous Agents}, pages 1624--1629, 2001.
+  Interacting with Autonomous Agents}, pages 1624--1629.
 
-\bibitem{Goodrich2007a}
-Michael~A. Goodrich and Alan~C. Schultz.
+\bibitem[Goodrich and Schultz, 2007]{Goodrich2007a}
+Goodrich, M.~A. and Schultz, A.~C. (2007).
 \newblock {Human-Robot Interaction: A Survey}.
 \newblock {\em Foundations and Trends in Human-Computer Interaction},
-  1(3):203--275, 2007.
+  1(3):203--275.
 
-\bibitem{gmapping}
-Giorgio Grisetti, Cyrill Stachniss, and Wolfram Burgard.
+\bibitem[Grisetti et~al., 2005]{gmapping}
+Grisetti, G., Stachniss, C., and Burgard, W. (2005).
 \newblock {Improving grid-based slam with rao-blackwellized particle filters by
   adaptive proposals and selective resampling}.
 \newblock In {\em IEEE International Conference on Robotics and Automation
-  (ICRA)}, pages 2432 -- 2437, 2005.
+  (ICRA)}, pages 2432 -- 2437.
 
-\bibitem{Hansson2010}
-A.~Hansson and M.~Servin.
+\bibitem[Hansson and Servin, 2010]{Hansson2010}
+Hansson, A. and Servin, M. (2010).
 \newblock {Semi-autonomous shared control of large-scale manipulator arms}.
-\newblock {\em Control Engineering Practice}, 18(9):1069--1076, 2010.
+\newblock {\em Control Engineering Practice}, 18(9):1069--1076.
 
-\bibitem{Hardin2009}
-Benjamin Hardin and Michael~A. Goodrich.
+\bibitem[Hardin and Goodrich, 2009]{Hardin2009}
+Hardin, B. and Goodrich, M.~A. (2009).
 \newblock {On Using Mixed-Initiative Control : A Perspective for Managing
   Large-Scale Robotic Teams}.
 \newblock In {\em The 4th ACM/IEEE international conference on human robot
-  interaction (HRI)}, pages 165--172, 2009.
+  interaction (HRI)}, pages 165--172.
 
-\bibitem{Hart2006}
-Sandra~G. Hart.
+\bibitem[Hart, 2006]{Hart2006}
+Hart, S.~G. (2006).
 \newblock {Nasa-task load index (NASA-TLX); 20 years later}.
 \newblock {\em Proceedings of the Human Factors and Ergonomics Society Annual
-  Meeting}, 50(9):904--908, 2006.
+  Meeting}, 50(9):904--908.
 
-\bibitem{Hart1988}
-Sandra~G. Hart and Lowell~E. Staveland.
+\bibitem[Hart and Staveland, 1988]{Hart1988}
+Hart, S.~G. and Staveland, L.~E. (1988).
 \newblock {Development of NASA-TLX (Task Load Index): Results of empirical and
   theoretical research}.
-\newblock {\em Human mental workload}, 1(3):139--183, 1988.
+\newblock {\em Human mental workload}, 1(3):139--183.
 
-\bibitem{Hokayem2006}
-Peter~F. Hokayem and Mark~W. Spong.
+\bibitem[Hokayem and Spong, 2006]{Hokayem2006}
+Hokayem, P.~F. and Spong, M.~W. (2006).
 \newblock {Bilateral teleoperation: An historical survey}.
-\newblock {\em Automatica}, 42(12):2035--2057, Dec 2006.
+\newblock {\em Automatica}, 42(12):2035--2057.
 
-\bibitem{Jacoff2003a}
-A.~Jacoff, E.~Messina, B.A. Weiss, S.~Tadokoro, and Y.~Nakagawa.
+\bibitem[Jacoff et~al., 2003]{Jacoff2003a}
+Jacoff, A., Messina, E., Weiss, B., Tadokoro, S., and Nakagawa, Y. (2003).
 \newblock {Test arenas and performance metrics for urban search and rescue
   robots}.
 \newblock In {\em IEEE/RSJ International Conference on Intelligent Robots and
-  Systems (IROS)}, volume~3, pages 3396--3403, 2003.
+  Systems (IROS)}, volume~3, pages 3396--3403.
 
-\bibitem{Jiang2015}
-Shu Jiang and Ronald~C. Arkin.
+\bibitem[Jiang and Arkin, 2015]{Jiang2015}
+Jiang, S. and Arkin, R.~C. (2015).
 \newblock {Mixed-Initiative Human-Robot Interaction : Definition , Taxonomy ,
   and Survey}.
 \newblock In {\em IEEE International Conference on Systems, Man, and
-  Cybernetics (SMC)}, pages 954--961, 2015.
+  Cybernetics (SMC)}, pages 954--961.
 
-\bibitem{kadous2005caster}
-Mohammed~Waleed Kadous, Raymond Ka-Man Sheh, and Claude Sammut.
+\bibitem[Kadous et~al., 2005]{kadous2005caster}
+Kadous, M.~W., Sheh, R. K.-M., and Sammut, C. (2005).
 \newblock {Caster: A robot for urban search and rescue}.
 \newblock In {\em Australasian Conference on Robotics and Automation}, pages
-  1--10, 2005.
+  1--10.
 
-\bibitem{Khurshid2004}
-Javaid Khurshid and Hong Bing-rong.
+\bibitem[Khurshid and Bing-rong, 2004]{Khurshid2004}
+Khurshid, J. and Bing-rong, H. (2004).
 \newblock {Military robots-a glimpse from today and tomorrow}.
 \newblock In {\em International Conference on Control, Automation, Robotics and
-  Vision}, pages 771 -- 777, 2004.
+  Vision}, pages 771 -- 777.
 
-\bibitem{Kim2004}
-T.W. Kim and J.~Yuh.
+\bibitem[Kim and Yuh, 2004]{Kim2004}
+Kim, T. and Yuh, J. (2004).
 \newblock {Development of a real-time control architecture for a
   semi-autonomous underwater vehicle for intervention missions}.
-\newblock {\em Control Engineering Practice}, 12(12):1521--1530, 2004.
+\newblock {\em Control Engineering Practice}, 12(12):1521--1530.
 
-\bibitem{Kortenkamp2000}
-David Kortenkamp, Debra Keirn-Schreckenghost, and R.~Peter Bonasso.
+\bibitem[Kortenkamp et~al., 2000]{Kortenkamp2000}
+Kortenkamp, D., Keirn-Schreckenghost, D., and Bonasso, R.~P. (2000).
 \newblock {Adjustable control autonomy for manned space flight}.
 \newblock In {\em IEEE Aerospace Conference proceedings}, volume~7, pages
-  629--640, 2000.
+  629--640.
 
-\bibitem{Kothe2011}
-Christian~A. Kothe and Scott Makeig.
+\bibitem[Kothe and Makeig, 2011]{Kothe2011}
+Kothe, C.~A. and Makeig, S. (2011).
 \newblock {Estimation of task workload from EEG data: new and current tools and
   perspectives.}
 \newblock In {\em Annual International Conference of the IEEE Engineering in
-  Medicine and Biology Society.}, volume 2011, pages 6547--51, jan 2011.
+  Medicine and Biology Society.}, volume 2011, pages 6547--51.
 
-\bibitem{Krotkov1996}
-Eric Krotkov, Reid Simmons, Fabio Cozman, and Sven Koenig.
+\bibitem[Krotkov et~al., 1996]{Krotkov1996}
+Krotkov, E., Simmons, R., Cozman, F., and Koenig, S. (1996).
 \newblock {Safeguarded teleoperation for lunar rovers: From human factors to
   field trials}.
-\newblock In {\em IEEE Planetary Rover Technology and Systems Workshop}, 1996.
+\newblock In {\em IEEE Planetary Rover Technology and Systems Workshop}.
 
-\bibitem{Kruijff2012}
-G.~J.~M. Kruijff, Janicek Miroslav, Benoit {Keshavdas, Shanker Larochelle},
-  Hendrik Zender, N.~J. J.~M. Smets, T.~Mioch, M.~A. Neerincx, J.~van Diggelen,
-  F.~Colas, M.~Liu, F.~Pomerleau, R.~Siegwart, V.~Hlavac, T.~Svoboda,
-  T.~Petrıcek, M.~Reinstein, K.~Zimmermann, F.~Pirri, M.~Gianni, P.~Papadakis,
-  A.~Sinha, P.~Balmer, N.~Tomatis, R.~Worst, T.~Linder, H.~Surmann,
-  V.~Tretyakov, S.~Corrao, S.~Pratzler-Wanczura, and M.~Sulk.
+\bibitem[Kruijff et~al., 2012]{Kruijff2012}
+Kruijff, G. J.~M., Miroslav, J., {Keshavdas, Shanker Larochelle}, B., Zender,
+  H., Smets, N. J. J.~M., Mioch, T., Neerincx, M.~A., van Diggelen, J., Colas,
+  F., Liu, M., Pomerleau, F., Siegwart, R., Hlavac, V., Svoboda, T., Petrıcek,
+  T., Reinstein, M., Zimmermann, K., Pirri, F., Gianni, M., Papadakis, P.,
+  Sinha, A., Balmer, P., Tomatis, N., Worst, R., Linder, T., Surmann, H.,
+  Tretyakov, V., Corrao, S., Pratzler-Wanczura, S., and Sulk, M. (2012).
 \newblock {Experience in system design for human-robot teaming in urban search
   {\&} rescue}.
 \newblock In {\em Proceedings of 8th International Conference on Field and
-  Service Robotics}, pages 1--14, 2012.
+  Service Robotics}, pages 1--14.
 
-\bibitem{Lichiardopol2007}
-S~Lichiardopol.
+\bibitem[Lichiardopol, 2007]{Lichiardopol2007}
+Lichiardopol, S. (2007).
 \newblock {A Survey on Teleoperation}.
 \newblock {\em Technische Universiteit Eindhoven, Department Mechanical
-  Engineering, Dynamics and Control Group}, Tech. Rep.(DCT 2007.155), 2007.
+  Engineering, Dynamics and Control Group}, Tech. Rep.(DCT 2007.155).
 
-\bibitem{Liu2013}
-Yugang Liu and Goldie Nejat.
+\bibitem[Liu and Nejat, 2013]{Liu2013}
+Liu, Y. and Nejat, G. (2013).
 \newblock {Robotic Urban Search and Rescue: A Survey from the Control
   Perspective}.
-\newblock {\em Journal of Intelligent and Robotic Systems}, 72(2):147--165, mar
-  2013.
+\newblock {\em Journal of Intelligent and Robotic Systems}, 72(2):147--165.
 
-\bibitem{fuku_blog}
-IEEE~Spectrum magazine.
+\bibitem[magazine, a]{fuku_blog}
+magazine, I.~S.
 \newblock Fukushima robot operator writes tell-all blog.
 \newblock
   \url{http://spectrum.ieee.org/automaton/robotics/industrial-robots/fukushima-robot-operator-diaries}.
 \newblock Accessed: 2016-12-22.
 
-\bibitem{fuku_science}
-Science magazine.
+\bibitem[magazine, b]{fuku_science}
+magazine, S.
 \newblock How robots are becoming critical players in nuclear disaster cleanup.
 \newblock
   \url{http://www.sciencemag.org/news/2016/03/how-robots-are-becoming-critical-players-nuclear-disaster-cleanup}.
 \newblock Accessed: 2016-12-22.
 
-\bibitem{Mamdani1975}
-E.H. Mamdani and S.~Assilian.
+\bibitem[Mamdani and Assilian, 1975]{Mamdani1975}
+Mamdani, E. and Assilian, S. (1975).
 \newblock {An experiment in linguistic synthesis with a fuzzy logic
   controller}.
-\newblock {\em International Journal of Man-Machine Studies}, 7(1):1--13, 1975.
+\newblock {\em International Journal of Man-Machine Studies}, 7(1):1--13.
 
-\bibitem{Manikonda2007}
-Vikram Manikonda, Priya Ranjan, Zachary Kulis, and Calhoun Drive.
+\bibitem[Manikonda et~al., 2007]{Manikonda2007}
+Manikonda, V., Ranjan, P., Kulis, Z., and Drive, C. (2007).
 \newblock {A Mixed Initiative Controller and Testbed for Human Robot Teams in
   Tactical Operations}.
-\newblock In {\em AAAI Fall Symposium}, pages 92--99, 2007.
+\newblock In {\em AAAI Fall Symposium}, pages 92--99.
 
-\bibitem{Mano2009}
-Hayato Mano, Kazuyuki Kon, Noritaka Sato, Masataka Ito, Hisashi Mizumoto,
-  Kiyohiro Goto, Renajit Chatterjee, and Fumitoshi Matsuno.
+\bibitem[Mano et~al., 2009]{Mano2009}
+Mano, H., Kon, K., Sato, N., Ito, M., Mizumoto, H., Goto, K., Chatterjee, R.,
+  and Matsuno, F. (2009).
 \newblock {Treaded control system for rescue robots in indoor environment}.
 \newblock In {\em IEEE International Conference on Robotics and Biomimetics},
-  pages 1836--1843, 2009.
+  pages 1836--1843.
 
-\bibitem{Marble2004}
-Julie~L. Marble, David~J. Bruemmer, Douglas~A. Few, and Donald~D. Dudenhoeffer.
+\bibitem[Marble et~al., 2004]{Marble2004}
+Marble, J.~L., Bruemmer, D.~J., Few, D.~A., and Dudenhoeffer, D.~D. (2004).
 \newblock {Evaluation of supervisory vs. peer-peer interaction with human-robot
   teams}.
 \newblock In {\em Proceedings of the 37th Hawaii International Conference on
-  System Sciences}, volume~00, pages 1--9, 2004.
+  System Sciences}, volume~00, pages 1--9.
 
-\bibitem{Marder-Eppstein2010}
-Eitan Marder-Eppstein, Eric Berger, Tully Foote, Brian Gerkey, and Kurt
-  Konolige.
+\bibitem[Marder-Eppstein et~al., 2010]{Marder-Eppstein2010}
+Marder-Eppstein, E., Berger, E., Foote, T., Gerkey, B., and Konolige, K.
+  (2010).
 \newblock {The office marathon: Robust navigation in an indoor office
   environment}.
 \newblock In {\em IEEE International Conference on Robotics and Automation
-  (ICRA)}, pages 300--307, 2010.
+  (ICRA)}, pages 300--307.
 
-\bibitem{Matheson2013}
-Adrian Matheson, Birsen Donmez, Faizan Rehmatullah, Piotr Jasiobedzki, Ho-kong
-  Ng, Vivek Panwar, and Mufan Li.
+\bibitem[Matheson et~al., 2013]{Matheson2013}
+Matheson, A., Donmez, B., Rehmatullah, F., Jasiobedzki, P., Ng, H.-k., Panwar,
+  V., and Li, M. (2013).
 \newblock {The Effects of Predictive Displays on Performance in Driving Tasks
   with Multi-Second Latency: Aiding Tele-Operation of Lunar Rovers}.
 \newblock In {\em Human Factors and Ergonomics Society Annual Meeting},
-  volume~57, pages 21--25, sep 2013.
+  volume~57, pages 21--25.
 
-\bibitem{Murphy2004}
-Robin~R. Murphy.
+\bibitem[Murphy, 2004]{Murphy2004}
+Murphy, R.~R. (2004).
 \newblock {Human-Robot Interaction in Rescue Robotics}.
 \newblock {\em IEEE Transactions on Systems, Man and Cybernetics, Part C
-  (Applications and Reviews)}, 34(2):138--153, may 2004.
+  (Applications and Reviews)}, 34(2):138--153.
 
-\bibitem{Murphy2002}
-Robin~R. Murphy, John~G. Blitch, and Jennifer~L. Casper.
+\bibitem[Murphy et~al., 2002]{Murphy2002}
+Murphy, R.~R., Blitch, J.~G., and Casper, J.~L. (2002).
 \newblock {AAAI/RoboCup-2001 Urban Search and Rescue Events: reality and
   competition}.
-\newblock {\em AI Magazine}, 23(1):37--42, 2002.
+\newblock {\em AI Magazine}, 23(1):37--42.
 
-\bibitem{Murphy2005a}
-Robin~R. Murphy and Jennifer~L. Burke.
+\bibitem[Murphy and Burke, 2005]{Murphy2005a}
+Murphy, R.~R. and Burke, J.~L. (2005).
 \newblock {Up from the Rubble: Lessons Learned about HRI from Search and
   Rescue}.
 \newblock {\em Proceedings of the Human Factors and Ergonomics Society 49th
-  Annual Meeting}, 49(3):437--441, sep 2005.
+  Annual Meeting}, 49(3):437--441.
 
-\bibitem{Nagatani2013}
-Keiji Nagatani, Seiga Kiribayashi, Yoshito Okada, Kazuki Otake, Kazuya Yoshida,
-  Takeshi Nishimura, Tomoaki Yoshida, Eiji Koyanagi, Satoshi Tadokoro, Mineo
-  Fukushima, and Shinji Kawatsuma.
+\bibitem[Nagatani et~al., 2013]{Nagatani2013}
+Nagatani, K., Kiribayashi, S., Okada, Y., Otake, K., Yoshida, K., Nishimura,
+  T., Yoshida, T., Koyanagi, E., Tadokoro, S., Fukushima, M., and Kawatsuma, S.
+  (2013).
 \newblock {Emergency Response to the Nuclear Accident at the Fukushima Daiichi
   Nuclear Power Plants using Mobile Rescue Robots}.
-\newblock {\em Journal of Field Robotics}, 30(1):44--63, 2013.
+\newblock {\em Journal of Field Robotics}, 30(1):44--63.
 
-\bibitem{Nagi2009}
-Farrukh Nagi, L.~Perumal, and J.~Nagi.
+\bibitem[Nagi et~al., 2009]{Nagi2009}
+Nagi, F., Perumal, L., and Nagi, J. (2009).
 \newblock {A new integrated fuzzy bang-bang relay control system}.
-\newblock {\em Mechatronics}, 19(5):748--760, 2009.
+\newblock {\em Mechatronics}, 19(5):748--760.
 
-\bibitem{Nielsen2008}
-Curtis~W. Nielsen, Douglas~A. Few, and Devin~S. Athey.
+\bibitem[Nielsen et~al., 2008]{Nielsen2008}
+Nielsen, C.~W., Few, D.~A., and Athey, D.~S. (2008).
 \newblock {Using mixed-initiative human-robot interaction to bound performance
   in a search task}.
 \newblock In {\em IEEE International Conference on Intelligent Sensors, Sensor
-  Networks and Information Processing}, pages 195--200, 2008.
+  Networks and Information Processing}, pages 195--200.
 
-\bibitem{Nielsen2007a}
-Curtis~W. Nielsen, Michael~A. Goodrich, and Robert~W. Ricks.
+\bibitem[Nielsen et~al., 2007]{Nielsen2007a}
+Nielsen, C.~W., Goodrich, M.~A., and Ricks, R.~W. (2007).
 \newblock {Ecological interfaces for improving mobile robot teleoperation}.
-\newblock {\em IEEE Transactions on Robotics}, 23(5):927--941, 2007.
+\newblock {\em IEEE Transactions on Robotics}, 23(5):927--941.
 
-\bibitem{Olsen2003}
-Dan~R. Olsen and Michael~A. Goodrich.
+\bibitem[Olsen and Goodrich, 2003]{Olsen2003}
+Olsen, D.~R. and Goodrich, M.~A. (2003).
 \newblock {Metrics for evaluating Human-Robot Interactions}.
-\newblock In {\em PERMIS}, 2003.
+\newblock In {\em PERMIS}.
 
-\bibitem{Parasuraman2000}
-Raja Parasuraman, Thomas~B. Sheridan, and Christopher~D. Wickens.
+\bibitem[Parasuraman et~al., 2000]{Parasuraman2000}
+Parasuraman, R., Sheridan, T.~B., and Wickens, C.~D. (2000).
 \newblock {A model for types and levels of human interaction with automation.}
 \newblock {\em IEEE transactions on systems, man, and cybernetics. Part A,
-  Systems and humans}, 30(3):286--297, 2000.
+  Systems and humans}, 30(3):286--297.
 
-\bibitem{Parikh2005}
-S.P. Parikh, Jr.~V. Grassi, V.~Kumar, and Jr.~Jun Okamoto.
+\bibitem[Parikh et~al., 2005]{Parikh2005}
+Parikh, S., Grassi, J.~V., Kumar, V., and Okamoto, J.~J. (2005).
 \newblock {Usability Study of a Control Framework for an Intelligent
   Wheelchair}.
 \newblock In {\em IEEE International Conference on Robotics and Automation
-  (ICRA)}, pages 4745--4750, 2005.
+  (ICRA)}, pages 4745--4750.
 
-\bibitem{Prinzel2003}
-Lawrence~J. Prinzel, Frederick~G. Freeman, Mark~W. Scerbo, Peter~J. Mikulka,
-  and Alan~T. Pope.
+\bibitem[Prinzel et~al., 2003]{Prinzel2003}
+Prinzel, L.~J., Freeman, F.~G., Scerbo, M.~W., Mikulka, P.~J., and Pope, A.~T.
+  (2003).
 \newblock {Effects of a Psychophysiological System for Adaptive Automation on
   Performance, Workload, and the Event-Related Potential P300 Component}.
 \newblock {\em Human Factors: The Journal of the Human Factors and Ergonomics
-  Society}, 45(4):601--613, 2003.
+  Society}, 45(4):601--613.
 
-\bibitem{Ricks2004}
-Bob Ricks, Curtis~W. Nielsen, and M~Goodrich.
+\bibitem[Ricks et~al., 2004]{Ricks2004}
+Ricks, B., Nielsen, C.~W., and Goodrich, M. (2004).
 \newblock {Ecological displays for robot interaction: a new perspective}.
 \newblock In {\em IEEE/RSJ International Conference on Intelligent Robots and
-  Systems (IROS)}, volume~3, pages 2855--2860, 2004.
+  Systems (IROS)}, volume~3, pages 2855--2860.
 
-\bibitem{Riley2006}
-Jennifer~M. Riley and Laura~D. Strater.
+\bibitem[Riley and Strater, 2006]{Riley2006}
+Riley, J.~M. and Strater, L.~D. (2006).
 \newblock {Effects of Robot Control Mode on Situation Awareness and Performance
   in a Navigation Task}.
 \newblock In {\em Proceedings of the Human Factors and Ergonomics Society
-  Annual Meeting}, volume~50, pages 540--544, 2006.
+  Annual Meeting}, volume~50, pages 540--544.
 
-\bibitem{Schaaff2009}
-Kristina Schaaff and Tanja Schultz.
+\bibitem[Schaaff and Schultz, 2009]{Schaaff2009}
+Schaaff, K. and Schultz, T. (2009).
 \newblock {Towards an EEG-based emotion recognizer for humanoid robots}.
 \newblock In {\em 18th IEEE International Symposium on Robot and Human
-  Interactive Communication}, pages 792--796, sep 2009.
+  Interactive Communication}, pages 792--796.
 
-\bibitem{Scholtz2003}
-Jean Scholtz.
+\bibitem[Scholtz, 2003]{Scholtz2003}
+Scholtz, J. (2003).
 \newblock {Theory and evaluation of human robot interactions}.
 \newblock In {\em Proceedings of the 36th Annual Hawaii International
-  Conference on System Sciences}. IEEE, 2003.
+  Conference on System Sciences}. IEEE.
 
-\bibitem{Scholtz2004a}
-Jean Scholtz, Jeff Young, Jill~L. Drury, and Holly~A. Yanco.
+\bibitem[Scholtz et~al., 2004]{Scholtz2004a}
+Scholtz, J., Young, J., Drury, J.~L., and Yanco, H.~A. (2004).
 \newblock {Evaluation of human-robot interaction awareness in search and
   rescue}.
 \newblock In {\em IEEE International Conference on Robotics and Automation
-  (ICRA)}, pages 2327--2332 Vol.3, 2004.
+  (ICRA)}, pages 2327--2332 Vol.3.
 
-\bibitem{Sellner2005}
-Brennan Sellner, Reid Simmons, and Sanjiv Singh.
+\bibitem[Sellner et~al., 2005]{Sellner2005}
+Sellner, B., Simmons, R., and Singh, S. (2005).
 \newblock {User modelling for principled sliding autonomy in human-robot
   teams}.
 \newblock In {\em Multi-Robot Systems. From Swarms to Intelligent Automata
-  Volume III}, pages 197--208. Springer Netherlands, 2005.
+  Volume III}, pages 197--208. Springer Netherlands.
 
-\bibitem{Seward2005}
-Derek~W. Seward and Mohamed~J. Bakari.
+\bibitem[Seward and Bakari, 2005]{Seward2005}
+Seward, D.~W. and Bakari, M.~J. (2005).
 \newblock {The use of robotics and automation in nuclear decommissioning}.
 \newblock In {\em 22nd International Symposium on Automation and Robotics in
-  Construction (ISARC)}, volume~44, pages 11--14, 2005.
+  Construction (ISARC)}, volume~44, pages 11--14.
 
-\bibitem{Sharek2011}
-David Sharek.
+\bibitem[Sharek, 2011]{Sharek2011}
+Sharek, D. (2011).
 \newblock {A Useable, Online NASA-TLX Tool}.
 \newblock {\em Proceedings of the Human Factors and Ergonomics Society Annual
-  Meeting}, 55(1):1375--1379, 2011.
+  Meeting}, 55(1):1375--1379.
 
-\bibitem{Ibanez-Guzman2004}
-Jian Shen, Javier Ibanez-Guzman, Teck~Chew Ng, and Boon {Seng Chew}.
+\bibitem[Shen et~al., 2004]{Ibanez-Guzman2004}
+Shen, J., Ibanez-Guzman, J., Ng, T.~C., and {Seng Chew}, B. (2004).
 \newblock {A collaborative-shared control system with safe obstacle avoidance
   capability}.
 \newblock In {\em IEEE Conference on Robotics, Automation and Mechatronics},
-  volume~1, pages 119--123, 2004.
+  volume~1, pages 119--123.
 
-\bibitem{Sheridan1989}
-Thomas~B. Sheridan.
+\bibitem[Sheridan, 1989]{Sheridan1989}
+Sheridan, T.~B. (1989).
 \newblock {Telerobotics}.
-\newblock {\em Automatica}, 25(4):487--507, 1989.
+\newblock {\em Automatica}, 25(4):487--507.
 
-\bibitem{Sheridan1993}
-Thomas~B. Sheridan.
+\bibitem[Sheridan, 1993]{Sheridan1993}
+Sheridan, T.~B. (1993).
 \newblock {Space teleoperation through time delay: review and prognosis}.
-\newblock {\em IEEE Transactions on Robotics and Automation}, 9(5):592--606,
-  1993.
+\newblock {\em IEEE Transactions on Robotics and Automation}, 9(5):592--606.
 
-\bibitem{Sheridan1995}
-Thomas~B. Sheridan.
+\bibitem[Sheridan, 1995]{Sheridan1995}
+Sheridan, T.~B. (1995).
 \newblock {Teleoperation, telerobotics and telepresence: A progress report}.
-\newblock {\em Control Engineering Practice}, 3(2):205--214, 1995.
+\newblock {\em Control Engineering Practice}, 3(2):205--214.
 
-\bibitem{Sheridan1978}
-Thomas~B. Sheridan and William~L. Verplank.
+\bibitem[Sheridan and Verplank, 1978]{Sheridan1978}
+Sheridan, T.~B. and Verplank, W.~L. (1978).
 \newblock {Human and computer control of undersea teleoperators}.
-\newblock {\em MIT Man-Machine Systems Laboratory}, 1978.
+\newblock {\em MIT Man-Machine Systems Laboratory}.
 
-\bibitem{Steinfeld2006}
-Aaron Steinfeld, Terrence Fong, David Kaber, Michael Lewis, Jean Scholtz, Alan
-  Schultz, and Michael~A. Goodrich.
+\bibitem[Steinfeld et~al., 2006]{Steinfeld2006}
+Steinfeld, A., Fong, T., Kaber, D., Lewis, M., Scholtz, J., Schultz, A., and
+  Goodrich, M.~A. (2006).
 \newblock {Common metrics for human-robot interaction}.
 \newblock In {\em 1st ACM SIGCHI/SIGART conference on Human-Robot Interaction},
-  HRI '06, pages 33--40, 2006.
+  HRI '06, pages 33--40.
 
-\bibitem{Thomas2001}
-Lisa~C. Thomas and Christopher~D. Wickens.
+\bibitem[Thomas and Wickens, 2001]{Thomas2001}
+Thomas, L.~C. and Wickens, C.~D. (2001).
 \newblock {Visual Displays and Cognitive Tunneling: Frames of Reference Effects
   on Spatial Judgments and Change Detection}.
 \newblock {\em Proceedings of the Human Factors and Ergonomics Society Annual
-  Meeting}, 45(4):336--340, 2001.
+  Meeting}, 45(4):336--340.
 
-\bibitem{Urdiales2007}
-C.~Urdiales, A.~Poncela, I.~Sanchez-Tato, F.~Galluppi, M.~Olivetti, and
-  F.~Sandoval.
+\bibitem[Urdiales et~al., 2007]{Urdiales2007}
+Urdiales, C., Poncela, A., Sanchez-Tato, I., Galluppi, F., Olivetti, M., and
+  Sandoval, F. (2007).
 \newblock {Efficiency based reactive shared control for collaborative
   human/robot navigation}.
 \newblock In {\em IEEE/RSJ International Conference on Intelligent Robots and
-  Systems (IROS)}, pages 3586--3591, 2007.
+  Systems (IROS)}, pages 3586--3591.
 
-\bibitem{Valero-Gomez2011}
-Aberto Valero-Gomez, Paloma de~la Puente, and Miguel Hernando.
+\bibitem[Valero-Gomez et~al., 2011]{Valero-Gomez2011}
+Valero-Gomez, A., de~la Puente, P., and Hernando, M. (2011).
 \newblock {Impact of Two Adjustable-Autonomy Models on the Scalability of
   Single-Human/Multiple-Robot Teams for Exploration Missions}.
 \newblock {\em Human Factors: The Journal of the Human Factors and Ergonomics
-  Society}, 53(6):703--716, 2011.
+  Society}, 53(6):703--716.
 
-\bibitem{Wen2015}
-Wen Wen, Atsushi Yamashita, and Hajime Asama.
+\bibitem[Wen et~al., 2015]{Wen2015}
+Wen, W., Yamashita, A., and Asama, H. (2015).
 \newblock {The Sense of Agency during Continuous Action: Performance Is More
   Important than Action-Feedback Association}.
-\newblock {\em Plos One}, 10(4):e0125226, 2015.
+\newblock {\em Plos One}, 10(4):e0125226.
 
-\bibitem{Wickens2002}
-Christopher~D. Wickens.
+\bibitem[Wickens, 2002]{Wickens2002}
+Wickens, C.~D. (2002).
 \newblock {Multiple resources and performance prediction}.
-\newblock {\em Theoretical issues in ergonomics science}, 3(2):159--177, 2002.
+\newblock {\em Theoretical issues in ergonomics science}, 3(2):159--177.
 
-\bibitem{Wickens2008}
-Christopher~D. Wickens.
+\bibitem[Wickens, 2008]{Wickens2008}
+Wickens, C.~D. (2008).
 \newblock {Multiple Resources and Mental Workload}.
 \newblock {\em Human Factors: The Journal of the Human Factors and Ergonomics
-  Society}, 50(3):449--455, jun 2008.
+  Society}, 50(3):449--455.
 
-\bibitem{Wilson2000}
-Glenn~F. Wilson, Jared~D. Lambert, and Chris~A. Russell.
+\bibitem[Wilson et~al., 2000]{Wilson2000}
+Wilson, G.~F., Lambert, J.~D., and Russell, C.~A. (2000).
 \newblock {Performance Enhancement with Real-Time Physiologically Controlled
   Adaptive Aiding}.
 \newblock {\em Proceedings of the Human Factors and Ergonomics Society Annual
-  Meeting}, 44(13):61--64, jul 2000.
+  Meeting}, 44(13):61--64.
 
-\bibitem{Wilson2003}
-Glenn~F. Wilson and Chris~A. Russell.
+\bibitem[Wilson and Russell, 2003a]{Wilson2003}
+Wilson, G.~F. and Russell, C.~A. (2003a).
 \newblock {Operator Functional State Classification Using Multiple
   Psychophysiological Features in an Air Traffic Control Task}.
 \newblock {\em Human Factors: The Journal of the Human Factors and Ergonomics
-  Society}, 45(3):381--389, 2003.
+  Society}, 45(3):381--389.
 
-\bibitem{Wilson2003a}
-Glenn~F. Wilson and Christopher~A. Russell.
+\bibitem[Wilson and Russell, 2003b]{Wilson2003a}
+Wilson, G.~F. and Russell, C.~A. (2003b).
 \newblock {Real-Time Assessment of Mental Workload Using Psychophysiological
   Measures and Artificial Neural Networks}.
 \newblock {\em Human Factors: The Journal of the Human Factors and Ergonomics
-  Society}, 45(4):635--643, 2003.
+  Society}, 45(4):635--643.
 
-\bibitem{Wilson2007}
-Glenn~F. Wilson and Christopher~a. Russell.
+\bibitem[Wilson and Russell, 2007]{Wilson2007}
+Wilson, G.~F. and Russell, C.~a. (2007).
 \newblock {Performance Enhancement in an Uninhabited Air Vehicle Task Using
   Psychophysiologically Determined Adaptive Aiding}.
 \newblock {\em Human Factors: The Journal of the Human Factors and Ergonomics
-  Society}, 49(6):1005--1018, dec 2007.
+  Society}, 49(6):1005--1018.
 
-\bibitem{Wyble2006a}
-Brad Wyble, Patrick Craston, and Howard Bowman.
+\bibitem[Wyble et~al., 2006]{Wyble2006a}
+Wyble, B., Craston, P., and Bowman, H. (2006).
 \newblock {Electrophysiological Feedback in Adaptive Human Computer
   Interfaces}.
 \newblock {\em Technical Report, Computing Lab, University of Kent at
-  Canterbury}, (8-06), 2006.
+  Canterbury}, (8-06).
 
-\bibitem{Yagoda2010}
-Rosemarie~E. Yagoda.
+\bibitem[Yagoda, 2010]{Yagoda2010}
+Yagoda, R.~E. (2010).
 \newblock {Development of the Human Robot Interaction Workload Measurement Tool
   (HRI-WM)}.
 \newblock {\em Proceedings of the Human Factors and Ergonomics Society Annual
-  Meeting}, 54(4):304--308, sep 2010.
+  Meeting}, 54(4):304--308.
 
-\bibitem{Yanco2006}
-HA~Yanco, Michael Baker, R~Casey, and Brenden Keyes.
+\bibitem[Yanco et~al., 2006]{Yanco2006}
+Yanco, H., Baker, M., Casey, R., and Keyes, B. (2006).
 \newblock {Analysis of human-robot interaction for urban search and rescue}.
 \newblock In {\em IEEE International Workshop on Safety, Security and Rescue
-  Robotics.}, pages 22--24, 2006.
+  Robotics.}, pages 22--24.
 
-\bibitem{Yanco2004}
-Holly Yanco, Jill Drury, and Jean Scholtz.
+\bibitem[Yanco et~al., 2004]{Yanco2004}
+Yanco, H., Drury, J., and Scholtz, J. (2004).
 \newblock {Beyond Usability Evaluation: Analysis of Human-Robot Interaction at
   a Major Robotics Competition}.
-\newblock {\em Human-Computer Interaction}, 19(1):117--149, jun 2004.
+\newblock {\em Human-Computer Interaction}, 19(1):117--149.
 
-\bibitem{Yanco2004b}
-Holly~A. Yanco and Jill Drury.
+\bibitem[Yanco and Drury, 2004a]{Yanco2004b}
+Yanco, H.~A. and Drury, J. (2004a).
 \newblock {Classifying Human-Robot Interaction: An Updated Taxonomy}.
 \newblock In {\em IEEE International Conference on Systems, Man and Cybernetics
-  (SMC)}, volume~3, pages 2841--2846, 2004.
+  (SMC)}, volume~3, pages 2841--2846.
 
-\bibitem{Yanco_HRI_SA_04}
-Holly~A. Yanco and Jill Drury.
+\bibitem[Yanco and Drury, 2004b]{Yanco_HRI_SA_04}
+Yanco, H.~A. and Drury, J. (2004b).
 \newblock {"Where am I?" Acquiring situation awareness using a remote robot
   platform}.
 \newblock In {\em IEEE International Conference on Systems, Man and Cybernetics
-  (SMC)}, volume~3, pages 2835--2840, 2004.
+  (SMC)}, volume~3, pages 2835--2840.
 
-\bibitem{Yanco2002}
-Holly~A. Yanco and Jill~L. Drury.
+\bibitem[Yanco and Drury, 2002]{Yanco2002}
+Yanco, H.~A. and Drury, J.~L. (2002).
 \newblock {A Taxonomy for Human-Robot Interaction}.
 \newblock In {\em AAAI Fall Symposium on Human-Robot Interaction}, pages
-  111--119, 2002.
+  111--119.
 
-\bibitem{Yanco2015DARPA}
-Holly~A. Yanco, Adam Norton, Willard Ober, David Shane, Anna Skinner, and Jack
-  Vice.
+\bibitem[Yanco et~al., 2015]{Yanco2015DARPA}
+Yanco, H.~A., Norton, A., Ober, W., Shane, D., Skinner, A., and Vice, J.
+  (2015).
 \newblock {Analysis of Human-robot Interaction at the DARPA Robotics Challenge
   Trials}.
-\newblock {\em Journal of Field Robotics}, 32(3):420--444, 2015.
+\newblock {\em Journal of Field Robotics}, 32(3):420--444.
 
 \end{thebibliography}
