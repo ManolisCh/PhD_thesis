@@ -42,40 +42,40 @@
 \contentsline {subsection}{\numberline {3.2.4}Discussion}{50}{subsection.3.2.4}
 \contentsline {section}{\numberline {3.3}Suggestions for future experiments}{51}{section.3.3}
 \contentsline {section}{\numberline {3.4}Conclusion and impact}{53}{section.3.4}
-\contentsline {chapter}{\numberline {4}EXPERIMENTAL ANALYSIS OF HUMAN-INITIATIVE VARIABLE AUTONOMY}{54}{chapter.4}
-\contentsline {section}{\numberline {4.1}Apparatus and robotic software}{56}{section.4.1}
-\contentsline {section}{\numberline {4.2}Experimental design and procedure}{58}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Experimental setup - operator control unit and robot test arena}{58}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Primary and secondary tasks, and experimental test modalities}{60}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Participants and procedure}{62}{subsection.4.2.3}
-\contentsline {section}{\numberline {4.3}Human-Initiative system performance analysis}{64}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Results}{64}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Discussion}{67}{subsection.4.3.2}
-\contentsline {section}{\numberline {4.4}Human-Initiative Human-Robot Interaction analysis}{69}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Results}{69}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Discussion}{71}{subsection.4.4.2}
-\contentsline {section}{\numberline {4.5}Conclusions and impact}{73}{section.4.5}
-\contentsline {chapter}{\numberline {5}DESIGN AND EVALUATION OF A MIXED-INITIATIVE CONTROL SYSTEM}{75}{chapter.5}
-\contentsline {section}{\numberline {5.1}Framework for designing an expert-guided Mixed-Initiative robotic system}{77}{section.5.1}
-\contentsline {section}{\numberline {5.2}Designing the expert-guided Mixed-Initiative controller for navigation}{79}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Threshold Mixed-Initiative controller}{80}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Fuzzy Mixed-Initiative controller}{83}{subsection.5.2.2}
-\contentsline {section}{\numberline {5.3}Evaluation using a simulated robot and test environment}{88}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Results: tasks performance}{89}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Results: Human-Robot-Interaction}{92}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}Discussion}{94}{subsection.5.3.3}
-\contentsline {section}{\numberline {5.4}Evaluation using real robot and test environment}{96}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}Experimental setup - apparatus, robot test arena, and control modes}{97}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Tasks and performance degradation factors}{99}{subsection.5.4.2}
-\contentsline {subsection}{\numberline {5.4.3}Participants and experimental design}{103}{subsection.5.4.3}
-\contentsline {subsubsection}{\numberline {5.4.3.1}Results}{105}{subsubsection.5.4.3.1}
-\contentsline {subsubsection}{\numberline {5.4.3.2}Discussion}{108}{subsubsection.5.4.3.2}
-\contentsline {section}{\numberline {5.5}Conclusion and impact}{112}{section.5.5}
-\contentsline {chapter}{\numberline {6}CONCLUSIONS AND FUTURE WORK}{114}{chapter.6}
-\contentsline {section}{\numberline {6.1}Contributions}{115}{section.6.1}
-\contentsline {section}{\numberline {6.2}Future work}{119}{section.6.2}
-\contentsline {section}{\numberline {6.3}Closing thoughts}{121}{section.6.3}
-\contentsline {chapter}{References}{123}{chapter*.41}
-\contentsline {chapter}{Appendices}{138}{section*.42}
-\contentsline {chapter}{\numberline {A}STATISTICS}{139}{Appendix.a.A}
-\contentsline {section}{\numberline {A.1}Statistical methods}{139}{section.a.A.1}
+\contentsline {chapter}{\numberline {4}EXPERIMENTAL ANALYSIS OF HUMAN-INITIATIVE VARIABLE AUTONOMY}{55}{chapter.4}
+\contentsline {section}{\numberline {4.1}Apparatus and robotic software}{57}{section.4.1}
+\contentsline {section}{\numberline {4.2}Experimental design and procedure}{59}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Experimental setup - operator control unit and robot test arena}{59}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Primary and secondary tasks, and experimental test modalities}{61}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Participants and procedure}{63}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Human-Initiative system performance analysis}{65}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Results}{65}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Discussion}{68}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}Human-Initiative Human-Robot Interaction analysis}{70}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Results}{70}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Discussion}{72}{subsection.4.4.2}
+\contentsline {section}{\numberline {4.5}Conclusions and impact}{74}{section.4.5}
+\contentsline {chapter}{\numberline {5}DESIGN AND EVALUATION OF A MIXED-INITIATIVE CONTROL SYSTEM}{76}{chapter.5}
+\contentsline {section}{\numberline {5.1}Framework for designing an expert-guided Mixed-Initiative robotic system}{78}{section.5.1}
+\contentsline {section}{\numberline {5.2}Designing the expert-guided Mixed-Initiative controller for navigation}{80}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Threshold Mixed-Initiative controller}{81}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Fuzzy Mixed-Initiative controller}{84}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Evaluation using a simulated robot and test environment}{89}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Results: tasks performance}{90}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Results: Human-Robot-Interaction}{93}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Discussion}{95}{subsection.5.3.3}
+\contentsline {section}{\numberline {5.4}Evaluation using real robot and test environment}{97}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Experimental setup - apparatus, robot test arena, and control modes}{98}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Tasks and performance degradation factors}{100}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}Participants and experimental design}{104}{subsection.5.4.3}
+\contentsline {subsubsection}{\numberline {5.4.3.1}Results}{106}{subsubsection.5.4.3.1}
+\contentsline {subsubsection}{\numberline {5.4.3.2}Discussion}{109}{subsubsection.5.4.3.2}
+\contentsline {section}{\numberline {5.5}Conclusion and impact}{113}{section.5.5}
+\contentsline {chapter}{\numberline {6}CONCLUSIONS AND FUTURE WORK}{115}{chapter.6}
+\contentsline {section}{\numberline {6.1}Contributions}{116}{section.6.1}
+\contentsline {section}{\numberline {6.2}Future work}{120}{section.6.2}
+\contentsline {section}{\numberline {6.3}Closing thoughts}{122}{section.6.3}
+\contentsline {chapter}{References}{124}{chapter*.41}
+\contentsline {chapter}{Appendices}{139}{section*.42}
+\contentsline {chapter}{\numberline {A}STATISTICS}{140}{Appendix.a.A}
+\contentsline {section}{\numberline {A.1}Statistical methods}{140}{section.a.A.1}
