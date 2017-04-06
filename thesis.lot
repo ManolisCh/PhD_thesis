@@ -2,9 +2,13 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces MUST ADD CAPTION!\relax }}{50}{table.caption.12}
 \addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces My caption\relax }}{69}{table.caption.21}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {5.1}{\ignorespaces The fuzzy rule base.\relax }}{88}{table.caption.25}
-\contentsline {table}{\numberline {5.2}{\ignorespaces The fuzzy membership functions for linguistic values of input variables "error" and "speed" (see Fig. \ref {fig:fuzzy_input}). For "error", trapezoid membership functions have been used. For "speed" membership functions, two trapezoid for "reverse" and "forward" and one triangular for "zero", were used. The values and membership functions were heuristically chosen in order to smoothly overlap throughout the universe of discourse. This is a common practice when designing fuzzy controllers. The membership function for "error large" was chosen based on the error threshold calculated in Section \ref {chapter5:threshold_controller}.\relax }}{88}{table.caption.26}
+\contentsline {table}{\numberline {5.1}{\ignorespaces The fuzzy rule base.\relax }}{88}{table.caption.27}
+\contentsline {table}{\numberline {5.2}{\ignorespaces The fuzzy membership functions for linguistic values of input variables "error" and "speed" (see Fig. \ref {fig:fuzzy_input}). For "error", trapezoid membership functions have been used. For "speed" membership functions, two trapezoid for "reverse" and "forward" and one triangular for "zero", were used. The values and membership functions were heuristically chosen in order to smoothly overlap throughout the universe of discourse. This is a common practice when designing fuzzy controllers. The membership function for "error large" was chosen based on the error threshold calculated in Section \ref {chapter5:threshold_controller}.\relax }}{88}{table.caption.28}
+\contentsline {table}{\numberline {5.3}{\ignorespaces My caption\relax }}{93}{table.caption.31}
+\contentsline {table}{\numberline {5.4}{\ignorespaces My caption\relax }}{106}{table.caption.40}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
